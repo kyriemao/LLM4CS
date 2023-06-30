@@ -139,3 +139,9 @@ Evaluation results that contains the following three files will be output into `
 - `res.trec`: detailed TREC-style search results. 
 
 
+## Results:
+We provide some results of REW on CAsT-19 in `results/cast19/REW` and `results/cast19/COT+REW` for Case Study mentioned in Appendix B.1. 
+We also provide a part of human evaluation results on CAsT-21 in `results/cast21_human_evaluation.part.json` for Case Study mentioned in Appendix B.2.
+
+All results will be provided upon acceptance.
+
