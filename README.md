@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## 📑 Data
 
-1. We provide the preprocessed cast19 and cast20 datasets in the `datasets` folder.
+1. We provide the preprocessed cast19,20,21 datasets in the `datasets` folder.
 
 2. `demonstrations.json` contains four exemplars randomly sampled from the CAsT-22 dataset. We manually write CoT for all of its turns.
 
