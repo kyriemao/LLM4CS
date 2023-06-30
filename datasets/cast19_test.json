@@ -1,0 +1,3126 @@
+[
+    {
+        "conv_id": 31,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is throat cancer?",
+                "response": "",
+                "manual_rewrite": "What is throat cancer?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Is it treatable?",
+                "response": "",
+                "manual_rewrite": "Is throat cancer treatable?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me about lung cancer.",
+                "response": "",
+                "manual_rewrite": "Tell me about lung cancer."
+            },
+            {
+                "turn_id": 4,
+                "question": "What are its symptoms? ",
+                "response": "",
+                "manual_rewrite": "What are lung cancer's symptoms?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can it spread to the throat?",
+                "response": "",
+                "manual_rewrite": "Can lung cancer spread to the throat?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What causes throat cancer?",
+                "response": "",
+                "manual_rewrite": "What causes throat cancer?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the first sign of it?",
+                "response": "",
+                "manual_rewrite": "What is the first sign of throat cancer?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Is it the same as esophageal cancer?",
+                "response": "",
+                "manual_rewrite": "Is throat cancer the same as esophageal cancer?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What's the difference in their symptoms?",
+                "response": "",
+                "manual_rewrite": "What's the difference in throat cancer and esophageal cancer's symptoms?"
+            }
+        ]
+    },
+    {
+        "conv_id": 32,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the different types of sharks?",
+                "response": "",
+                "manual_rewrite": "What are the different types of sharks?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Are sharks endangered?  If so, which species?",
+                "response": "",
+                "manual_rewrite": "Are sharks endangered? If so, which species?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me more about tiger sharks.",
+                "response": "",
+                "manual_rewrite": "Tell me more about tiger sharks."
+            },
+            {
+                "turn_id": 4,
+                "question": "What is the largest ever to have lived on Earth?",
+                "response": "",
+                "manual_rewrite": "What is the largest shark ever to have lived on Earth?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What's the biggest ever caught?",
+                "response": "",
+                "manual_rewrite": "What's the biggest shark ever caught?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What about for great whites?",
+                "response": "",
+                "manual_rewrite": "What about for great whites?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Tell me about makos.",
+                "response": "",
+                "manual_rewrite": "Tell me about Mako sharks."
+            },
+            {
+                "turn_id": 8,
+                "question": "What are their adaptations?",
+                "response": "",
+                "manual_rewrite": "What are Mako shark adaptations?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Where do they live?",
+                "response": "",
+                "manual_rewrite": "Where do Mako sharks live?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What do they eat?",
+                "response": "",
+                "manual_rewrite": "What do Mako sharks eat?"
+            },
+            {
+                "turn_id": 11,
+                "question": "How do they compare with tigers for being dangerous?",
+                "response": "",
+                "manual_rewrite": "How do Mako sharks compare with Tiger sharks for being dangerous?"
+            }
+        ]
+    },
+    {
+        "conv_id": 33,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about the Neverending Story film.",
+                "response": "",
+                "manual_rewrite": "Tell me about the Neverending Story film."
+            },
+            {
+                "turn_id": 2,
+                "question": "What is it about?",
+                "response": "",
+                "manual_rewrite": "What is the Neverending Story film about?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How was it received?",
+                "response": "",
+                "manual_rewrite": "How was the Neverending Story film received?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Did it win any awards?",
+                "response": "",
+                "manual_rewrite": "Did the Neverending Story film win any awards?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Was it a book first?",
+                "response": "",
+                "manual_rewrite": "Was the Neverending Story film a book first?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Who was the author and when what it published?",
+                "response": "",
+                "manual_rewrite": "Who was the author and when was the Neverending Story film published?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are the main themes?",
+                "response": "",
+                "manual_rewrite": "What are the main themes of the Neverending Story film?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Who are the main characters?",
+                "response": "",
+                "manual_rewrite": "Who are the main characters of the the Neverending Story film?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are the differences between the book and movies?",
+                "response": "",
+                "manual_rewrite": "What are the differences between the book and movies of the the Neverending Story?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Did the horse Artax really die?",
+                "response": "",
+                "manual_rewrite": "Did the horse Artax really die?"
+            }
+        ]
+    },
+    {
+        "conv_id": 34,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about the Bronze Age collapse.",
+                "response": "",
+                "manual_rewrite": "Tell me about the Bronze Age collapse."
+            },
+            {
+                "turn_id": 2,
+                "question": "What is the evidence for it?",
+                "response": "",
+                "manual_rewrite": "What is the evidence for the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are some of the possible causes?",
+                "response": "",
+                "manual_rewrite": "What are some of the possible causes of the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Who were the Sea Peoples?",
+                "response": "",
+                "manual_rewrite": "Who were the Sea Peoples during the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What was their role in it?",
+                "response": "",
+                "manual_rewrite": "What was their role in the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What other factors led to a breakdown of trade?",
+                "response": "",
+                "manual_rewrite": "What other factors led to a breakdown of trade during the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What about environmental factors?",
+                "response": "",
+                "manual_rewrite": "What about environmental factors during the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What empires survived?",
+                "response": "",
+                "manual_rewrite": "What empires survived the Bronze Age collapse?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What came after it?",
+                "response": "",
+                "manual_rewrite": "What came after the Bronze Age collapse?"
+            }
+        ]
+    },
+    {
+        "conv_id": 35,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about the history of toilets.",
+                "response": "",
+                "manual_rewrite": "Tell me about the history of toilets."
+            },
+            {
+                "turn_id": 2,
+                "question": "Where does the term come from?",
+                "response": "",
+                "manual_rewrite": "Where does the term toilet come from?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Where and when was the first invented?",
+                "response": "",
+                "manual_rewrite": "Where and when was the first toilet invented?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Why do the Brits call it a loo?",
+                "response": "",
+                "manual_rewrite": "Why do the Brits call a toilet a loo?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What came before them?",
+                "response": "",
+                "manual_rewrite": "What came before toilets?"
+            },
+            {
+                "turn_id": 6,
+                "question": "When did indoor versions become common?",
+                "response": "",
+                "manual_rewrite": "When did indoor versions of toilets become common?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How many types are there?",
+                "response": "",
+                "manual_rewrite": "How many types of toilets are there?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Why are they so important for society?",
+                "response": "",
+                "manual_rewrite": "Why are toilets so important for society?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What is their role in film?",
+                "response": "",
+                "manual_rewrite": "What is the role of toilets in film?"
+            }
+        ]
+    },
+    {
+        "conv_id": 36,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the US Electoral College?",
+                "response": "",
+                "manual_rewrite": "What is the US Electoral College?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How does it work?",
+                "response": "",
+                "manual_rewrite": "How does the US Electoral College work?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me about its creation.",
+                "response": "",
+                "manual_rewrite": "Tell me about the US Electoral College creation."
+            },
+            {
+                "turn_id": 4,
+                "question": "Why was the system chosen?",
+                "response": "",
+                "manual_rewrite": "Why was the US Electoral College system chosen?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How has it changed over time?",
+                "response": "",
+                "manual_rewrite": "How has the US Electoral College changed over time?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What if the electors don't vote for the pledged candidate?",
+                "response": "",
+                "manual_rewrite": "What if the electors don't vote for the pledged candidate?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How has this changed election outcomes?",
+                "response": "",
+                "manual_rewrite": "How have electors that don't vote for the pledged candidate changed election outcomes?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Who are the Hamilton Electors and what were they trying to do?",
+                "response": "",
+                "manual_rewrite": "Who are the Hamilton Electors and what were the Hamilton Electors trying to do?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How would the College be abolished?",
+                "response": "",
+                "manual_rewrite": "How would the US Electoral College be abolished?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How does the National Popular Vote Interstate Compact work?",
+                "response": "",
+                "manual_rewrite": "How does the National Popular Vote Interstate Compact work?"
+            },
+            {
+                "turn_id": 11,
+                "question": "Is it legal?",
+                "response": "",
+                "manual_rewrite": "Is the National Popular Vote Interstate Compact legal?"
+            }
+        ]
+    },
+    {
+        "conv_id": 37,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What was the Stanford Experiment?",
+                "response": "",
+                "manual_rewrite": "What was the Stanford Experiment?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What did it show?",
+                "response": "",
+                "manual_rewrite": "What did the Stanford Experiment show?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me about the author of the experiment.",
+                "response": "",
+                "manual_rewrite": "Tell me about the author of the Stanford Experiment."
+            },
+            {
+                "turn_id": 4,
+                "question": "Was it ethical?",
+                "response": "",
+                "manual_rewrite": "Was the Stanford Experiment ethical?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are other similar experiments?",
+                "response": "",
+                "manual_rewrite": "What are other similar experiments to the Stanford Experiment?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What happened in the Milgram experiment?",
+                "response": "",
+                "manual_rewrite": "What happened in the Milgram experiment?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Why was it important?",
+                "response": "",
+                "manual_rewrite": "Why was the Milgram experiment important?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What were the similarities and differences between the studies?",
+                "response": "",
+                "manual_rewrite": "What were the similarities and differences between the Stanford Experiment and the Milgram experiment?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What about the BBC experiment?",
+                "response": "",
+                "manual_rewrite": "What about the BBC experiment?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What are the key findings?",
+                "response": "",
+                "manual_rewrite": "What are the key findings of the BBC experiment?"
+            },
+            {
+                "turn_id": 11,
+                "question": "How did the results differ?",
+                "response": "",
+                "manual_rewrite": "How did the results of the BBC experiment differ from the Milgram experiment?"
+            },
+            {
+                "turn_id": 12,
+                "question": "Why was it ended?",
+                "response": "",
+                "manual_rewrite": "Why was the BBC experiment ended?"
+            }
+        ]
+    },
+    {
+        "conv_id": 38,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is Lyme disease?",
+                "response": "",
+                "manual_rewrite": "What is Lyme disease?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How do you get Lyme Disease?",
+                "response": "",
+                "manual_rewrite": "How do you get Lyme Disease?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it make you feel?",
+                "response": "",
+                "manual_rewrite": "How does Lyme Disease make you feel?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What happens if it goes untreated?",
+                "response": "",
+                "manual_rewrite": "What happens if Lyme Disease goes untreated?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can it kill you?",
+                "response": "",
+                "manual_rewrite": "Can Lyme Disease kill you?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How reliable is the test?",
+                "response": "",
+                "manual_rewrite": "How reliable is the Lyme Disease test?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Can it be cured?",
+                "response": "",
+                "manual_rewrite": "Can Lyme Disease be cured?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is Chronic Lyme?",
+                "response": "",
+                "manual_rewrite": "What is Chronic Lyme?"
+            }
+        ]
+    },
+    {
+        "conv_id": 39,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What does it mean to be a vegan?",
+                "response": "",
+                "manual_rewrite": "What does it mean to be a vegan?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is the environmental argument for it?",
+                "response": "",
+                "manual_rewrite": "What is the environmental argument for being a vegan?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Do you need milk for strong bones?",
+                "response": "",
+                "manual_rewrite": "Do you need milk for strong bones?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are other good sources of calcium?",
+                "response": "",
+                "manual_rewrite": "What are other good sources of calcium besides milk?"
+            },
+            {
+                "turn_id": 5,
+                "question": "If you don't eat any meat, at all, is it bad for you?",
+                "response": "",
+                "manual_rewrite": "If you don't eat any meat, at all, is it bad for you?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are good sources of vitamin B12?",
+                "response": "",
+                "manual_rewrite": "What are good sources of vitamin B12?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Does it help you lose weight?",
+                "response": "",
+                "manual_rewrite": "Does being vegan help you lose weight?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What about its health effects versus being vegetarian?",
+                "response": "",
+                "manual_rewrite": "What about the health effects of being vegan versus being vegetarian?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How does the environmental impact compare between them?",
+                "response": "",
+                "manual_rewrite": "How does the environmental impact compare between being vegan and being vegetarian?"
+            }
+        ]
+    },
+    {
+        "conv_id": 40,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the origins of popular music? ",
+                "response": "",
+                "manual_rewrite": "What are the origins of popular music?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are its characteristics?",
+                "response": "",
+                "manual_rewrite": "What are popular music's characteristics?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What technological developments enabled it?",
+                "response": "",
+                "manual_rewrite": "What technological developments enabled popular music?"
+            },
+            {
+                "turn_id": 4,
+                "question": "When and why did people start taking pop seriously? ",
+                "response": "",
+                "manual_rewrite": "When and why did people start taking pop music seriously?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How has it been integrated into music education? ",
+                "response": "",
+                "manual_rewrite": "How has pop music been integrated into music education?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Describe some of the influential pop bands. ",
+                "response": "",
+                "manual_rewrite": "Describe some of the influential pop bands."
+            },
+            {
+                "turn_id": 7,
+                "question": "What makes a song pop punk?",
+                "response": "",
+                "manual_rewrite": "What makes a song pop punk?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the difference between it and emo?",
+                "response": "",
+                "manual_rewrite": "What is the difference between pop punk and emo?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How did Britpop change music?",
+                "response": "",
+                "manual_rewrite": "How did Britpop change music?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What are its roots and what influenced it?",
+                "response": "",
+                "manual_rewrite": "What are Britpop's roots and what influenced it?"
+            }
+        ]
+    },
+    {
+        "conv_id": 41,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why is the drinking age in the US 21 and not 18?",
+                "response": "",
+                "manual_rewrite": "Why is the drinking age in the US 21 and not 18?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What were the pros and cons?",
+                "response": "",
+                "manual_rewrite": "What were the pros and cons of the the drinking age in the US 21 being and not 18?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me about the negative health effects of drinking.",
+                "response": "",
+                "manual_rewrite": "Tell me about the negative health effects of drinking."
+            },
+            {
+                "turn_id": 4,
+                "question": "How does binge drinking affect development?",
+                "response": "",
+                "manual_rewrite": "How does binge drinking affect development?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can it damage mental health?",
+                "response": "",
+                "manual_rewrite": "Can binge drinking damage mental health?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are the short and long-term effects of usage on brain chemicals?",
+                "response": "",
+                "manual_rewrite": "What are the short and long-term effects of binge drinking on brain chemicals?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Are alcoholics generally depressed?",
+                "response": "",
+                "manual_rewrite": "Are alcoholics generally depressed?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are the effects on vitamins and minerals?",
+                "response": "",
+                "manual_rewrite": "What are the effects on vitamins and minerals on binge drinking?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Are there any benefits?",
+                "response": "",
+                "manual_rewrite": "Are there any benefits to binge drinking?"
+            }
+        ]
+    },
+    {
+        "conv_id": 42,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is Chattanooga famous for?",
+                "response": "",
+                "manual_rewrite": "What is Chattanooga famous for?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is there to do in downtown Chattanooga?",
+                "response": "",
+                "manual_rewrite": "What is there to do in downtown Chattanooga?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Are there tourism activities related to trucks or trains?",
+                "response": "",
+                "manual_rewrite": "Are there tourism activities related to trucks or trains in Chattanooga?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Are there any related to Bessie Smith?",
+                "response": "",
+                "manual_rewrite": "Are there tourism activities related to Bessie Smith in Chattanooga?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can I visit some nearby distilleries?",
+                "response": "",
+                "manual_rewrite": "Can I visit some nearby distilleries around Chattanooga?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is Rock City, and why is it famous?",
+                "response": "",
+                "manual_rewrite": "What is Rock City in Chattanooga, and why is it famous?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Are special events held there?",
+                "response": "",
+                "manual_rewrite": "Are special events held at Rock City in Chattanooga?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What kind of food is Chattanooga known for?",
+                "response": "",
+                "manual_rewrite": "What kind of food is Chattanooga known for?"
+            }
+        ]
+    },
+    {
+        "conv_id": 43,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are some interesting things around Ann Arbor?",
+                "response": "",
+                "manual_rewrite": "What are some interesting things around Ann Arbor?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me about when the city was founded. ",
+                "response": "",
+                "manual_rewrite": "Tell me about when the city of Ann Arbor was founded."
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it relate to the establishment of the University? ",
+                "response": "",
+                "manual_rewrite": "How does the founding of the city of Ann Arbor relate to the establishment of the University?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Does the Museum of Art have any special collections?",
+                "response": "",
+                "manual_rewrite": "Does the Museum of Art in Ann Arbor have any special collections?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the South Pond Nature Area?",
+                "response": "",
+                "manual_rewrite": "What is the South Pond Nature Area in Ann Arbor?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Are there any film festivals?",
+                "response": "",
+                "manual_rewrite": "Are there any film festivals in Ann Arbor?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How about for jazz?",
+                "response": "",
+                "manual_rewrite": "How about for jazz festivals in Ann Arbor?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are popular bars or clubs where I can listen to it?",
+                "response": "",
+                "manual_rewrite": "What are popular bars or clubs where I can listen to jazz in Ann Arbor?"
+            }
+        ]
+    },
+    {
+        "conv_id": 44,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What causes acidic reflux in the morning?",
+                "response": "",
+                "manual_rewrite": "What causes acidic reflux in the morning?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Does it have long term side effects?",
+                "response": "",
+                "manual_rewrite": "Does acidic reflux in the morning have long term side effects?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is the best OTC for it?",
+                "response": "",
+                "manual_rewrite": "What is the best OTC for acidic reflux in the morning?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the side effects of long term PPI use?",
+                "response": "",
+                "manual_rewrite": "What are the side effects of long term PPI use?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me about natural treatments.",
+                "response": "",
+                "manual_rewrite": "Tell me about natural treatments for acid reflux in the morning."
+            },
+            {
+                "turn_id": 6,
+                "question": "What foods cause it?",
+                "response": "",
+                "manual_rewrite": "What foods cause acidic reflux in the morning?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What ones reduce it? ",
+                "response": "",
+                "manual_rewrite": "What ones reduce acidic reflux in the morning?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How does exercise affect it?",
+                "response": "",
+                "manual_rewrite": "How does exercise affect acidic reflux in the morning?"
+            }
+        ]
+    },
+    {
+        "conv_id": 45,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What dog breed is the best for playing?",
+                "response": "",
+                "manual_rewrite": "What dog breed is the best for playing?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What kind should I get if I\u2019m allergic?",
+                "response": "",
+                "manual_rewrite": "What kind of dog breed should I get if I\u2019m allergic?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How about big and active dogs?",
+                "response": "",
+                "manual_rewrite": "How about big and active dogs?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Do big dogs live longer than small dogs?",
+                "response": "",
+                "manual_rewrite": "Do big dogs live longer than small dogs?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Will I need to put a lot of time into training?",
+                "response": "",
+                "manual_rewrite": "Will I need to put a lot of time into training a dog?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me about some breeds that are independent and can be left home all day.",
+                "response": "",
+                "manual_rewrite": "Tell me about some dog breeds that are independent and can be left home all day."
+            },
+            {
+                "turn_id": 7,
+                "question": "How much does a Irish Wolfhound weigh?",
+                "response": "",
+                "manual_rewrite": "How much does a Irish Wolfhound weigh?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How much do they cost?",
+                "response": "",
+                "manual_rewrite": "How much do Irish Wolfhounds cost?"
+            }
+        ]
+    },
+    {
+        "conv_id": 46,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why is learning a second language difficult?",
+                "response": "",
+                "manual_rewrite": "Why is learning a second language difficult?"
+            },
+            {
+                "turn_id": 2,
+                "question": "At what age is it harder and why?",
+                "response": "",
+                "manual_rewrite": "At what age is learning a second language harder and why?"
+            },
+            {
+                "turn_id": 3,
+                "question": "If I already know English, which language would be the easiest to learn?",
+                "response": "",
+                "manual_rewrite": "If I already know English, which language would be the easiest to learn?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How can I begin learning Norwegian?",
+                "response": "",
+                "manual_rewrite": "How can I begin learning Norwegian as a second language?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Is it easier to learn than Spanish?",
+                "response": "",
+                "manual_rewrite": "Is Norwegian easier to learn than Spanish?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What other languages are closest to it?",
+                "response": "",
+                "manual_rewrite": "What other languages are closest to Norwegian?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Describe some of its similarities with Danish.",
+                "response": "",
+                "manual_rewrite": "Describe some of Norwegian's similarities with Danish."
+            },
+            {
+                "turn_id": 8,
+                "question": "How did all these languages evolve?",
+                "response": "",
+                "manual_rewrite": "How did the English, Spanish, Norwegian, and Danish languages evolve?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How is it related to Old Norse?",
+                "response": "",
+                "manual_rewrite": "How is Germanic related to Old Norse?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Are there advantages of knowing multiple languages?",
+                "response": "",
+                "manual_rewrite": "Are there advantages of knowing multiple languages?"
+            }
+        ]
+    },
+    {
+        "conv_id": 47,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why is Boise called the city of trees?",
+                "response": "",
+                "manual_rewrite": "Why is Boise called the city of trees?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How did it get its name?",
+                "response": "",
+                "manual_rewrite": "How did Boise get its name?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is there to do in the summer?",
+                "response": "",
+                "manual_rewrite": "What is there to do in the summer in Boise?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are popular hiking trails? ",
+                "response": "",
+                "manual_rewrite": "What are popular hiking trails in Boise?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me about the Oregon Trail Reserve.",
+                "response": "",
+                "manual_rewrite": "Tell me about the Oregon Trail Reserve in Boise."
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me about the history of the Boise Greenbelt.",
+                "response": "",
+                "manual_rewrite": "Tell me about the history of the Boise Greenbelt."
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the controversy around it?",
+                "response": "",
+                "manual_rewrite": "What is the controversy around the Boise Greenbelt?"
+            }
+        ]
+    },
+    {
+        "conv_id": 48,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the main function of a virtual machine?",
+                "response": "",
+                "manual_rewrite": "What is the main function of a virtual machine?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are its advantages?",
+                "response": "",
+                "manual_rewrite": "What are a virtual machine's advantages?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Describe some of its disadvantages.",
+                "response": "",
+                "manual_rewrite": "Describe some of a virtual machine's disadvantages."
+            },
+            {
+                "turn_id": 4,
+                "question": "How do they work?",
+                "response": "",
+                "manual_rewrite": "How do virtual machines work?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are the main types of VMs?",
+                "response": "",
+                "manual_rewrite": "What are the main types of Virtual Machines?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is their role in cloud computing?",
+                "response": "",
+                "manual_rewrite": "What is the role of virtual machines in cloud computing?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How is a container different?",
+                "response": "",
+                "manual_rewrite": "How is a container different than a virtual machine?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the advantage of Docker?",
+                "response": "",
+                "manual_rewrite": "What is the advantage of Docker?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How is it related Kurbenetes?",
+                "response": "",
+                "manual_rewrite": "How is Docker related Kurbenetes?"
+            }
+        ]
+    },
+    {
+        "conv_id": 49,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How was Netflix started? ",
+                "response": "",
+                "manual_rewrite": "How was Netflix started?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How did it originally work?",
+                "response": "",
+                "manual_rewrite": "How did Netflix originally work?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is its relationship with Blockbuster?",
+                "response": "",
+                "manual_rewrite": "What is Netflix's relationship with Blockbuster?"
+            },
+            {
+                "turn_id": 4,
+                "question": "When did Netflix shift from DVDs to a streaming service?",
+                "response": "",
+                "manual_rewrite": "When did Netflix shift from DVDs to a streaming service?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are its other competitors? ",
+                "response": "",
+                "manual_rewrite": "What are Netflix's other competitors than Blockbuster?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How does it compare to Amazon Prime Video?",
+                "response": "",
+                "manual_rewrite": "How does Netflix compare to Amazon Prime Video?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Describe it\u2019s subscriber growth over time.",
+                "response": "",
+                "manual_rewrite": "Describe Netflix's subscriber growth over time."
+            },
+            {
+                "turn_id": 8,
+                "question": "How has it changed the way TV is watched?",
+                "response": "",
+                "manual_rewrite": "How has Netflix changed the way TV is watched?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How has it impacted society?",
+                "response": "",
+                "manual_rewrite": "How has Netflix impacted society?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How about dating and relationships? ",
+                "response": "",
+                "manual_rewrite": "How has Netflix impacted dating and relationships?"
+            }
+        ]
+    },
+    {
+        "conv_id": 50,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What was the first artificial satellite?",
+                "response": "",
+                "manual_rewrite": "What was the first artificial satellite?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are the types of orbits?",
+                "response": "",
+                "manual_rewrite": "What are the types of satellite orbits?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are the important classes of satellite?",
+                "response": "",
+                "manual_rewrite": "What are the important classes of artificial satellites?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How do navigation systems work?",
+                "response": "",
+                "manual_rewrite": "How do satellite navigation systems work?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the Galileo system and why is it important?",
+                "response": "",
+                "manual_rewrite": "What is the Galileo system and why is it important?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Why did it create tension with the US?",
+                "response": "",
+                "manual_rewrite": "Why did the Galileo system create tension with the US?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are Cubesats?",
+                "response": "",
+                "manual_rewrite": "What are Cubesats?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are their advantages? ",
+                "response": "",
+                "manual_rewrite": "What are Cubesats' advantages?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are they used for?",
+                "response": "",
+                "manual_rewrite": "What are Cubesats used for?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is their future?",
+                "response": "",
+                "manual_rewrite": "What is Cubesats' future?"
+            }
+        ]
+    },
+    {
+        "conv_id": 51,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How do I save for a child\u2019s college education in the US?",
+                "response": "",
+                "manual_rewrite": "How do I save for a child\u2019s college education in the US?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is a 529 plan?",
+                "response": "",
+                "manual_rewrite": "What is a 529 plan?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it work?",
+                "response": "",
+                "manual_rewrite": "How does a 529 plan work?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the main advantages?",
+                "response": "",
+                "manual_rewrite": "What are the main advantages of a 529 plan?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What about disadvantages?",
+                "response": "",
+                "manual_rewrite": "What about disadvantages of a 529 plan?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How long have they been around?",
+                "response": "",
+                "manual_rewrite": "How long have 529 plans been around?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are the types of plans?",
+                "response": "",
+                "manual_rewrite": "What are the types of 529 plans?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What can the funds be used for?",
+                "response": "",
+                "manual_rewrite": "What can the 529 plans funds be used for?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What happens if it\u2019s not used?",
+                "response": "",
+                "manual_rewrite": "What happens if the 529 plans funds are not used?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How does a ESA compare?",
+                "response": "",
+                "manual_rewrite": "How does a ESA compare to a a 529 plan?"
+            }
+        ]
+    },
+    {
+        "conv_id": 52,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Describe the Afra tanker scale.",
+                "response": "",
+                "manual_rewrite": "Describe the Afra tanker scale."
+            },
+            {
+                "turn_id": 2,
+                "question": "Why was it developed?",
+                "response": "",
+                "manual_rewrite": "Why was the Afra tanker scale developed?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are supertankers?",
+                "response": "",
+                "manual_rewrite": "What are supertankers?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Describe their invention.",
+                "response": "",
+                "manual_rewrite": "Describe supertankers' invention."
+            },
+            {
+                "turn_id": 5,
+                "question": "What are the important factors led to their development?",
+                "response": "",
+                "manual_rewrite": "What are the important factors led to supertankers' development?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What was the role of the Six-Day War?",
+                "response": "",
+                "manual_rewrite": "What was the role of the Six-Day War in supertankers' development?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How many barrels can a VLCC ship carry?",
+                "response": "",
+                "manual_rewrite": "How many barrels can a VLCC ship carry?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the largest in the world?",
+                "response": "",
+                "manual_rewrite": "What is the largest VLCC ship in the world?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What new problem did increased scale create?",
+                "response": "",
+                "manual_rewrite": "What new problem did increased scale create for VLCC ships?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Describe crude oil washing.",
+                "response": "",
+                "manual_rewrite": "Describe crude oil washing for supertankers."
+            }
+        ]
+    },
+    {
+        "conv_id": 53,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Is Red Bull bad for you?",
+                "response": "",
+                "manual_rewrite": "Is Red Bull bad for you?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Can it kill you?",
+                "response": "",
+                "manual_rewrite": "Can Red Bull kill you?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How much can you drink in a day?",
+                "response": "",
+                "manual_rewrite": "How much Red Bull can you drink in a day?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is taurine?",
+                "response": "",
+                "manual_rewrite": "What is taurine?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are its health effects?",
+                "response": "",
+                "manual_rewrite": "What are taurine's health effects?"
+            },
+            {
+                "turn_id": 6,
+                "question": "In general, what are the effects of consuming energy drinks?",
+                "response": "",
+                "manual_rewrite": "In general, what are the effects of consuming energy drinks?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Why are they harmful when mixed with alcohol?",
+                "response": "",
+                "manual_rewrite": "Why are energy drinks harmful when mixed with alcohol?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the argument for their age restriction to kids?",
+                "response": "",
+                "manual_rewrite": "What is the argument for energy drinks age restriction to kids?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Where are they banned to minors?",
+                "response": "",
+                "manual_rewrite": "Where are energy drinks banned to minors?"
+            }
+        ]
+    },
+    {
+        "conv_id": 54,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is worth seeing in Washington D.C.?",
+                "response": "",
+                "manual_rewrite": "What is worth seeing in Washington D.C.?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Which Smithsonian museums are the most popular?",
+                "response": "",
+                "manual_rewrite": "Which Smithsonian museums in Washington D.C. are the most popular?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Why is the National Air and Space Museum important?",
+                "response": "",
+                "manual_rewrite": "Why is the National Air and Space Museum important?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Is the Spy Museum free?",
+                "response": "",
+                "manual_rewrite": "Is the Spy Museum in Washington D.C. free?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is there to do in DC after the museums close?",
+                "response": "",
+                "manual_rewrite": "What is there to do in Washington D.C. after the museums close?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the best time to visit the reflecting pools?",
+                "response": "",
+                "manual_rewrite": "What is the best time to visit the reflecting pools in Washington D.C.?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Are there any famous foods?",
+                "response": "",
+                "manual_rewrite": "Are there any famous foods in Washington D.C.?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is a DC half smoke?",
+                "response": "",
+                "manual_rewrite": "What is a DC half smoke?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Tell me about its history.",
+                "response": "",
+                "manual_rewrite": "Tell me about DC half smoke's history."
+            }
+        ]
+    },
+    {
+        "conv_id": 55,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Describe the oceanic crust.",
+                "response": "",
+                "manual_rewrite": "Describe the oceanic crust."
+            },
+            {
+                "turn_id": 2,
+                "question": "What are the main layers?",
+                "response": "",
+                "manual_rewrite": "What are the main layers in the oceanic crust?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it differ from the continental crust?",
+                "response": "",
+                "manual_rewrite": "How does the oceanic crust differ from the continental crust?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Which is younger and why?",
+                "response": "",
+                "manual_rewrite": "Which of the oceanic crust and the continental crust is younger and why?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Where is the youngest oceanic found?",
+                "response": "",
+                "manual_rewrite": "Where is the youngest oceanic crust found?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What about the oldest?",
+                "response": "",
+                "manual_rewrite": "Where is the oldest oceanic crust found?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is seafloor spreading?",
+                "response": "",
+                "manual_rewrite": "What is seafloor spreading?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is its significance?",
+                "response": "",
+                "manual_rewrite": "What is the significance of seafloor spreading?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How is ocean crust formed?",
+                "response": "",
+                "manual_rewrite": "How is ocean crust formed?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Is it being recycled?",
+                "response": "",
+                "manual_rewrite": "Is ocean crust being recycled?"
+            }
+        ]
+    },
+    {
+        "conv_id": 56,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is Darwin\u2019s theory in a nutshell?",
+                "response": "",
+                "manual_rewrite": "What is Darwin\u2019s theory in a nutshell?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How was it developed? ",
+                "response": "",
+                "manual_rewrite": "How was Darwin\u2019s theory developed?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How do sexual and asexual reproduction affect it?",
+                "response": "",
+                "manual_rewrite": "How do sexual and asexual reproduction affect Darwin\u2019s theory?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How can fossils be used to understand it?",
+                "response": "",
+                "manual_rewrite": "How can fossils be used to understand Darwin\u2019s theory?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is modern evidence for it? ",
+                "response": "",
+                "manual_rewrite": "What is modern evidence for Darwin\u2019s theory?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the impact on modern biology?",
+                "response": "",
+                "manual_rewrite": "What is the impact of Darwin\u2019s theory on modern biology?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Compare and contrast microevolution and macroevolution.",
+                "response": "",
+                "manual_rewrite": "Compare and contrast microevolution and macroevolution."
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the relationship to speciation?",
+                "response": "",
+                "manual_rewrite": "What is the relationship of Darwin's theory to speciation?"
+            }
+        ]
+    },
+    {
+        "conv_id": 57,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How can you tell if someone is suffering from depression?",
+                "response": "",
+                "manual_rewrite": "How can you tell if someone is suffering from depression?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are common types?",
+                "response": "",
+                "manual_rewrite": "What are common types of depression?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What causes it?",
+                "response": "",
+                "manual_rewrite": "What causes depression?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is the role of brain chemicals?",
+                "response": "",
+                "manual_rewrite": "What is the role of brain chemicals in depression?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Does a lack of sunlight cause it?",
+                "response": "",
+                "manual_rewrite": "Does a lack of sunlight cause depression?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How can you treat SAD?",
+                "response": "",
+                "manual_rewrite": "How can you treat SAD?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the role of melatonin?",
+                "response": "",
+                "manual_rewrite": "What is the role of melatonin in SAD?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How are anxiety and depression related?",
+                "response": "",
+                "manual_rewrite": "How are anxiety and depression related?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What treatments exist for depression?",
+                "response": "",
+                "manual_rewrite": "What treatments exist for depression?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is CBT and how does it work?",
+                "response": "",
+                "manual_rewrite": "What is CBT and how does it work as a treatment for depression?"
+            }
+        ]
+    },
+    {
+        "conv_id": 58,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is a real-time database?",
+                "response": "",
+                "manual_rewrite": "What is a real-time database?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How does it differ from traditional ones?",
+                "response": "",
+                "manual_rewrite": "How does a real-time database differ from traditional databases?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are the advantages of real-time processing?",
+                "response": "",
+                "manual_rewrite": "What are the advantages of real-time processing in real-time databases?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are examples of important ones?",
+                "response": "",
+                "manual_rewrite": "What are examples of important real-time databases?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are important applications?",
+                "response": "",
+                "manual_rewrite": "What are important applications of real-time databases?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are important cloud options?",
+                "response": "",
+                "manual_rewrite": "What are important cloud options for real-time databases?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Tell me about the Firebase DB.",
+                "response": "",
+                "manual_rewrite": "Tell me about the Firebase DB."
+            },
+            {
+                "turn_id": 8,
+                "question": "How is it used in mobile apps?",
+                "response": "",
+                "manual_rewrite": "How is Firebase DB used in mobile apps?"
+            }
+        ]
+    },
+    {
+        "conv_id": 59,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Which weekend sports have the most injuries?",
+                "response": "",
+                "manual_rewrite": "Which weekend sports have the most injuries?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are the most common types of injuries? ",
+                "response": "",
+                "manual_rewrite": "What are the most common types of injuries?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is the ACL?",
+                "response": "",
+                "manual_rewrite": "What is the ACL?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is an injury for it?",
+                "response": "",
+                "manual_rewrite": "What is an injury for the ACL?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me about the RICE method.",
+                "response": "",
+                "manual_rewrite": "Tell me about the RICE method."
+            },
+            {
+                "turn_id": 6,
+                "question": "Is there disagreement about it?",
+                "response": "",
+                "manual_rewrite": "Is there disagreement about the RICE method?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is arnica used for?",
+                "response": "",
+                "manual_rewrite": "What is arnica used for in sports injuries?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are some ways to avoid injury?",
+                "response": "",
+                "manual_rewrite": "What are some ways to avoid sports injuries?"
+            }
+        ]
+    },
+    {
+        "conv_id": 60,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about the benefits of yoga.",
+                "response": "",
+                "manual_rewrite": "Tell me about the benefits of yoga."
+            },
+            {
+                "turn_id": 2,
+                "question": "Does it help in reducing stress?",
+                "response": "",
+                "manual_rewrite": "Does yoga help in reducing stress?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are some of the main types?",
+                "response": "",
+                "manual_rewrite": "What are some of the main types of yoga?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What type is best for losing weight?",
+                "response": "",
+                "manual_rewrite": "What type of yoga is best for losing weight?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are common poses in Bikram yoga?",
+                "response": "",
+                "manual_rewrite": "What are common poses in Bikram yoga?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Why is mindful breathing important?",
+                "response": "",
+                "manual_rewrite": "Why is mindful breathing important in yoga?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Does it help relieve asthma?",
+                "response": "",
+                "manual_rewrite": "Does mindful breathing help relieve asthma?"
+            }
+        ]
+    },
+    {
+        "conv_id": 61,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Who are The Avengers?",
+                "response": "",
+                "manual_rewrite": "Who are The Avengers?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me about their first appearance.",
+                "response": "",
+                "manual_rewrite": "Tell me about The Avengers' first appearance."
+            },
+            {
+                "turn_id": 3,
+                "question": "Who is the most powerful and why? ",
+                "response": "",
+                "manual_rewrite": "Who is the most powerful of The Avengers and why?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is the relationship of Spider-Man to the team?",
+                "response": "",
+                "manual_rewrite": "What is the relationship of Spider-Man to The Avengers?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Why is Batman not a member? ",
+                "response": "",
+                "manual_rewrite": "Why is Batman not a member of The Avengers?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is an important team in the DC universe? ",
+                "response": "",
+                "manual_rewrite": "What is an important team in the DC universe?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Tell me about the origins of the Justice League.",
+                "response": "",
+                "manual_rewrite": "Tell me about the origins of the Justice League in the DC universe."
+            },
+            {
+                "turn_id": 8,
+                "question": "Who are the important members?",
+                "response": "",
+                "manual_rewrite": "Who are the important members of the Justice League?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Which team came first?",
+                "response": "",
+                "manual_rewrite": "Did the Justice League or The Avengers come first?"
+            }
+        ]
+    },
+    {
+        "conv_id": 62,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the Surrealism movement in art?",
+                "response": "",
+                "manual_rewrite": "What is the Surrealism movement in art?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are its characteristics?",
+                "response": "",
+                "manual_rewrite": "What are characteristics of the Surrealism movement?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me about its founding.",
+                "response": "",
+                "manual_rewrite": "Tell me about the Surrealism movement's founding."
+            },
+            {
+                "turn_id": 4,
+                "question": "Tell me about the series of manifestos.",
+                "response": "",
+                "manual_rewrite": "Tell me about the series of manifestos in the Surrealism movement."
+            },
+            {
+                "turn_id": 5,
+                "question": "How is it different from Dada?",
+                "response": "",
+                "manual_rewrite": "How is Surrealism movement different from Dada?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is its importance?",
+                "response": "",
+                "manual_rewrite": "What is the importance of the Surrealism movement?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Who are the most famous artists? ",
+                "response": "",
+                "manual_rewrite": "Who are the most famous artists in the Surrealism movement?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Why did Dali choose surrealism?",
+                "response": "",
+                "manual_rewrite": "Why did Dali choose surrealism?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are his most iconic works?",
+                "response": "",
+                "manual_rewrite": "What are Dali's most iconic works?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Is it still used today?",
+                "response": "",
+                "manual_rewrite": "Is the Surrealism movement in art still used today?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What has its impact been on other fields?",
+                "response": "",
+                "manual_rewrite": "What has been the Surrealism movement's impact on other fields?"
+            }
+        ]
+    },
+    {
+        "conv_id": 63,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is blockchain?",
+                "response": "",
+                "manual_rewrite": "What is blockchain?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What problem does it solve?",
+                "response": "",
+                "manual_rewrite": "What problem does blockchain solve?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it work?",
+                "response": "",
+                "manual_rewrite": "How does blockchain work?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the types of networks?",
+                "response": "",
+                "manual_rewrite": "What are the types of blockchain networks?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me about its invention.",
+                "response": "",
+                "manual_rewrite": "Tell me about blockchain's invention."
+            },
+            {
+                "turn_id": 6,
+                "question": "How is it related to cryptocurrencies?",
+                "response": "",
+                "manual_rewrite": "How is blockchain related to cryptocurrencies?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How is Bitcoin generated? ",
+                "response": "",
+                "manual_rewrite": "How is Bitcoin generated?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How secure is blockchain?",
+                "response": "",
+                "manual_rewrite": "How secure is blockchain?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are its other uses in business?",
+                "response": "",
+                "manual_rewrite": "What are blockchain's other uses in business?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What are the implications for society?",
+                "response": "",
+                "manual_rewrite": "What are the implications of blockchain for society?"
+            }
+        ]
+    },
+    {
+        "conv_id": 64,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the types of pork ribs?",
+                "response": "",
+                "manual_rewrite": "What are the types of pork ribs?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are baby backs?",
+                "response": "",
+                "manual_rewrite": "What are baby back pork ribs?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are the differences with spareribs?",
+                "response": "",
+                "manual_rewrite": "What are the differences between baby back ribs and spareribs?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are ways to cook them? ",
+                "response": "",
+                "manual_rewrite": "What are ways to cook pork ribs?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How about on the bbq?",
+                "response": "",
+                "manual_rewrite": "How do you cook pork ribs on the bbq?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Describe the 321 method.",
+                "response": "",
+                "manual_rewrite": "Describe the 321 method of cooking pork ribs"
+            },
+            {
+                "turn_id": 7,
+                "question": "How long do they take to smoke?",
+                "response": "",
+                "manual_rewrite": "How long do pork ribs take to smoke?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How do you know when they are done?",
+                "response": "",
+                "manual_rewrite": "How do you know when pork ribs are done smoking?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What is in a typical rub?",
+                "response": "",
+                "manual_rewrite": "What is in a typical pork rib bbq rub?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What\u2019s the best style of sauce for them? ",
+                "response": "",
+                "manual_rewrite": "What\u2019s the best style of sauce for pork ribs?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What\u2019s in Kansas City style sauce?",
+                "response": "",
+                "manual_rewrite": "What\u2019s in Kansas City style BBQ sauce?"
+            }
+        ]
+    },
+    {
+        "conv_id": 65,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is nominal GDP?",
+                "response": "",
+                "manual_rewrite": "What is nominal GDP?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Why is it not a good measure?",
+                "response": "",
+                "manual_rewrite": "Why is nominal GDP not a good measure?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is the difference with real?",
+                "response": "",
+                "manual_rewrite": "What is the between nominal and real GDP?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How is it related to gross national income?",
+                "response": "",
+                "manual_rewrite": "How is nominal GDP related to gross national income?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the meaning of GNI?",
+                "response": "",
+                "manual_rewrite": "What is the meaning of GNI?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How is inflation affected by high GDP growth? ",
+                "response": "",
+                "manual_rewrite": "How is inflation affected by high GDP growth?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the relationship between inflation and unemployment?",
+                "response": "",
+                "manual_rewrite": "What is the relationship between inflation and unemployment?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is frictional unemployment and why is it important?",
+                "response": "",
+                "manual_rewrite": "What is frictional unemployment and why is it important?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Is it bad for the economy?",
+                "response": "",
+                "manual_rewrite": "Is frictional unemployment bad for the economy?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How can the government reduce its level?",
+                "response": "",
+                "manual_rewrite": "How can the government reduce the level of frictional unemployment?"
+            }
+        ]
+    },
+    {
+        "conv_id": 66,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about lavender plants.",
+                "response": "",
+                "manual_rewrite": "Tell me about lavender plants."
+            },
+            {
+                "turn_id": 2,
+                "question": "What are the different types?",
+                "response": "",
+                "manual_rewrite": "What are the different types of lavender plants?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What places are famous for them?",
+                "response": "",
+                "manual_rewrite": "What places are famous for lavender plants?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Are they safe to eat?",
+                "response": "",
+                "manual_rewrite": "Are lavender plants safe to eat?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What variety is best for cooking?",
+                "response": "",
+                "manual_rewrite": "What variety of lavender is best for cooking?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How is it used? ",
+                "response": "",
+                "manual_rewrite": "How is lavender used in cooking?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is it good with?",
+                "response": "",
+                "manual_rewrite": "What foods is lavender good for cooking with?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are the health benefits of its oil?",
+                "response": "",
+                "manual_rewrite": "What are the health benefits of lavender oil?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Are there any side effects?",
+                "response": "",
+                "manual_rewrite": "Are there any side effects of lavender oil?"
+            }
+        ]
+    },
+    {
+        "conv_id": 67,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why is blood red?",
+                "response": "",
+                "manual_rewrite": "Why is blood red?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are red blood cells?",
+                "response": "",
+                "manual_rewrite": "What are red blood cells?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How are they created?",
+                "response": "",
+                "manual_rewrite": "How are red blood cells created?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How is oxygen transported?",
+                "response": "",
+                "manual_rewrite": "How is oxygen transported in blood?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is anemia?",
+                "response": "",
+                "manual_rewrite": "What is anemia?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are the symptoms?",
+                "response": "",
+                "manual_rewrite": "What are the symptoms of anemia?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Can it go away?",
+                "response": "",
+                "manual_rewrite": "Can anemia go away?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are its possible causes?",
+                "response": "",
+                "manual_rewrite": "What are anemia's possible causes?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How is it treated?",
+                "response": "",
+                "manual_rewrite": "How is anemia treated?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What foods contain high levels of iron?",
+                "response": "",
+                "manual_rewrite": "What foods contain high levels of iron?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What improves absorption?",
+                "response": "",
+                "manual_rewrite": "What improves iron absorption?"
+            }
+        ]
+    },
+    {
+        "conv_id": 68,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is cuisine is Emilia-Romagna famous for?",
+                "response": "",
+                "manual_rewrite": "What is cuisine is Emilia-Romagna famous for?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me about cooking schools and classes.",
+                "response": "",
+                "manual_rewrite": "Tell me about cooking schools and classes in Emilia-Romagna."
+            },
+            {
+                "turn_id": 3,
+                "question": "What are famous foods from the region?",
+                "response": "",
+                "manual_rewrite": "What are famous foods from Emilia-Romagna?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Describe the traditional process for making balsamic vinegar?",
+                "response": "",
+                "manual_rewrite": "Describe the traditional process for making balsamic vinegar."
+            },
+            {
+                "turn_id": 5,
+                "question": "What is mortadella and where is it from?",
+                "response": "",
+                "manual_rewrite": "What is mortadella and where is it from?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What\u2019s the difference with Bologna?",
+                "response": "",
+                "manual_rewrite": "What\u2019s the difference between mortadella and bologna?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Where was Parmesan cheese created?",
+                "response": "",
+                "manual_rewrite": "Where was Parmesan cheese created?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is done with the whey after production?",
+                "response": "",
+                "manual_rewrite": "What is done with the whey after production of Parmesan cheese?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are typical pasta dishes?",
+                "response": "",
+                "manual_rewrite": "What are typical pasta dishes from Emilia-Romagna?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is the history of tagliatelle al ragu bolognese?",
+                "response": "",
+                "manual_rewrite": "What is the history of tagliatelle al ragu bolognese?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What are its common variations?",
+                "response": "",
+                "manual_rewrite": "What are common variations of tagliatelle al ragu bolognese?"
+            }
+        ]
+    },
+    {
+        "conv_id": 69,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How do you sleep after jet lag?",
+                "response": "",
+                "manual_rewrite": "How do you sleep after jet lag?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Does melatonin help?",
+                "response": "",
+                "manual_rewrite": "Does melatonin help with jet lag?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How was it discovered?",
+                "response": "",
+                "manual_rewrite": "How was melatonin discovered?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are good sources in food?",
+                "response": "",
+                "manual_rewrite": "What are good sources of melatonin in food?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Is melatonin bad for you?",
+                "response": "",
+                "manual_rewrite": "Is melatonin bad for you?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are the side effects?",
+                "response": "",
+                "manual_rewrite": "What are the side effects of melatonin?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Why does it require a prescription in the UK?",
+                "response": "",
+                "manual_rewrite": "Why does melatonin require a prescription in the UK?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How can I increase my levels naturally?",
+                "response": "",
+                "manual_rewrite": "How can I increase my melatonin levels naturally?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Is it effective for treating insomnia?",
+                "response": "",
+                "manual_rewrite": "Is melatonin effective for treating insomnia?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How about for anxiety?",
+                "response": "",
+                "manual_rewrite": "How about melatonin's effect for anxiety?"
+            }
+        ]
+    },
+    {
+        "conv_id": 70,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is solar energy?",
+                "response": "",
+                "manual_rewrite": "What is solar energy?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are its main uses?",
+                "response": "",
+                "manual_rewrite": "What are the main uses of solar energy?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Why is it important?",
+                "response": "",
+                "manual_rewrite": "Why is solar energy important?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are advantages of solar energy?",
+                "response": "",
+                "manual_rewrite": "What are advantages of solar energy?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the cost of solar power?",
+                "response": "",
+                "manual_rewrite": "What is the cost of solar power?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How is being used in rural Africa?",
+                "response": "",
+                "manual_rewrite": "How is solar power being used in rural Africa?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Tell me more about solar cookers work.",
+                "response": "",
+                "manual_rewrite": "Tell me about how solar cookers work."
+            },
+            {
+                "turn_id": 8,
+                "question": "How is solar used in architecture?",
+                "response": "",
+                "manual_rewrite": "How is solar energy used in architecture?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are important projects? ",
+                "response": "",
+                "manual_rewrite": "What are important architecture projects using solar energy?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Can it be used to power cars?",
+                "response": "",
+                "manual_rewrite": "Can solar energy be used to power cars?"
+            }
+        ]
+    },
+    {
+        "conv_id": 71,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are mammals?",
+                "response": "",
+                "manual_rewrite": "What are mammals?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are their key characteristics?",
+                "response": "",
+                "manual_rewrite": "What are mammals' key characteristics?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How many legs do they have?",
+                "response": "",
+                "manual_rewrite": "How many legs do mammals have?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is the largest one on land?",
+                "response": "",
+                "manual_rewrite": "What is the largest mammal on land?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the largest in the world?",
+                "response": "",
+                "manual_rewrite": "What is the largest mammal in the world?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What about in the UK?",
+                "response": "",
+                "manual_rewrite": "What is the largest mammal in the UK?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What about the largest to ever walk the earth?",
+                "response": "",
+                "manual_rewrite": "What about the largest mammal to ever walk the earth?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Tell me about Blue whales. ",
+                "response": "",
+                "manual_rewrite": "Tell me about Blue whales."
+            },
+            {
+                "turn_id": 9,
+                "question": "How much do they weigh?",
+                "response": "",
+                "manual_rewrite": "How much do Blue whales weigh?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Where do they live?",
+                "response": "",
+                "manual_rewrite": "Where do blue whales live?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What do they eat?",
+                "response": "",
+                "manual_rewrite": "What do blue whales eat?"
+            },
+            {
+                "turn_id": 12,
+                "question": "Where can we see them?",
+                "response": "",
+                "manual_rewrite": "Where can we see blue whales?"
+            }
+        ]
+    },
+    {
+        "conv_id": 72,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What do Spanish people do on Christmas day?",
+                "response": "",
+                "manual_rewrite": "What do Spanish people do on Christmas day?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What do they eat for dinner?",
+                "response": "",
+                "manual_rewrite": "What do Spanish people eat for Christmas dinner?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How about on Christmas eve?",
+                "response": "",
+                "manual_rewrite": "What do Spanish people eat on Christmas eve?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is the Christmas Lottery?",
+                "response": "",
+                "manual_rewrite": "What is the Spanish Christmas Lottery?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How does the drawing work?",
+                "response": "",
+                "manual_rewrite": "How does the Spanish Christmas Lottery drawing work?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How are the tickets sold?",
+                "response": "",
+                "manual_rewrite": "How are the Spanish Christmas Lottery tickets sold?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is Ti\u00f3 de Nadal?",
+                "response": "",
+                "manual_rewrite": "What is Ti\u00f3 de Nadal?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How did this tradition start?",
+                "response": "",
+                "manual_rewrite": "How did the tradition of Ti\u00f3 de Nadal start?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How do they celebrate Three Kings Day?",
+                "response": "",
+                "manual_rewrite": "How do Spanish people celebrate Three Kings Day?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What cakes are traditional?",
+                "response": "",
+                "manual_rewrite": "What Spanish cakes are traditional for Three Kings Day?"
+            }
+        ]
+    },
+    {
+        "conv_id": 73,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Who is the most successful pirate of all time?",
+                "response": "",
+                "manual_rewrite": "Who is the most successful pirate of all time?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Who is the most famous female?",
+                "response": "",
+                "manual_rewrite": "Who is the most famous female pirate?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me more about Ching Shih.",
+                "response": "",
+                "manual_rewrite": "Tell me more about Ching Shih."
+            },
+            {
+                "turn_id": 4,
+                "question": "What were her code of laws?",
+                "response": "",
+                "manual_rewrite": "What were Ching Shih's code of laws?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How did she die?",
+                "response": "",
+                "manual_rewrite": "How did Ching Shih die?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Who was Anne Bonny?",
+                "response": "",
+                "manual_rewrite": "Who was Anne Bonny?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What was she famous for?",
+                "response": "",
+                "manual_rewrite": "What was Anne Bonny famous for?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Who was she married to?",
+                "response": "",
+                "manual_rewrite": "Who was Anne Bonny married to?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How did Calico Jack die?",
+                "response": "",
+                "manual_rewrite": "How did Calico Jack die?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What happened to Anne?",
+                "response": "",
+                "manual_rewrite": "What happened to Anne Bonny?"
+            }
+        ]
+    },
+    {
+        "conv_id": 74,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the pros and cons of electric cars?",
+                "response": "",
+                "manual_rewrite": "What are the pros and cons of electric cars?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me more about Tesla.",
+                "response": "",
+                "manual_rewrite": "Tell me more about Tesla the car company."
+            },
+            {
+                "turn_id": 3,
+                "question": "Why did Elon Musk start it?",
+                "response": "",
+                "manual_rewrite": "Why did Elon Musk start Tesla?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What models are available?",
+                "response": "",
+                "manual_rewrite": "What Tesla car models are available?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is the best selling?",
+                "response": "",
+                "manual_rewrite": "What is the best selling Tesla car model?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is unique about the Model 3?",
+                "response": "",
+                "manual_rewrite": "What is unique about the Tesla Model 3?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are the safety features?",
+                "response": "",
+                "manual_rewrite": "What are the safety features of Tesla Model 3?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Why is it building Gigafactories?",
+                "response": "",
+                "manual_rewrite": "Why is Tesla building Gigafactories?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What makes the batteries unique?",
+                "response": "",
+                "manual_rewrite": "What makes the Tesla batteries unique?"
+            },
+            {
+                "turn_id": 10,
+                "question": "How long can they last?",
+                "response": "",
+                "manual_rewrite": "How long can Tesla car batteries last?"
+            },
+            {
+                "turn_id": 11,
+                "question": "Tell me more about autopilot.",
+                "response": "",
+                "manual_rewrite": "Tell me more about autopilot in Tesla cars."
+            },
+            {
+                "turn_id": 12,
+                "question": "Does it support full self-driving?",
+                "response": "",
+                "manual_rewrite": "Does Tesla car autopilot support full self-driving?"
+            }
+        ]
+    },
+    {
+        "conv_id": 75,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why do turkey and Turkey share the same name?",
+                "response": "",
+                "manual_rewrite": "Why do turkey and Turkey share the same name?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Where are turkeys from?",
+                "response": "",
+                "manual_rewrite": "Where are turkeys from?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What was their importance in native cultures?",
+                "response": "",
+                "manual_rewrite": "What was the importance of turkey in native cultures?"
+            },
+            {
+                "turn_id": 4,
+                "question": "When and how were they domesticated?",
+                "response": "",
+                "manual_rewrite": "When and how were turkeys domesticated?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can they fly?",
+                "response": "",
+                "manual_rewrite": "Can turkeys fly?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Why did Ben Franklin want it to be the national symbol?",
+                "response": "",
+                "manual_rewrite": "Why did Ben Franklin want turkey to be the national symbol?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How did he cook it?",
+                "response": "",
+                "manual_rewrite": "How did Ben Franklin cook turkey?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Why is it eaten on Thanksgiving?",
+                "response": "",
+                "manual_rewrite": "Why is turkey eaten on Thanksgiving?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How did it become traditional for Christmas dinner in Britain? ",
+                "response": "",
+                "manual_rewrite": "How did turkeys become traditional for Christmas dinner in Britain?"
+            },
+            {
+                "turn_id": 10,
+                "question": "When did they become popular?",
+                "response": "",
+                "manual_rewrite": "When did turkeys become popular for Christmas dinner in Britain?"
+            }
+        ]
+    },
+    {
+        "conv_id": 76,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are important literary elements?",
+                "response": "",
+                "manual_rewrite": "What are important literary elements?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is the difference between them and literary devices?",
+                "response": "",
+                "manual_rewrite": "What is the difference between literary elements and literary devices?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is a genre?",
+                "response": "",
+                "manual_rewrite": "What is a literary genre?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the most important ones?",
+                "response": "",
+                "manual_rewrite": "What are the most important literary genres?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What is a trope?",
+                "response": "",
+                "manual_rewrite": "What is a trope?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are important examples in fantasy?",
+                "response": "",
+                "manual_rewrite": "What are important examples of tropes in fantasy?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the definition of allegory?",
+                "response": "",
+                "manual_rewrite": "What is the definition of allegory?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are some important modern uses?",
+                "response": "",
+                "manual_rewrite": "What are some important modern uses of allegory?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are the different types of foreshadowing?",
+                "response": "",
+                "manual_rewrite": "What are the different types of foreshadowing?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is an example?",
+                "response": "",
+                "manual_rewrite": "What is an example of foreshadowing?"
+            }
+        ]
+    },
+    {
+        "conv_id": 77,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What's the difference between soup and stew?",
+                "response": "",
+                "manual_rewrite": "What's the difference between soup and stew?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Is chilli a stew?",
+                "response": "",
+                "manual_rewrite": "Is chilli a stew?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How about goulash?",
+                "response": "",
+                "manual_rewrite": "Is goulash a stew?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are popular ones in France?",
+                "response": "",
+                "manual_rewrite": "What are popular stews in France?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How is cassoulet made?",
+                "response": "",
+                "manual_rewrite": "How is cassoulet made?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me about feijoada and its significance.",
+                "response": "",
+                "manual_rewrite": "Tell me about feijoada and its significance."
+            },
+            {
+                "turn_id": 7,
+                "question": "How is it similar or different from cassoulet?",
+                "response": "",
+                "manual_rewrite": "How is feijoada similar or different from cassoulet?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Tell about Bigos stew.",
+                "response": "",
+                "manual_rewrite": "Tell about Bigos stew."
+            },
+            {
+                "turn_id": 9,
+                "question": "Why is it important?",
+                "response": "",
+                "manual_rewrite": "Why is Bigos stew important?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is the history of Irish stew?",
+                "response": "",
+                "manual_rewrite": "What is the history of Irish stew?"
+            }
+        ]
+    },
+    {
+        "conv_id": 78,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the keto diet?",
+                "response": "",
+                "manual_rewrite": "What is the keto diet?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Why was it original developed?",
+                "response": "",
+                "manual_rewrite": "Why was keto diet originally developed?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is ketosis?",
+                "response": "",
+                "manual_rewrite": "What is ketosis?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is paleo?",
+                "response": "",
+                "manual_rewrite": "What is paleo diet?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What do they have in common?",
+                "response": "",
+                "manual_rewrite": "What do paleo diet and keto diet have in common?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How are they different?",
+                "response": "",
+                "manual_rewrite": "How are paleo diet and keto diet different?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is intermittent fasting?",
+                "response": "",
+                "manual_rewrite": "What is intermittent fasting?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How is it related to keto?",
+                "response": "",
+                "manual_rewrite": "How is intermittent fasting related to keto?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What is the 16/8 method?",
+                "response": "",
+                "manual_rewrite": "What is the 16_8 method in intermittent fasting?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is the best for weight loss?",
+                "response": "",
+                "manual_rewrite": "What is the best method for weight loss?"
+            }
+        ]
+    },
+    {
+        "conv_id": 79,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is taught in sociology?",
+                "response": "",
+                "manual_rewrite": "What is taught in sociology?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is the main contribution of Auguste Comte?",
+                "response": "",
+                "manual_rewrite": "What is the main contribution of Auguste Comte to sociology?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is the role of positivism in it?",
+                "response": "",
+                "manual_rewrite": "What is the role of positivism in sociology?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What is Herbert Spencer known for?",
+                "response": "",
+                "manual_rewrite": "What is Herbert Spencer known for in sociology?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How is his work related to Comte?",
+                "response": "",
+                "manual_rewrite": "How is Herbert Spencer's work related to Comte?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the functionalist theory?",
+                "response": "",
+                "manual_rewrite": "What is the functionalist theory in sociology?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is its main criticism?",
+                "response": "",
+                "manual_rewrite": "What is the main criticism of functionalist theory in sociology?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How does it compare to conflict theory?",
+                "response": "",
+                "manual_rewrite": "How does functionalist theory compare to conflict theory?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What are modern examples of conflict theory?",
+                "response": "",
+                "manual_rewrite": "What are modern examples of conflict theory?"
+            }
+        ]
+    },
+    {
+        "conv_id": 80,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What were the purposes of the Lewis and Clark expedition?",
+                "response": "",
+                "manual_rewrite": "What were the purposes of the Lewis and Clark expedition?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What were important plants and animals they discovered?",
+                "response": "",
+                "manual_rewrite": "What were important plants and animals Lewis and Clark discovered?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What were the diplomatic objectives?",
+                "response": "",
+                "manual_rewrite": "What were the diplomatic objectives of the Lewis and Clark expedition?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What were the Native American tribes that they encountered?",
+                "response": "",
+                "manual_rewrite": "What were the Native American tribes that Lewis and Clark encountered?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How did Sacagawea help them?",
+                "response": "",
+                "manual_rewrite": "How did Sacagawea help Lewis and Clark?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Did they find the Northwest Passage?",
+                "response": "",
+                "manual_rewrite": "Did Lewis and Clark find the Northwest Passage?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What was the purpose of Fort Mandan?",
+                "response": "",
+                "manual_rewrite": "What was the purpose of Fort Mandan in the Lewis and Clark expedition?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How did they spend the next winter?",
+                "response": "",
+                "manual_rewrite": "How did Lewis and Clark spend the next winter?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What happened to Fort Clatsop?",
+                "response": "",
+                "manual_rewrite": "What happened to Fort Clatsop?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What was the impact of the expedition?",
+                "response": "",
+                "manual_rewrite": "What was the impact of the Lewis and Clark expedition?"
+            }
+        ]
+    }
+]

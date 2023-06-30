@@ -1,0 +1,144 @@
+[
+    {
+        "conv_id": 134,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What should I consider when buying a phone?",
+                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don't be afraid to get a phone from a different manufacturer than you're used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
+                "manual_rewrite": "What should I consider when buying a phone?",
+                "cot": "This is the first turn."
+            },
+            {
+                "turn_id": 2,
+                "question": "Cool. Which one would you recommend?",
+                "response": "Just because a phone has everything and the kitchen sink doesn't mean you have to buy it \u2014 it's just an option for those who might have a larger budget. The same logic applies to pretty much anything you can buy. If you want something more affordable, cheaper, but has the latest in Android and that comes with 5000mAh of battery, then the Motorola Moto G7 Power is an excellent phone to consider. If you want an Android smartphone that's cheaper, more affordable, and you still find the Moto G7 Power a bit off your budget, then I highly recommend the Samsung Galaxy A10e.",
+                "manual_rewrite": "Cool. Which smartphone would you recommend for me?",
+                "cot": "Based on Turn 1, you are inquiring about what should be considered when buying a phone."
+                
+            },
+            {
+                "turn_id": 3,
+                "question": "Tell me more about the first one.",
+                "response": "It sports an 8-megapixel camera on the front for selfies with an f/2.2 aperture and a pixel size of 1.12-micron. Motorola Moto G7 Power is based on Android 9.0 and packs 32GB of inbuilt storage that can be expanded via a microSD card (up to 512GB). The Motorola Moto G7 Power is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and Nano-SIM cards. The Motorola Moto G7 Power measures 160.83 x 76.00 x 9.40mm (height x width x thickness) and weighs 198.00 grams. It was launched in Marine Blue color. Connectivity options on the Motorola Moto G7 Power include Wi-Fi 802.11 a/b/g/n, GPS, Bluetooth v4.20, USB Type-C, FM radio, 3G, and 4G. Sensors on the phone include an accelerometer, ambient light sensor, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor. The Motorola Moto G7 Power supports face unlock. As of 1st June 2021, Motorola Moto G7 Power price in India starts at Rs. 14,990.",
+                "manual_rewrite": "Tell me more about the Motorola Moto G7 Power.",
+                "cot": "Based on Turn 2, Two phones were recommended. The first is Motorola Moto G7 Power and the second is Samsung Galaxy A10e."
+            },
+            {
+                "turn_id": 4,
+                "question": "How much cheaper is the A10e?",
+                "response": "The current lowest price found for Samsung Galaxy A10e is 7,499 and for Motorola Moto G7 is 13990. The details of both of these products were last updated on Jun 02, 2021.",
+                "manual_rewrite": "How much cheaper is the Samsung Galaxy A10e than the Motorola Moto G7 Power?",
+                "cot": "Based on Turn 2 and Turn 3, Motorola Moto G7 Power and Galaxy A10e were recommended and A10e is cheaper and more affordable."
+            },
+            {
+                "turn_id": 5,
+                "question": "Wow, that's almost half the cost! Can you compare them?",
+                "response": "For the past few years, Motorola's G-series has consistently ranked as a favourite budget phone among users and the G7 continues this legacy as an exceptional phone for its price. All in all, people still love the Moto G7. It's a fantastic, affordable phone, and it won awards for its inexpensive price, good camera and reliable performance. But the Galaxy A50 is better, even if it's a bit more expensive. For that, it too earned a few awards. If you have an extra $70 to spare, go for the Galaxy A50 over the Moto G7.",
+                "manual_rewrite": "Wow, that's almost half the cost of a Samsung Galaxy A10e. Can you compare the Samsung Galaxy A10e with the Motorola Moto G7 Power?",
+                "cot": "Based on Turn 4, the cost of Samsung Galaxy A10e is almost half of Motorola Moto G7 Power (7,499 vs 13,990)."
+            },
+            {
+                "turn_id": 6,
+                "question": "Interesting. What makes the G7 so good?",
+                "response": "Moto G7 and Moto G7 Power deliver a no-frills experience with few compromises. You're getting a great design, modern features, and clean and fast software. For the price, Motorola elegantly balances performance and features without making too many compromises. The biggest selling point of the Moto G 7 Power is the battery capacity and battery life.",
+                "manual_rewrite": "Interesting. What makes the Motorola G7 such a good award-winning phone?",
+                "cot": "Based on Turn 5, Moto G7 is a fantastic phone and won many awards."
+            },
+            {
+                "turn_id": 7,
+                "question": "Interesting. Why is the A50 better?",
+                "response": "The Galaxy A50's camera is way more flushed, it looks flatter and sleeker. The on-screen camera notch for the front-facing camera is also smaller. The A50 has an AMOLED display compared to the Moto G7's LCD screen. Though it doesn't shoot 4K video and Samsung's One UI is not everyone's favorite.",
+                "manual_rewrite": "Why is the Samsung Galaxy A50 better than the Moto G7?",
+                "cot": "Based on Turn 5, Galaxy A50 is better than Moto G7 and more expensive."
+            }
+        ]
+    },
+    {
+        "conv_id": 135,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "manual_rewrite": "How do I get back into running after a year-long break due to work commitments?",
+                "cot": "This is the first turn."
+            },
+            {
+                "turn_id": 2,
+                "question": "Cool. What exercises can I mix with it?",
+                "response": "If you want to lift heavier weights in the gym, that can be done twice per week. Strength workouts should complement your running, not detract from it. If you're so sore from strength exercises that your long run or faster workout is compromised, tone down the intensity. You can lift less weight or reduce the number of reps or sets that you're completing. But no matter what, remember that strength exercises should make your running better.",
+                "manual_rewrite": "Cool. What exercises can I mix with running?",
+                "cot": "Based on Turn 1, the user asked about how to get back into running?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Which ones do you recommend?",
+                "response": "Strength Training increases your running speed Weight lifting helps you build strength or improve your muscle strength, which helps you run faster. Your legs get more robust with these exercises. You can cover a longer distance with each stride if you have stronger legs. Sufficient muscle strength will act as a foundation for power training, which depends on this strength and converts it into speed. Specialized weight training improves your running performance. Half Marathon Training with Weight Lifting You need at least two weight training sessions per week. Here is a list of great strength training exercises for runners. Compound workouts such as Trap Bar and Squats and single-leg workouts such as lunges are great ways to work out multiple muscle groups at the same time. The lunge matrix is a great strength training exercise that can be done with or without weights. To start, your body's weight is sufficient enough as a great starting point for the lunge matrix. Take complete rest for at least 45 seconds up to 3 minutes between sets. Strength training needs a longer rest period because it is more exhausting and demanding on your overall body.",
+                "manual_rewrite": "What strength exercises do you recommend to mix with running?",
+                "cot": "Based on Turn 2, Strength workouts are recommended to complement the running."
+            },
+            {
+                "turn_id": 4,
+                "question": "Awesome. Can I do these and run on the same day?",
+                "response": "You can combine your strength training and easy run or long run sessions on the same day. Give yourself a 6-hour break between the exercises if possible. Remember that running is a priority and when push comes to shove you need to select runner-specific training (i.e. running) over strength training and cross-training. However, I would make it mandatory that you strength train at least once per week.",
+                "manual_rewrite": "Awesome. Can I do these strength routines and run on the same day?",
+                "cot": "Based on Turn 2 and Turn 3,  we are talking about mixing strength training with running."
+            }
+        ]
+    },
+    {
+        "conv_id": 136,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What was the basis of the Watergate scandal?",
+                "response": "The Watergate Scandal erupted due to the Nixon administration's attempts to cover up its involvement in the break-in at the Democratic National Committee (DNC) on June 17, 1972, in the headquarters of the party's office at the Watergate complex in Washington, D.C. Details of the Watergate Scandal were exposed in investigations prompted by the media, especially by two reporters from the Washington Post, Bob Woodward and Carl Bernstein, along with their mysterious informant, \"Deep Throat\". The scandal surrounding the Watergate break-in and the subsequent cover-up by Nixon and his aides culminated in the president's resignation on August 9, 1974.",
+                "manual_rewrite": "What was the basis of the Watergate scandal?",
+                "cot": "This is the first turn."
+            },
+            {
+                "turn_id": 2,
+                "question": "Oh wow. Why did they break in?",
+                "response": "In June 1972, Nixon authorized members of his secret unit, as well as CREEP, to pay a team of burglars to infiltrate the Democratic Party's headquarters at the Watergate complex. This was before the election, and the burglars were meant to acquire information on his opponents. These undercover individuals broke into several Democratic offices within the Watergate and installed wire taps and recording equipment. Unfortunately for Nixon, the equipment was installed haphazardly and had to be readjusted. As the intruders attempted to return to Watergate and resolve the problem, they were arrested. The White House immediately attempted to downplay the break-in, but behind the scenes, Nixon and his secret team were quickly using funds to pay for the silence and cooperation of the intruders. Nixon also made sure that the FBI remained out of the incident by forcing the Central Intelligence Agency (CIA) to persuade the intelligence community that the break-in was classified as a matter of national security. The Nation Reacts While Nixon thought he was able to successfully cover up the break-in at the Watergate complex, members of the press, Congress and legal experts began questioning the event. By January 1973, the Watergate intruders stood trial for their participation in the break-in.",
+                "manual_rewrite": "Oh wow. Why did the Nixon administration break in at Democratic National Committee?",
+                "cot": "Based on Turn 1, nixon administration's attempts to cover up its involvement in the break-in at the Democratic National Committee (DNC)."
+            },
+            {
+                "turn_id": 3,
+                "question": "What happened next?",
+                "response": "The presiding judge, John Sirica, was unconvinced by the intruders' testimony that they acted solely in their own interest and that there was no connection to Nixon. Meanwhile, Congress intervened when the Senate organized the Watergate Committee to investigate the event. Needless to say, the walls were closing in around Nixon, and it became much worse. John Mitchell, the head of CREEP, was convicted of engaging in illegal activities by federal prosecutors. When that information became public, Judge Sirica increased the pressure on the Watergate intruders. In March, Sirica finally achieved his desired outcome when one of the intruders released information linking CREEP to the break-in. The dominoes were now falling one by one. In May, another convicted intruder testified before the Watergate Committee and revealed additional information linking not only CREEP, but the Nixon Administration to the events at Watergate. Eventually, the Watergate Committee called on John Dean, who was Nixon's lead legal counsel, who testified to Nixon's involvement in the break-in and cover-up. Simultaneously, the one piece of evidence that Congress, as well as the federal prosecution, needed was Nixon's taped conversations in the Oval Office.",
+                "manual_rewrite": "What happened next after the Watergate intruders stood trial for their participation in the break-in?",
+                "cot": "Based on Turn 2, the last thing we talk about is the Watergate intruders stood trial for their participation in the break-in."
+            },
+            {
+                "turn_id": 4,
+                "question": "Did they get it?",
+                "response": "Nixon initially refused to turn over the tapes claiming executive privilege and instead campaigned for the Stennis Compromise, which called for Senator John Stennis, who was essentially deaf, to translate the tapes for Congress! Judge Sirica and Congress both refused the compromise and instead sent a special prosecutor for the case, Archibald Cox, to present Nixon with a subpoena for the tapes. In another outlandish move, Nixon used his executive powers to terminate Cox as a prosecutor in what became known as the ' Saturday Night Massacre .' Nixon Surrenders Nixon's intransigence and outright defiance failed to pay off. While Nixon attempted to release sanitized versions of his tapes, many had had enough. On July 24, 1974, the United States Supreme Court ruled in the case of U.S. v. Nixon that Nixon's use of executive privilege was not applicable in a criminal investigation. Within weeks of the decision, the House of Representatives approved the impeachment of Nixon on the grounds of obstruction of justice, violation of the constitution and the unlawful withholding of evidence. To make matters worse, a tape was released, known as the 'smoking gun,' which unveiled Nixon agreeing to a CIA cover-up of the Watergate break-in during a phone conversation in 1972.",
+                "manual_rewrite": "Did Congress and federal prosecution get Nixon's taped conversations in the Oval Office?",
+                "cot": "Based on Turn 3, Congress and the federal prosecution want to get the Nixon's taped conversations in the Oval Office."
+            },
+            {
+                "turn_id": 5,
+                "question": "So what happened to Nixon?",
+                "response": "With the mounting evidence and loss of both political and public support, Nixon resigned as president on August 9, 1974. Notably, his successor, President Gerald Ford, pardoned Nixon for his involvement in Watergate soon after his resignation.",
+                "manual_rewrite": "So what happened to Nixon after the events of the Watergate scandal?",
+                "cot": "Based on all previous turns, Nixon was badly involved in the Watergate scandal."
+            },
+            {
+                "turn_id": 6,
+                "question": "What effects did this all have on the country's politics?",
+                "response": "The Watergate scandal not only had a profound impact on America but also on the world. Due to this scandal, the republican party suffered and moved to the right on the political scale. Congress tried to limit presidential power in an effort to ensure a similar scandal never occurs again. Further, the American people also grew weary of big government. Further, as a result of Watergate, the presidential office was weakened, allowing the Soviets to expand. In addition, Watergate also led to the North Vietnamese regaining territory because the president was too busy with Watergate. Not only did this scandal affect the world, but it also hit the homeland hard. The Republican party was severely damaged; the American people lost all trust in Republicans. The Democrats gained 49 seats in the House and five in the Senate. The scandal helped wipe out a generation of Republican politicians. Leading to a democratic majority, which advocated less government, lower taxes, and more libertarian views. Another element that came out of Watergate was Congress's attempt to limit the campaign funding of presidents. Congress attempted to make the government more transparent with new laws and amending the Freedom of Information Act. Additionally, they passed the War Powers Act in 1973 to limit the president's ability to wage war.",
+                "manual_rewrite": "What effects did the Watergate scandal have on US politics?",
+                "cot": "Based on all previous turns, we are talking about the event of Watergate scandal."
+            },
+            {
+                "turn_id": 7,
+                "question": "What about Nixon's legacy?",
+                "response": "Nixon signed into law Title IX, a section of the Education Amendment that says, \"No person in the United States shall based on sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.\" The 40th anniversary of the law was celebrated this year. ABC's Serena Marshall reported on that anniversary: \"Since its passage, girls' participation in sports has gone from 1 in 27 to 2 in 5 at the high school level.\" Bostock said this and Nixon's other positive accomplishments did enough to outweigh the failures of his administration. \"I think if you look back -- and what better time to look back on a man's life than on the 100th anniversary of his birth? -- at the totality of his record and the influence he had on the country and the world, it was really extraordinary and on balance for the good,\" he said. Fulsom disagreed, saying Nixon's greatest legacy was one of \"distrust in the president and the government.\" \"I think he left definitely a negative impression on all those who lived during the time, and it continues to this day,\" Fulsom said. \"Just about every book that's ever been written about him paints a rather dim portrait as a leader.\" Love him or hate him, there's no denying, President Richard Nixon changed the course of American history.",
+                "manual_rewrite": "What effects did the Watergate scandal have on President Nixon's legacy?",
+                "cot": "Based on Turn 6, we are talking about the effects of the Watergate scandal."
+            }
+        ]
+    }
+]

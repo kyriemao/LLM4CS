@@ -1,0 +1,1423 @@
+[
+    {
+        "conv_id": 81,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How do you know when your garage door opener is going bad?",
+                "response": "Light Socket or Logic Board. If the light is still not coming on, it could be the light socket or the logic board. To determine which one it is, follow the steps below. Unplug the garage door opener, then immediately plug the opener back into the electrical outlet.Listen for the light relay on the logic board to click. If you hear a click, replace the light socket. If you do not hear a click, replace the logic board.here are four causes for the lights on a garage door opener not to come on. 1  Light bulb. 2  Contacts in the light socket. 3  Light socket.",
+                "manual_rewrite": "How do you know when your garage door opener is going bad?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Now it stopped working. Why?",
+                "response": "Garage Door Opener Problems. So, when the garage door opener decides to take a day off, it can leave you stuck outside, probably during a rain or snow storm. Though they may seem complicated, there really are several things most homeowners can do to diagnose and repair opener failures.nd, if you are careful not to damage the door or the seal on the bottom of the door, use a flat shovel or similar tool to chip away at the ice. Once you get the door open, clear any water, ice or snow from the spot on the garage floor where the door rests when closed.",
+                "manual_rewrite": "Now my garage door opener stopped working. Why?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How much does it cost for someone to fix it?",
+                "response": "Garage door opener repair can cost between $100 and $300 depending on the extent of the problem. Return to Top. The type of garage door you select -- and any extra pieces or labor required -- will influence how much you pay to have it professionally installed.urchasing extra remotes and getting openers set up for operation will typically range from $100 to $400, which will add to the overall cost of the garage door installation. If your opener works with the new door, you won't need to have it replaced.",
+                "manual_rewrite": "How much does it cost for someone to repair a garage door opener?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How about replacing it instead?",
+                "response": "When any object, such as a child or pet, runs through the light beam created by these sensors while the door is closing, the door immediately stops and reverses. If your garage door opener does not have a safety reversing feature, or if the one it does have no longer works, replacing the opener is highly recommended.",
+                "manual_rewrite": "How much does it cost to replace a garage door opener?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How do I choose a new one?",
+                "response": "How to Choose a Garage Door Opener. With so many different types of garage door openers on the market, you may not be sure where to start. The main consideration for a garage door opener is the drive type, which refers to the actual chain, belt, or other mechanism that moves and lifts the door. In some circumstances, the horsepower output of the motor should be considered as well, but typically in commercial or industrial settings.",
+                "manual_rewrite": "How do I choose a new garage door opener?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What does a smart one do?",
+                "response": "LiftMaster Model 3240 Consumer Reports. This solid screw drive garage door opener has 2 out of 2 positive reviews on the Liftmaster.com site. Quiet and trouble-free are the common feedback. The only negative comment related to a limited range for the garage door remote.he LiftMaster Model 3240 is a SMART Garage Door Opener\u00c2\u00ae, which allows the owner to program the security codes from the either the powerhead or the included Multi-Function control panel.",
+                "manual_rewrite": "What does a smart garage door opener do?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What's important for me to know about their safety?",
+                "response": "It's important that you installed the correct opener for the type of door that you have, as some openers are more qualified to lift heavy door varieties than others. By making sure you have a good match, you can keep the cost to repair a garage door opener down from the beginning.",
+                "manual_rewrite": "What's important for me to know about the safety of smart garage door openers?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How could they be hacked?",
+                "response": "",
+                "manual_rewrite": "How could smart garage door openers be hacked?"
+            }
+        ]
+    },
+    {
+        "conv_id": 82,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "I would like to learn about GMO Food labeling.",
+                "response": "The fight over labeling is not confined to those who are selling GMO or non-GMO products. Vermont passed a law last year requiring labeling of genetically modified food. Maine and Connecticut have label laws too.ut, ironically, that is entirely the wrong issue when it comes to labels. The reason GMO food should be voluntarily labeled by the food industry is that it is clear some consumers want to know what they are eating and they have a right to know what is in their food. autoplay autoplay.",
+                "manual_rewrite": "I would like to learn about GMO Food labeling."
+            },
+            {
+                "turn_id": 2,
+                "question": "What are the pros and cons?",
+                "response": "Proponents argue that approved GMO food has undergone extensive testing, is \u201csafe\u201d and that basically labeling is unnecessary. Labeling may discourage consumers to use GMO products when such a choice may be irrational. A lot of consumers express fears that have not been substantiated by science.",
+                "manual_rewrite": "What are the pros and cons of GMO food labeling?"
+            },
+            {
+                "turn_id": 3,
+                "question": "And what about the cons?",
+                "response": "Pro: private label products are GMO-free. Con: private label products are manufactured by Ralcorp, whose parent corporation ConAgra donated $1.17 million to oppose GMO labeling. If Trader Joe\u00e2\u0080\u0099s is your best option for buying organic food on a limited food budget, I will never discourage that kind of logic.",
+                "manual_rewrite": "What are the cons of GMO food labeling?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the EU rules?",
+                "response": "One of the key issues concerning regulators is whether GM products should be labeled. Labeling of GMO products in the marketplace is required in 64 countries.  Labeling can be mandatory up to a threshold GM content level (which varies between countries) or voluntary. A study investigating voluntary labeling in South Africa found that 31% of products labeled as GMO-free had a GM content above 1.0%. In Canada and the USA labeling of GM food is voluntary, while in Europe all food (including processed food) or feed which contains greater than 0.9% of approved GMOs must be labelled.",
+                "manual_rewrite": "What are the GMO food labeling rules in the EU?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me more about traceability tools.",
+                "response": "The coexistence has raised significant concern in many European countries and so EU law also requires that all GM food be traceable to its origin, and that all food with GM content greater than 0.9% be labelled.  Due to high demand from European consumers for freedom of choice between GM and non-GM foods. EU regulations require measures to avoid mixing of foods and feed produced from GM crops and conventional or organic crops, which can be done via isolation distances or biological containment strategies.  (Unlike the US, European countries require labeling of GM food.)  European research programs such as Co-Extra, Transcontainer, and SIGMEA are investigating appropriate tools and rules for traceability. The OECD has introduced a \"unique identifier\" which is given to any GMO when it is approved, which must be forwarded at every stage of processing. Such measures are generally not used in North America because they are very costly and the industry admits of no safety-related reasons to employ them.  The EC has issued guidelines to allow the co-existence of GM and non-GM crops through buffer zones (where no GM crops are grown). These are regulated by individual countries and vary from 15 meters in Sweden to 800 meters in Luxembourg. All food (including processed food) or feed which contains greater than 0.9% of approved GMOs must be labelled.",
+                "manual_rewrite": "Tell me about traceability tools for GMO foods in the EU."
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the role of Co-Extra?",
+                "response": "There is controversy over GMOs, especially with regard to their use in producing food. The dispute involves buyers, biotechnology companies, governmental regulators, nongovernmental organizations, and scientists. The key areas of controversy related to GMO food are whether GM food should be labeled, the role of government regulators, the effect of GM crops on health and the environment, the effect on pesticide resistance, the impact of GM crops for farmers, and the role of GM crops in feeding the world population. In 2014, sales of products that had been labeled as non-GMO grew 30 percent to $1.1 billion.",
+                "manual_rewrite": "What is the role of Co-Extra in GMO food traceability in the EU?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How is testing done for contamination?",
+                "response": "Two evaluations, Comprehensive GMO Screen and Crop-specific Deep GMO Test are offered, which help food manufacturers to determine if there are any genetically modified components in their food products. This helps verify GMO-free labeling and address health risks for those with allergens. The process starts with DNA extraction to detect GMO traces, which are then tested for quality and finally assigned a rank within the database.",
+                "manual_rewrite": "How is food tested for GMO contamination?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What's the difference between the European and US approaches?",
+                "response": "The construct-specific detection methods can either be DNA or protein based. DNA based detection looks for a part of the foreign DNA inserted in a GMO. For technical reasons, certain DNA sequences are shared by several GMOs. Protein-based methods detect the product of the transgene, for example the Bt toxin. Since different GMOs may produce the same protein, construct-specific detection can test a sample for several GMOs in one step, but is unable to tell precisely which of the similar GMOs are present. Especially in the USA, protein-based detection is used for the construct-specific approach.",
+                "manual_rewrite": "What's the difference between the European Union and United States approaches to testing for GMO food contamination?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How does the DNA-based method work?",
+                "response": "How Does It Work?",
+                "manual_rewrite": "How does the DNA-based method work for testing GMO contamination."
+            },
+            {
+                "turn_id": 10,
+                "question": "How could Co-Extra improve it?",
+                "response": "",
+                "manual_rewrite": "How could Co-Extra improve DNA-based testing for GMO contamination?"
+            }
+        ]
+    },
+    {
+        "conv_id": 83,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are some interesting facts about bees?",
+                "response": "Fun facts about bees: 1  Honeybees are the only insect that produces food eaten by humans. 2  Worker honeybees are female. 3  The average worker bee produces only 1/12 teaspoon of honey over her lifetime. 4  A worker bee lives about 6 weeks. The queen bee can live to be 5 years old. 5  Honey never spoils.",
+                "manual_rewrite": "What are some interesting facts about bees?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Why doesn't it spoil?",
+                "response": "The water content of honey is a key factor in why it doesn\u00e2\u0080\u0099t spoil. At 17%, its water content is much lower than that of bacteria or fungi. Honey also has a low water activity; this is a measure of the amount of water in a substance that is available to support microbial growth.",
+                "manual_rewrite": "Why doesn't honey spoil?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Why are so many dying?",
+                "response": "Honeybees are dying, and scientists still don't know why. Robert Ferris | @RobertoFerris. SHARES. Beekeepers are seeing unusually high numbers of their bees die this year, prompting concerns about the health of crops that depend on the insects, and about the future of the beekeeping industry in America itself.",
+                "manual_rewrite": "Why are so many bees dying?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What can be done to stop it?",
+                "response": "But the bee flies anyway \u00e2\u0080\u009cbecause bees don\u00e2\u0080\u0099t care what humans think is impossible.\u00e2\u0080\u009d Well, maybe the bees should start caring, because humans surely have something to do with the fact they are dying globally at an alarming rate. A new study from the Institute of Bee Health, published by Proceedings of the Royal Society B, finds that a common insecticide\u00e2\u0080\u0094presumably created by humans\u00e2\u0080\u0094suppresses the male honey bee\u00e2\u0080\u0099s ability to produce sperm.",
+                "manual_rewrite": "What can be done to stop bees from dying?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What has happened to their habitat?",
+                "response": "Habitat of a Honey Bee. Researchers believe that the original habitats of the honey bee are tropical climates and heavily forested areas. Honey bees can thrive in natural or domesticated environments, though they prefer to live in gardens, woodlands, orchards, meadows and other areas where flowering plants are abundant.",
+                "manual_rewrite": "What has happened to bee habitat?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What can I do to help with the problem?",
+                "response": "Coloradans try to protect honey bees from dying of mysterious sickness. Honeybees: They are dying and US and Europe taking different paths to find out ... America is one bad winter away from a food disaster, thanks to dying bees. Honey Bees Dying Along Central Coast.",
+                "manual_rewrite": "What can I do to help provide a habitat for bees?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the cause of CCD?",
+                "response": "Several possible causes for CCD have been proposed, but no single proposal has gained widespread acceptance among the scientific community. Suggested causes include: infections with Varroa and Acarapis mites; malnutrition; various pathogens; genetic factors; immunodeficiencies; loss of habitat; changing beekeeping practices; or a combination of factors.  A large amount of speculation has surrounded a family of pesticides called neonicotinoids as having caused CCD.",
+                "manual_rewrite": "What is the cause of colony collapse disorder?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What would happen if they died out?",
+                "response": "",
+                "manual_rewrite": "What would happen if the bees died out?"
+            }
+        ]
+    },
+    {
+        "conv_id": 84,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How does seed investment work for startups?",
+                "response": "Seed money, sometimes known as seed funding or seed capital, is a form of securities offering in which an investor invests capital in exchange for an equity stake in the company. The term seed suggests that this is a very early investment, meant to support the business until it can generate cash of its own (see cash flow), or until it is ready for further investments. Seed money options include friends and family funding, angel funding, and crowdfunding.",
+                "manual_rewrite": "How does seed investment work for startups?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me more about angel rounds.",
+                "response": "Tell Me More was a National Public Radio interview show hosted by journalist Michel Martin.  Tell Me More was first introduced online in December 2006 through an \"open piloting\" program called \"Rough Cuts.\" Martin and the show's producers provided a regular podcast and blog on NPR's website, testing show ideas, offering sample segments, and soliciting user feedback.  It began broadcasting on April 30, 2007.",
+                "manual_rewrite": "Tell me more about angel investment rounds."
+            },
+            {
+                "turn_id": 3,
+                "question": "How does it compare with crowdfunding?",
+                "response": "For crowdfunding of equity stock purchases, there is some research in social psychology that indicates that, like in all investments, people don't always do their due diligence to determine if it's a sound investment before investing, which leads to making investment decisions based on emotion rather than financial logic. By using crowdfunding, creators also forgo potential support and value that a single angel investor or venture capitalist might offer. Likewise, crowdfunding requires that creators manage their investors. This can be time consuming and financially burdensome as the number of investors in the crowd rises. Crowdfunding draws a crowd: investors and other interested observers who follow the progress, or lack of progress, of a project. Sometimes it proves easier to raise the money for a project than to make the project a success. Managing communications with a large number of possibly disappointed investors and supporters can be a substantial, and potentially diverting, task.",
+                "manual_rewrite": "How does an angel investment round compare with crowdfunding?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How much is a typical A series round?",
+                "response": "OpenGov has raised $47 million from venture capital and angel investors. A $3 million Series A round in 2012 included venture funds 8VC, Founder Collective, Valiant Capital, and \"a number of high-profile angel investors.\" In 2013, the company raised $4 million in further investment from 8VC and new investor Thrive Capital.",
+                "manual_rewrite": "How much is a typical A series investment round?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are the risks of investing?",
+                "response": "Angel investors invest in early stage or start-up companies in exchange for an equity ownership interest. Angel investing in start-ups has been accelerating. High-profile success stories like Uber, WhatsApp, and Facebook have spurred angel investors to make multiple bets with the hopes of getting outsized returns. Here are my thoughts on frequently asked questions from entrepreneurs about angel financing. 1. How much do angel investors invest in a company? The typical angel investment is $25,000 to $100,000 a company, but can go higher. 2. What are the six most important things for angel investors? Here is what angels particularly care about: The quality, passion, commitment, and integrity of the founders.",
+                "manual_rewrite": "What are the risks of investing in startups?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are the different types of instruments used by VCs?",
+                "response": "",
+                "manual_rewrite": "What are the different types of instruments used by Venture Capitalists?"
+            }
+        ]
+    },
+    {
+        "conv_id": 85,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How much does a used Lamborghini cost?",
+                "response": "The cheapest new 2010 Lamborghini is the Gallardo at just under $200,000. On the used market the average price of a Lamborghini listed in AutoTrader is $185,000 How do people afford such cars?",
+                "manual_rewrite": "How much does a Lamborghini cost?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How does it compare to a Ferrari?",
+                "response": "Opinions from WikiAnswers Users: A Lamborghini has more horsepower than a Ferrari, but a Ferrari has more control. Ferraris are proven to be competitive and have 50 years motor racing history behind them, which includes Formula One. Lamborgini doesn't have anywhere near the same racing history.",
+                "manual_rewrite": "How does a Lamborghini compare to a Ferrari?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Interesting. What about for a pimped-out food truck?",
+                "response": "A modern-day food truck isn't just an ordinary taco truck one might find at a construction site. In 2009, New York magazine noted that the food truck had \"largely transcended its roach-coach classification and is now a respectable venue for aspiring chefs to launch careers.\" These gourmet trucks' menus run the gamut of ethnic and fusion cuisine. Often focusing on limited but creative dishes at reasonable prices, they offer customers a chance to experience food they otherwise may not. Finding a niche seems to be a path to success for most trucks. While one truck may specialize in outlandish burgers, another may serve only lobster rolls. Food trucks are now even Zagat rated.",
+                "manual_rewrite": "Interesting. How much does a pimped-out food truck cost?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What licenses and permits are needed?",
+                "response": "Most food truck owners will need an Employer Identification Number (EIN) and will need to register for additional licenses and tax-specific identification numbers in their states. We covered these topics in last week\u00e2\u0080\u0099s post, and you can also find more information by clicking on the links from the SBA page.",
+                "manual_rewrite": "What licenses and permits are needed for a food truck?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What makes a good location?",
+                "response": "After running a successful food truck, Nashville biscuit-makers Karl and Sarah Worley opened a brick-and-mortar location in The Gulch in early 2015. The bright, sunny space is anchored by a giant light-up NASHVILLE sign and keeps a box of toys near the register to entertain kids.",
+                "manual_rewrite": "What makes a good food truck location?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is a typical day like?",
+                "response": "The Huracan, hurac\u00c3\u00a1n much like The, gallardo is intended to be The lamborghini you can use every. Day but make no, mistake\u00e2\u0080\u0099you re dealing with a serious sports. Car the trunk lid in the nose can accommodate a laptop bag and a, camera but little. else",
+                "manual_rewrite": "What is a typical day like running a food truck?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How can I run it successfully?",
+                "response": "Running a food truck is easy. To run a food truck, you need to be on the streets six or seven days a week serving lunch and dinner, not to mention the need to be present at any food truck event that pops up. Owning a food truck means working a majority of your waking hours, especially at the start of your business.",
+                "manual_rewrite": "How can I run a successful food truck?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are some good examples to learn from?",
+                "response": "Some vendors operate out of food trucks and food carts, which offer a low overhead for entrepreneurs and often serve a huge variety of cuisines. Like restaurants, they are regulated and subject to inspections by local municipal or county health departments. Food trucks surged in popularity after the success of the Korean\u2013Mexican fusion truck Kogi Korean BBQ in Los Angeles in 2009. According to Smithsonian Magazine, the hip new generation of food trucks \"are the new incubators of culinary innovation,\" with Kogi serving novel concoctions such as kimchi quesadillas, and gourmet ice cream truck Coolhaus serving inventive flavors such as Avocado Sriracha, Brown Butter Candied Bacon, and Fried Chicken & Waffles.",
+                "manual_rewrite": "What are some good examples of successful food trucks to learn from?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Besides inventive flavors, what made it successful?",
+                "response": "",
+                "manual_rewrite": "Besides inventive flavors, what made Kogi successful?"
+            }
+        ]
+    },
+    {
+        "conv_id": 86,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the climate like in Utah?",
+                "response": "Utah-Climate. The climate of Utah is generally semiarid to arid. Temperatures are favorable along the Wasatch Front, where there are relatively mild winters. At Salt Lake City, the normal daily mean temperature is 52\u00c2\u00b0F (11\u00c2\u00b0C), ranging from 28\u00c2\u00b0F (\u00e2\u0080\u00932\u00c2\u00b0C) in January to 78\u00c2\u00b0F (26\u00c2\u00b0C) in July. The record high temperature, 117\u00c2\u00b0F (47\u00c2\u00b0C), was set at St. George on 5 July 1985; the record low temperature, \u00e2\u0080\u009369\u00c2\u00b0F (\u00e2\u0080\u009356\u00c2\u00b0C), in Peter's Sink, on 1 February 1985.",
+                "manual_rewrite": "What is the climate like in Utah?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How does Salt Lake City differ?",
+                "response": "The Great Salt Lake is separated from Salt Lake City by extensive marshlands and mudflats. The metabolic activities of bacteria in the lake result in a phenomenon known as \"lake stink\", a scent reminiscent of foul poultry eggs, two to three times per year for a few hours. The Jordan River flows through the city and is a drainage of Utah Lake that empties into the Great Salt Lake.",
+                "manual_rewrite": "How does the climate of Salt Lake City differ from Utah overall?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What is its main economic activity?",
+                "response": "The economy of Salt Lake City, Utah is primarily service-oriented. While nearby Bingham Canyon Mine (the world's largest open-pit mine) provided a strong source of income during the 19th century, the city has evolved to an economy built on transit hubs, call centers, and seasonal tourism. The 2002 Olympic Winter Games gave a great boost to the area's economy. Many hotels and restaurants were built for the Olympics, and although many survive, they have suffered post-Olympic market saturation.",
+                "manual_rewrite": "What is the main economic activity of Salt Lake City?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What was the impact of the 2002 games?",
+                "response": "Salt Lake City's 2002 Winter Olympics led to an economic boom for Utah's ski industry. Skier visits rose 42% from 2002-2011 including a 70% growth in out-of-state skiers from 2002-2011.<ref>Lee, Jason. \"Economic Impact of 2002 Olympics Still Felt | KSL.com.\" Economic Impact of 2002 Olympics Still Felt | KSL.com. KSL, 8 Feb. 2012. Web. 22 Apr. 2015.",
+                "manual_rewrite": "What was the impact of the 2002 olympic winter games on the economy of Salt Lake City?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What were important ski locations used?",
+                "response": "Utah has seen an increase in tourism since the 2002 Winter Olympics. Park City is home to the United States Ski Team. Utah's ski resorts are primarily located in northern Utah near Salt Lake City, Park City, Ogden, and Provo. Between 2007 and 2011 Deer Valley in Park City, has been ranked the top ski resort in North America in a survey organized by Ski Magazine.",
+                "manual_rewrite": "What were important ski locations used in the 2002 olympic winter games?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are the important non-ski events that happen in the city?",
+                "response": "12 Must Ski Runs in Salt Lake City. Salt Lake City Skiing. Four major ski resorts are located in the mountain canyons just southeast of Salt Lake City. They include Brighton, Solitude, Alta and Snowbird.",
+                "manual_rewrite": "What are the important non-ski events that happen in Salt Lake City?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What about some popular non-winter things to do in the area?",
+                "response": "",
+                "manual_rewrite": "What are some popular non-winter things to do in the Salt Lake City area?"
+            }
+        ]
+    },
+    {
+        "conv_id": 87,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the different types of orange trees?",
+                "response": "The most common varieties of common oranges are the Valencia, Hart\u00e2\u0080\u0099s Tardiff Valencia, and the Hamlin, but there are dozens of other types. Blood or pigmented orange \u00e2\u0080\u0093 The blood orange consists of two types: the light blood orange and the deep blood orange. Blood oranges are a natural mutation of C. sinensis.",
+                "manual_rewrite": "What are the different types of orange trees?"
+            },
+            {
+                "turn_id": 2,
+                "question": "How can you tell them apart?",
+                "response": "Semi-dwarf varieties are 10 to 15 feet tall at their mature height, while dwarf orange trees are 5 to 10 feet tall. Orange trees can bear fruit well before they reach their full height. Age and growing conditions, not whether a tree has reached its full height, determine whether and how quickly a tree will bear fruit.",
+                "manual_rewrite": "How can you tell different types of orange trees apart?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What type has thorns?",
+                "response": "Twig. Stems of most Osage Orange trees are thorny, and the branches arch and interlace to form a living barbed wire tree. Modern selections being made for commercial or landscape plantings are males that are nearly thornless removing the two greatest liabilities of large fruits and dangerous thorns.",
+                "manual_rewrite": "What type of orange tree has thorns?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Where do they originally come from?",
+                "response": "Word Origin & History. orange c.1300, from O.Fr. orenge (12c.), from M.L. pomum de orenge, from It. arancia, originally narancia (Venetian naranza), alt. of Arabic naranj, from Pers. narang, from Skt. naranga-s orange tree, of uncertain origin.",
+                "manual_rewrite": "Where do orange trees originally come from?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Tell me about the Hamlin variety.",
+                "response": "Trees from groves in hammocks or areas covered with pine forest are budded on sour orange trees, a method that gives a high solids content. On sand, they are grafted on rough lemon rootstock. The Hamlin orange is one of the most popular juice oranges in Florida and replaces the Parson Brown variety as the principal early-season juice orange. This cultivar is now the leading early orange in Florida and, possibly, in the rest of the world.",
+                "manual_rewrite": "Tell me about the Hamlin orange variety."
+            },
+            {
+                "turn_id": 6,
+                "question": "Why did it replace PB?",
+                "response": "One PB-2A was modified to a single-seat configuration as the PB-2A Special, to compete in a 1936 Air Corps competition for a new fighter to replace the Boeing P-26 Peashooter. It was larger and heavier than the other competitors and was much more expensive. It crashed during testing, with the Seversky P-35 being ordered into production. One A-11 was converted to the XA-11A testbed with the new 1,000 hp (746 kW) Allison XV-1710-7 engine.",
+                "manual_rewrite": "Why did the Hamlin orange replace the Parson Brown variety?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are the different types of navels?",
+                "response": "1 Of the navels, the most common types are the Cara cara, Bahia, Dream navel, Late Navel and Washington or California Navel. 2  Acid-less orange \u00e2\u0080\u0093 Acid-less oranges have very little acid, hence little flavor. 3  Acid-less oranges are early season fruit and are also called \u00e2\u0080\u009csweet\u00e2\u0080\u009d oranges.",
+                "manual_rewrite": "What are the different types of navel oranges?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Which is the most delicious?",
+                "response": "CARA CARA NAVEL ORANGES. These oranges are thought to be a cross between the Washington navel and the Brazilian Bahia navel. They have a beautiful red or rosy interior and their flavor is very sweet due to low acidity. You'll experience notes of cherry, rose and blackberry. Click here for the Top 10 Ways to enjoy them.",
+                "manual_rewrite": "Which type of navel orange is the most delicious?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How do they compare with blood oranges?",
+                "response": "",
+                "manual_rewrite": "How do cara cara oranges compare with blood oranges?"
+            }
+        ]
+    },
+    {
+        "conv_id": 88,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Can I have some information on the labor systems of the Ottoman Empire?",
+                "response": "The Ottoman Empire was a religious empire in which each religious community enjoyed a large degree of autonomy with the Millet (Ottoman Empire) structure. Each millet had an internal system of governance based upon its religious law, such as Sharia, Catholic Canon law, or Jewish Halakha. The Ottoman Empire tried to modernize the code with the reforms of 1839 Hatt-i Sharif which tried to end the confusion in the judicial sphere by extending the legal equality to all citizens.",
+                "manual_rewrite": "Can I have some information on the labor systems of the Ottoman Empire?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What was the role of slavery?",
+                "response": "Slavery was a legal and important part of the economy of the Ottoman Empire and Ottoman society until the slavery of Caucasians was banned in the early 19th century, although slaves from other groups were allowed. In Constantinople (present-day Istanbul), the administrative and political center of the Empire, about a fifth of the population consisted of slaves in 1609. Even after several measures to ban slavery in the late 19th century, the practice continued largely unfazed into the early 20th century. As late as 1908, female slaves were still sold in the Ottoman Empire. Sexual slavery was a central part of the Ottoman slave system throughout the history of the institution.",
+                "manual_rewrite": "What was the role of slavery in the labor system of the Ottoman Empire?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How did it govern?",
+                "response": "State organisation of the Ottoman Empire. The Ottoman Empire developed over the centuries a complex organization of government with the Sultan as the supreme ruler of a centralized government that had an effective control of its provinces, officials and inhabitants. Wealth and rank could be inherited but were just as often earned. Positions were perceived as titles such as viziers and aghas. Military service was a key to advancement in the hierarchy. The expansion of the Empire called for a systematic administrative organization that de",
+                "manual_rewrite": "How did the Ottoman Empire govern?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Why was it important?",
+                "response": "Why is DNA important? Why is important? DNA is the blueprint of biological life from its inception to its growth and till death. Its discovery has not only revolutionized science and medicine, but it has affected all walks of life; whether they are social, legal, criminal or inheritance related.",
+                "manual_rewrite": "Why was the Ottoman Empire important?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What was the culture like?",
+                "response": "Ottoman culture evolved over several centuries as the ruling administration of the Turks absorbed, adapted and modified the cultures of conquered lands and their peoples. There was a strong influence from the customs and languages of Islamic societies, Turkish \"the official language for the Empire, notably Arabic because of the origins of Islam, while Persian culture had a significant contribution through the heavily Persianized Seljuq Turks, the Ottomans' predecessors. Despite newer added amalgamations, the Ottoman dynasty, like their predecessors in the Sultanate of Rum and the Seljuk Empire, were thoroughly Persianised in their culture, language, habits and customs, and therefore, the empire has been described as a Persianate empire.\" Throughout its history, the Ottoman Empire had substantial subject populations of Byzantine Greeks, Armenians, Jews and Assyrians, who were allowed a certain amount of autonomy under the confessional millet system of Ottoman government, and whose distinctive cultures enriched that of the Ottoman state.",
+                "manual_rewrite": "What was the culture like in the Ottoman Empire?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What was the role of storytellers?",
+                "response": "Meddah is the name given to a traditional Turkish story teller, who played in front of a small group of viewers, such as a coffeehouse audience. This form of performance was especially popular in the Ottoman Empire from the 16th century onwards. The play was generally about a single topic, the meddah playing different characters, and was usually introduced by drawing attention to the moral contained in the story. The meddah would use props such as an umbrella, a handkerchief, or different headwear, to signal a change of character, and was skilled at manipulating his voice and imitating different dialects. There was no time limitation on the shows; a good meddah had the skill to adjust the story depending on interaction with the audience.",
+                "manual_rewrite": "What was the role of storytellers in the culture of the Ottoman Empire?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What were popular stories?",
+                "response": "According to a March 1886 article in The New York Times,  the Ottoman Empire allowed a slave trade in girls to thrive during the late 1800s, while publicly denying it. Girl sexual slaves sold in the Ottoman Empire were mainly of three ethnic groups: Circassian, Syrian, and Nubian. Circassian girls were described by the American journalist as fair and light skinned. They were frequently sent by Circassian leaders as gifts to the Ottomans. They were the most expensive, reaching up to 500 Turkish lira and the most popular with the Turks. The next most popular slaves were Syrian girls, with \"dark eyes and hair\", and light brown skin. Their price could reach to thirty lira. They were described by the American journalist as having \"good figures when young\". Throughout coastal regions in Anatolia, Syrian girls were sold. The New York Times journalist stated Nubian girls were the cheapest and least popular, fetching up to 20 lira.",
+                "manual_rewrite": "What were popular stories told by meddahs in the Ottoman Empire?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What was the importance of the millet?",
+                "response": "Millets are some of the oldest of cultivated crops. The term millet is applied to various grass crops whose seeds are harvested for food or feed. The five millet species of commercial importance are proso, foxtail, barnyard, browntop and pearl.illets are some of the oldest of cultivated crops. The term millet is applied to various grass crops whose seeds are harvested for food or feed. The five millet species of commercial importance are proso, foxtail, barnyard, browntop and pearl.",
+                "manual_rewrite": "What was the importance of the confessional millet system to the Ottoman Empire?"
+            },
+            {
+                "turn_id": 9,
+                "question": "Why did the British continue it?",
+                "response": "Despite the ending of slavery in Great Britain, the United States continued to rely on it as an institution in the South and the West Indian colonies of the British Empire also kept slavery. British banks continued to finance the commodities and shipping industries in the colonies they had earlier established that relied upon slavery, despite the legal developments in Great Britain. In 1785, the English poet William Cowper wrote,",
+                "manual_rewrite": "Why did the British continue the confessional millet system from the Ottoman Empire?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What is its historical importance in developing national identities?",
+                "response": "",
+                "manual_rewrite": "What is the historical importance of the confessional millet system in the development of national identities?"
+            }
+        ]
+    },
+    {
+        "conv_id": 89,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the relationship between predator and prey?",
+                "response": "The act of predation can be broken down into a maximum of four stages: Detection of prey, attack, capture and finally consumption. The relationship between predator and prey is one that is typically beneficial to the predator, and detrimental to the prey species. Sometimes, however, predation has indirect benefits to the prey species, though the individuals preyed upon themselves do not benefit. This means that, at each applicable stage, predator and prey species are in an evolutionary arms race to maximize their respective abilities to obtain food or avoid being eaten. This interaction has resulted in a vast array of adaptations in both groups.",
+                "manual_rewrite": "What is the relationship between predator and prey?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What do predator plants eat?",
+                "response": "This is true in all predator-prey relationships. Another example of predator-prey evolution is that of the Galapagos tortoise. Galapagos tortoises eat the branches of the cactus plants that grow on the Galapagos islands. On one of the islands, where long-necked tortoises live, the branches are higher off the ground.",
+                "manual_rewrite": "What do predator plants eat?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What about Venus flytraps in particular?",
+                "response": "This article is about the plant. For other uses, see Venus Flytrap (disambiguation). The Venus flytrap (also referred to as Venus's flytrap or Venus' flytrap), Dionaea muscipula, is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and South Carolina.",
+                "manual_rewrite": "What do Venus flytraps eat?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Where is it native to?",
+                "response": "The Venus flytrap (also referred to as Venus's flytrap or Venus' flytrap), Dionaea muscipula, is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and South Carolina.he speed with which traps close can be used as an indicator of a plant's general health. Venus flytraps are not as humidity-dependent as are some other carnivorous plants, such as Nepenthes, Cephalotus, most Heliamphora, and some Drosera.",
+                "manual_rewrite": "Where is the Venus flytrap native to?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How do they attract and catch their prey?",
+                "response": "Perhaps the best known of the insectivorous (insect-eating) plants, the Venus flytrap (Dionaea muscipula) exhibits a unique system by which it attracts, kills, digests and absorbs its prey. Because it is a plant and can make its own food through photosynthesis, the Venus flytrap does not eat and digest its prey for the traditional nonplant objectives of harvesting energy and carbon.",
+                "manual_rewrite": "How do Venus flytraps attract and catch their prey?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are other similar plants from its native area?",
+                "response": "The Venus flytrap (also referred to as Venus's flytrap or Venus' flytrap), Dionaea muscipula, is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and South Carolina.he Venus flytrap is one of a very small group of plants capable of rapid movement, such as Mimosa, the Telegraph plant, sundews and bladderworts.",
+                "manual_rewrite": "What other carnivorous plants are native to North and South Carolina?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How do populations of predators and prey relate?",
+                "response": "According to Georgia Institute of Technology research, prey and predator roles have cycles where the prey population may increase, thereby causing the predator population to increase as well. But sometimes the predator population overwhelms the prey to the point of devastating the prey population, subsequently resulting in a devastation of the predator population. Some studies indicate that  the roles of each may become reversed to the point that prey begin to eat the predators.",
+                "manual_rewrite": "How do populations of predators and prey relate?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Why would the roles reverse?",
+                "response": "Healthy Venus flytraps will produce scapes of white flowers in spring; however, many growers remove the flowering stems early (2\u20133 inches), as flowering consumes some of the plant's energy and thereby reduces the rate of trap production. If healthy plants are allowed to flower, successful pollination will result in seeds.",
+                "manual_rewrite": "Why would the roles of predator and prey reverse?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How does the relationship influence biodiversity?",
+                "response": "Apex predators affect prey species' population dynamics. Where two competing species are in an ecologically unstable relationship, apex predators tend to create stability if they prey upon both. Inter-predator relationships are also affected by apex status. Non-native fish, for example, have been known to devastate formerly dominant predators. One lake manipulation study found that when the non-native smallmouth bass was removed, lake trout, the suppressed native apex predator, diversified its prey selection and increased its trophic level.",
+                "manual_rewrite": "How do predators and prey influence biodiversity?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What are examples of these predators?",
+                "response": "Predator, Prey, Predation \u00e2\u0080\u0093 A predator is an animal or organism that survives by eating. other animals or organisms, the prey. Mountain lions are predators that kill and eat deer. Whales are predators that prey on plankton. many other insects, such as dragonflies, moths, or other spiders. a predator killing its prey. Top predator \u00e2\u0080\u0093 An apex predator; a predator at the top of its food chain. jaguars, whales, and bears are examples of top predators. food chain where larger predators are absent.",
+                "manual_rewrite": "What are examples of apex predators?"
+            },
+            {
+                "turn_id": 11,
+                "question": "Why would humans be considered one?",
+                "response": "",
+                "manual_rewrite": "Why would humans be considered apex predators?"
+            }
+        ]
+    },
+    {
+        "conv_id": 90,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Which is the biggest commercial plane?",
+                "response": "The airliner that holds the current record of highest passenger capacity is the Airbus A380. The Airbus A380 is a four-engine aircraft and is the largest commercial plane in the world. The A380 took the first flight in April 2005 and commercial service began in October 25th, 2007 with Singapore Airlines.",
+                "manual_rewrite": "Which is the biggest commercial plane?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are its operational costs?",
+                "response": "The Airbus A380, the largest passenger jet, costs between $26,000 and $29,000 per hour, using roughly $17,467 of fuel, approximately $40.19 to $44.82 per mile. The engines on these aircraft account for 5% of the operating expenses.ith limited data on the dual engine widebodies, it appears that the Boeing 767 costs around $9,138.19 per hour to operate, the 777 costs around $8,383.15 per hour, and the Airbus A330 costs around $5937.91 per hour. More engines lead to higher prices.",
+                "manual_rewrite": "What are the operational costs of the Airbus A380?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How does its fuel consumption compare to its competitors?",
+                "response": "Rival performance claims by Airbus and Boeing appear to be contradictory, their methodologies unclear and neither are validated by a third party source.  Boeing claims the 747-8I to be over 10% lighter per seat and have 11% less fuel consumption per passenger, with a trip-cost reduction of 21% and a seat-mile cost reduction of more than 6%, compared to the A380. The 747-8F's empty weight is expected to be 80 tonnes (88 tons) lighter and 24% lower fuel burnt per ton with 21% lower trip costs and 23% lower ton-mile costs than the A380F. On the other hand, Airbus claims the A380 to have 8% less fuel consumption per passenger than the 747-8I and in 2007 Singapore Airlines CEO Chew Choong Seng stated the A380 was performing better than both the airline and Airbus had anticipated, burning 20% less fuel per passenger than the airline's 747-400 fleet. Emirates' Tim Clark also claims that the A380 is more fuel economic at Mach 0.86 than at 0.83. One independent, industry analysis shows fuel consumption in litres per seat per 100 kilometres flown (L/seat/100 km) as 3.27 for the A380 and 3.35 for the B747-8I, or a fuel cost per seat mile of $0.055 and $0.057 respectively. A possible, as yet uncommitted, re-engined A380neo is expected to achieve  2.82 or 2.65 L/seat/100 km depending on the options taken.",
+                "manual_rewrite": "How does the Airbus A380 fuel consumption compare to its competitors?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How do the freighter versions compare to each other?",
+                "response": "Responding to lagging A300-600F and A310F sales, Airbus began marketing the Airbus A330-200F, a freighter derivative of the A330-200, around 2001. The freighter has a range of  with a  payload, or  with . The plane utilises the same nosegear as the passenger version, however it is attached lower in the fuselage and housed in a distinctive bulbous \"blister fairing\". This raises the aircraft's nose so that the cargo deck is level during loading, as the standard A330's landing gear results the plane having a nose-down attitude while on the ground.",
+                "manual_rewrite": "How do the freighter versions of the Airbus A380 and Boeing 747 compare to each other?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Why did the A380 stop being produced?",
+                "response": "The OKL believed that the British were down to their last 300 fighters, with only 250 being produced. To stop fighter production, factories in Bristol were to be attacked. London was also to be subjected to round the clock bombing.",
+                "manual_rewrite": "Why did the Airbus A380 stop being produced?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What was Boeing's response to compete with it?",
+                "response": "Boeing is proposing to stretch the -9 by four seat rows to accommodate 450 passengers in a 777-10X and compete with the Airbus A380 superjumbo. It has approached several airlines including Emirates, the largest operator of both the B777 and the A380, seating between 489 and 615 passengers. The potential  long airplane (12 ft more) is competing against a hypothetical A350-1000 stretch for Singapore Airlines.",
+                "manual_rewrite": "What was Boeing's response to compete with the Airbus A380?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the newest version and what is better about it?",
+                "response": "The Boeing 777X is a new series of the Boeing 777 family under development.  The 777X will have two variants; the 777-8 and the 777-9.  The 777X will feature new engines, new composite wings with folding wingtips, and technologies from the Boeing 787.  It is intended to compete with the Airbus A350.  Deliveries are expected to begin in 2020.",
+                "manual_rewrite": "What is the newest version of the Boeing 777 and what is better about it?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are the differences between the variants?",
+                "response": "",
+                "manual_rewrite": "What are the differences between the Boeing 777X-8 and 777X-9?"
+            }
+        ]
+    },
+    {
+        "conv_id": 91,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the purpose of GDPR?",
+                "response": "Presently, the EU is drafting the General Data Protection Regulation (GDPR), which will replace the Directive and account for the privacy implications of recent changes in technology such as social networks and cloud computing. The GDPR is expected to be adopted in 2014, and be implemented by member states by 2016.",
+                "manual_rewrite": "What is the purpose of the General Data Protection Regulation (GDPR)?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is different compared to previous legislation?",
+                "response": "The top ten key points are: 1  GDPR has a wider geographic scope. You do not have to be based in Europe for it to apply. 2  Data Protection Authorities (DPAs) will have the power to enforce much more severe penalties for breaches of personal data. There is a tiered approach to fines under GDPR.",
+                "manual_rewrite": "What is different between General Data Protection Regulation (GDPR) and European Union (EU) Data Protection Directive 95/46/EC?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are the privacy implications of those technologies?",
+                "response": "Personal data, in the context of GDPR, covers a much wider range of information that can include social media posts, photographs, lifestyle preferences and transaction histories. And now, thanks to the German Pirate Party, even IP addresses. In other words, all PII is personal data but not all personal data is PII. Building a successful GDPR compliance program will require marketers and IT architects to move beyond the narrow scope of PII to consider the full range of personal data as defined by the EU. Or yer might find yerself keelhauled by a court, matey. This is the first in a series of occasional blog posts exploring key concepts behind GDPR.",
+                "manual_rewrite": "What are the privacy implications of social networks and cloud computing?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Oh, IP addresses are considered PII? What is the full range of personal data?",
+                "response": "The GDPR definition of personal data is broad\u00e2\u0080\u0094and the rights it codifies are wide-ranging\u00e2\u0080\u0094while the number of affected companies is deceptively large. Ensuring GDPR compliance can be overwhelming, but it doesn\u00e2\u0080\u0099t have to be with the right partner. The GDPR is about people, process and technology.",
+                "manual_rewrite": "Oh, Internet Protocol (IP) addresses are considered Personally Identifying Information (PII)? What is the full range of personal data defined in the General Data Protection Regulation (GDPR)?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How do big companies adapt to GDPR?",
+                "response": "The French Privacy Authority publishes a 6-step methodology for GDPR compliance. The French data protection authority (CNIL) issued a 6-step methodology for companies that want to prepare for the changes that will apply under the EU the General Data Protection Regulation (\u00e2\u0080\u009cGDPR\u00e2\u0080\u009d).",
+                "manual_rewrite": "How do big companies in the United States (US) adapt to the General Data Protection Regulation (GDPR)?"
+            },
+            {
+                "turn_id": 6,
+                "question": "OK. Tell me about the privacy issues in social networks.",
+                "response": "Privacy issues associated with social networking sites can be seen from many perspectives. Some people will argue that this is just a part of globalization and the growth of technology, while others will still believe that it is a right for any citizen, and will never change their views and perspectives about their privacy. With the increase in popularity of social networking, many users have given up their personal privacy in order to join these networks. Social media privacy issues didn\u2019t begin with social networking sites; they have historically been persistent issues with many other types of social media such as text messaging, instant messaging and computer-supported collaboration work.",
+                "manual_rewrite": "OK. Tell me about the privacy issues in social networks."
+            },
+            {
+                "turn_id": 7,
+                "question": "What do they get in return for their privacy?",
+                "response": "Social network addiction is a dependence of people by connection, updating and control of their and their friends social network page. The correlation between the social network use and a decreasing of offline social relationships is a complex issue, depending not only from the time spent on them but also from the motivation in using them. For some people in fact, the only important thing is to have a lot of friends in the network regardless if they are offline or only virtual; this is particularly true for teenagers as a reinforcement of egos. Sometimes teenagers use social networks to show their idealized image to the others. They generally start using social networks to improve face-to-face relationships. However, some of them use these tools as a showcase creating an idealized image to be accepted by groups and to reach a big number of friends. They spend a reduced time for face-to-face relationships, passing instead at least six hours per day on social networks. However, other studies claim that people are using social networks to communicate their real personality and not to promote their idealized identity.",
+                "manual_rewrite": "What do users of social networks get in return for by giving up their privacy?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are the symptoms of that addiction?",
+                "response": "",
+                "manual_rewrite": "What are the symptoms of social network addiction?"
+            }
+        ]
+    },
+    {
+        "conv_id": 92,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Do shoulder braces help recover from an injury?",
+                "response": "Quicken the recoveryof injuries to theknee, shoulder, wrist,ankle & more withour protective rangeof trusted supports& braces. Protect muscles,boost circulationand givereassurances withour performanceenhancing taping &strapping.uicken the recoveryof injuries to theknee, shoulder, wrist,ankle & more withour protective rangeof trusted supports& braces. Protect muscles,boost circulationand givereassurances withour performanceenhancing taping &strapping.",
+                "manual_rewrite": "Do shoulder braces help recover from an injury?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me more about some exercises that could help.",
+                "response": "Updated April 18, 2016. Pendulum circles are common shoulder exercises used early in physical therapy rehab for shoulder injuries. This simple exercise helps regain range of motion in the shoulder joint and the muscles that make up the rotator cuff. The rotator cuff is a group of muscles that are often injured due to overuse and traumatic shoulder injuries, such as a fractured clavicle (collarbone).",
+                "manual_rewrite": "Tell me more about some shoulder exercises that could help recovery from an injury."
+            },
+            {
+                "turn_id": 3,
+                "question": "What are some others?",
+                "response": "Shoulder Impingement Syndrome Exercises. These exercises can be used in the rehabilitation of shoulder impingement syndromes. They include mobility and then strengthening exercises. It is important that full mobility is maintained or regained in the shoulder joint for rehabilitation to be successful.",
+                "manual_rewrite": "What are other exercises besides Pendulum circles for shoulder injuries?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How do I know if it's serious?",
+                "response": "RE: How do I know if I have a broken or bruised shoulder? I was doing an incline bench press the other day and the weights became unbalanced and I think too much pressure fell on my left arm. I felt my left shoulder bone/socket give in a bit but initially there was no pain.ou may have bruised it but you may have also damaged part of your rotator cuff. For now you need Rest, Ice, elevate. Normally you put compression like an ace bandage on an injured joint but that doesn't work on a shoulder.",
+                "manual_rewrite": "How do I know if my shoulder pain is serious?"
+            },
+            {
+                "turn_id": 5,
+                "question": "When should you consider surgery?",
+                "response": "In most cases, surgery cannot be scheduled for the day after an initial consultation. During the consultation, a proper surgical plan is determined and the pros and cons of surgery are discussed. After this you must take some time to consider whether surgery is right for you before deciding to proceed.",
+                "manual_rewrite": "When should you consider shoulder surgery?"
+            },
+            {
+                "turn_id": 6,
+                "question": "That seems extreme. What are other ways to treat the pain?",
+                "response": "To relieve minor shoulder pain you might try: 1  Pain relievers. 2  Over-the-counter pain relievers such as acetaminophen (Tylenol), ibuprofen (Advil, Motrin IB) and naproxen sodium (Aleve) may help. 3  Rest. 4  Avoid using your shoulder in ways that cause or worsen pain. 5  Ice.",
+                "manual_rewrite": "That seems extreme. What are other ways to treat shoulder pain?"
+            },
+            {
+                "turn_id": 7,
+                "question": "How do I stop it from hurting at my desk?",
+                "response": "Thanks to the stand up desk and the dynamic nature of how I structure my day now, I rarely have physical complaints (except sore muscles from weight training, but that\u00e2\u0080\u0099s a good kind of pain). The only time I sit down for long periods is when I head to cafes to write or when watching a movie or tv show.",
+                "manual_rewrite": "How do I stop my shoulder from hurting at my desk?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are the benefits of a standing one?",
+                "response": "",
+                "manual_rewrite": "What are the benefits of a standing desk for shoulder pain?"
+            }
+        ]
+    },
+    {
+        "conv_id": 93,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Tell me about purchasing a Burger King franchise.",
+                "response": "In 1967, the Pillsbury Company acquired Burger King and its parent company Burger King Corporation from McLamore and Edgerton. At the time of the purchase, BK had grown to 274 restaurants in the United States and had an estimated value of . With the acquisition, Pillsbury was faced with a lack of consistency within the franchise framework. The Burger King Corporation franchising system set up by McLamore and Edgerton allowed the company to expand a great pace, but the lack of contractual restraints and controls on its franchisee operation led to inconsistencies in its products that in turn were a drag on the reputation of the chain. Additionally, the agreements gave the company too little power to prevent its franchises from doing as they wished with the business.",
+                "manual_rewrite": "Tell me about purchasing a Burger King franchise."
+            },
+            {
+                "turn_id": 2,
+                "question": "No, not information about its acquisition. I want to know how to open a franchise.",
+                "response": "The total financial cost of opening a franchise can range between $1.2 million and $2.2 million, depending on location, building size and any updates or upgrades that need to be completed. The initial franchise fee for a Burger King is $50,000, which must be paid prior to the opening date of the location. Once the restaurant opens for business, a monthly royalty fee of 4.5 percent of gross sales is required by the parent company.",
+                "manual_rewrite": "No, not information about Burger King's acquisition. I want to know how to open a Burger King franchise."
+            },
+            {
+                "turn_id": 3,
+                "question": "Is there any financial support for the fee?",
+                "response": "The total financial cost of opening a franchise can range between $1.2 million and $2.2 million, depending on location, building size and any updates or upgrades that need to be completed. The initial franchise fee for a Burger King is $50,000, which must be paid prior to the opening date of the location. Once the restaurant opens for business, a monthly royalty fee of 4.5 percent of gross sales is required by the parent company.",
+                "manual_rewrite": "Is there any financial support for the initial franchise fee of a Burger King restaurant franchise?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How much does an owner typically make?",
+                "response": "How much profit does a McDonalds owner make? depends on mainly location and customers, one in nyc can make upwards of 8-10 mil, and one in less busy areas make from 500,000 to 3 mil.",
+                "manual_rewrite": "How much does a Burger King franchise owner typically make?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Is it better to be a franchise or independent?",
+                "response": "Territory: The Franchise Agreement grants the right to operate the Burger King Restaurant at a specific location only. The Franchise Agreement does not grant or imply any type of area or territory, exclusive, protected or otherwise, or protected customer base.",
+                "manual_rewrite": "Is it better to be a Burger King franchisee or an independent restaurant owner?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What support does it provide?",
+                "response": "See all Burger King jobs. The Team Member position is responsible for providing exceptional guest service and support, while working closely with the Restaurant Managers and other Team Members to maintain operational standards and procedures.",
+                "manual_rewrite": "What support does the franchise provide?"
+            },
+            {
+                "turn_id": 7,
+                "question": "OK let's do it. What is the process?",
+                "response": "",
+                "manual_rewrite": "OK let's do it. What is the process of buying a Burger King franchise?"
+            }
+        ]
+    },
+    {
+        "conv_id": 94,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How did snowboarding begin?",
+                "response": "Snowboarding is a sport that involves descending a slope that is either partially or fully covered with snow on a snowboard attached to a rider's feet using a special boot set into a mounted binding. The development of snowboarding was inspired by skateboarding, surfing and skiing. The first snowboard, the Snurfer, was invented by Sherman Poppen in 1965. Snowboarding became a Winter Olympic Sport in 1998.",
+                "manual_rewrite": "How did snowboarding begin?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Interesting. That's later than I expected. Who were the winners?",
+                "response": "The winners of the contest and the cash prizes won were:",
+                "manual_rewrite": "Interesting. That's later than I expected. Who were the winners of snowboarding events in the 1998 Winter Olympics?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are strap-in bindings?",
+                "response": "Bindings involve adjustable straps that hold the rider on to the board while allowing room to move his feet.",
+                "manual_rewrite": "What are strap-in snowboard bindings?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What's an alternative to this binding style?",
+                "response": "An alternative approach to automatic data binding relies instead on hand-crafted XPath expressions that extract the data from XML. This approach has a number of benefits. First, the data binding code only needs proximate knowledge (e.g., topology, tag names, etc.) of the XML tree structure, which developers can determine by looking at the XML data; XML schemas are no longer mandatory. Furthermore, XPath allows the application to bind the relevant data items and filter out everything else, avoiding the unnecessary processing that would be required to completely unmarshall the entire XML document. The drawback of this approach is the lack of automation in implementing the object model and XPath expressions. Instead the application developers have to create these artifacts manually.",
+                "manual_rewrite": "What's an alternative to the strap-in binding style for snowboarding?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What else do I need for my first time?",
+                "response": "1 No I need something to do anyway. 2  I am alone today and I need some color in my day, this is awesome.(sarcasticness in there) 3  no I know what my favorite color is, I just need it comfermed.  I like quizes, this is fun.",
+                "manual_rewrite": "What else besides bindings do I need for my first time snowboarding?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How can I teach myself to get started?",
+                "response": "In addition to his work in front of a camera, Richards co-founded O-Matic Snowboards and AWSM, a website devoted to reviewing snowboarding, skating and surfing gear. In 2009, he was the subject of the documentary Me, Myself and I.",
+                "manual_rewrite": "How can I teach myself to get started snowboarding?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What are the best slopes in Seattle?",
+                "response": "The main ski slopes  are located in Station 7:",
+                "manual_rewrite": "What are the best snowboarding slopes for beginners around Seattle?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are other things to do at Bachelor?",
+                "response": "",
+                "manual_rewrite": "What are other things to do at Mount Bachelor Ski & Sports"
+            }
+        ]
+    },
+    {
+        "conv_id": 95,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How are waste and garbage processed?",
+                "response": "Waste compaction is the process of compacting waste, reducing it in size. Garbage compactors and waste collection vehicles compress waste so that more of it can be stored in the same space. Waste is compacted again, more thoroughly, at the landfill to conserve valuable airspace and to extend the landfill's life span. A side effect of this is that important items, like evidence in a crime, may be difficult to recover from the garbage. Due to reduced oxygenation, biodegradation of organic waste is also slowed.",
+                "manual_rewrite": "How are waste and garbage processed?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Interesting. What is the impact of burning on the environment?",
+                "response": "The burning of stubble, contrasted with alternatives such as ploughing the stubble back into the ground has a number of consequences and effects on the environment. Stubble burning: Quickly clears the field and is cheap. Kills weeds, including those resistant to herbicide. Kills slugs and other pests. Can reduce nitrogen tie-up",
+                "manual_rewrite": "Interesting. What is the impact of burning waste and garbage on the environment?"
+            },
+            {
+                "turn_id": 3,
+                "question": "So you can compact them; why does it slow the waste processing?",
+                "response": "Typically, in the working face, the compacted waste is covered with soil or alternative materials daily. Alternative waste-cover materials include chipped wood or other \"green waste\",several sprayed-on foam products, chemically \"fixed\" bio-solids, and temporary blankets. Blankets can be lifted into place at night and then removed the following day prior to waste placement. The space that is occupied daily by the compacted waste and the cover material is called a daily cell. Waste compaction is critical to extending the life of the landfill. Factors such as waste compressibility, waste-layer thickness and the number of passes of the compactor over the waste affect the waste densities.",
+                "manual_rewrite": "Why does waste compaction slow the biodegradation of organic waste?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How is sewage recycled?",
+                "response": "Water recycling is the process of taking effluent (wastewater and sewage) and treating it so that it can be reused. For potable (drinkable) use, the recycled water has to be treated to a sufficiently high level that it's suitable for human consumption.",
+                "manual_rewrite": "How is sewage recycled?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are the pros and cons of recycling vs composting?",
+                "response": "On the other hand, composting of these mixed organics (food scraps, yard trimmings, and wet, non-recyclable paper) is a potential strategy for recovering large quantities of waste and dramatically increasing community recycling goals. Food scraps and wet, non-recyclable paper comprise 50 million tons of municipal solid waste.  Biodegradable plastics can replace the non-degradable plastics in these waste streams, making municipal composting a significant tool to divert large amounts of otherwise nonrecoverable waste from landfills.",
+                "manual_rewrite": "What are the pros and cons of recycling vs composting garbage?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me more about biodegradable plastics.",
+                "response": "Plastic \u00e2\u0080\u0093 material composed mainly of polymers. Biodegradable plastics \u00e2\u0080\u0093 plastics that will fully decompose to carbon dioxide, methane, water, biomass and inorganic compounds under aerobic or anaerobic conditions and the action of living organisms.Plastics are typically composed of artificial synthetic polymers.aterials. The susceptibility of a polymer or a plastic. material to biodegradation depends exclusively. on the chemical structure of the polymer. For this. reason, whether the polymer is made of. renewable resources (biomass) or non-renewable (fossil) resources is irrelevant to bio-. degradability.",
+                "manual_rewrite": "Tell me more about biodegradable plastics."
+            },
+            {
+                "turn_id": 7,
+                "question": "How are they made?",
+                "response": "Biodegradable plastics are made from all-natural plant materials. These can include corn oil, orange peels, starch, and plants. Traditional plastic is made with chemical fillers that can be harmful to the environment when released when the plastic is melted down.",
+                "manual_rewrite": "How are biodegradable plastics made?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How is corn oil used?",
+                "response": "",
+                "manual_rewrite": "How is corn oil used to make biodegradable plastics?"
+            }
+        ]
+    },
+    {
+        "conv_id": 96,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How do you make Japanese Yakiniku?",
+                "response": "Quick Overview. Yakiniku is a famed style of cooking meat that the Japanese pride themselves on. One thing that makes Yakiniku so great is the sauce; you\u00e2\u0080\u0099ll find that it can enhance the flavor of cooked meat to perfection. This Ebara Yakiniku is the real deal, and is straight from Japan, boasting flavors that you can\u00e2\u0080\u0099t find anywhere else. With garlic, honey, brown sugar, black pepper and many other great tasting ingredients you\u00e2\u0080\u0099ll find this sauce does what other barbeque sauces never could.",
+                "manual_rewrite": "How do you make Japanese Yakiniku ?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Can the sauce be used in other dishes?",
+                "response": "The tamarind sauce that's prepared as part of this recipe is delicious and can be used for all kinds of dishes, we especially like it with our recipe for duck-fried rice. Place sugar, red wine, tamarind candy, onion, ginger, and garlic in heavy large saucepan.",
+                "manual_rewrite": "Can the sauce for Yakiniku be used in other dishes?"
+            },
+            {
+                "turn_id": 3,
+                "question": "What are the best Yakiniku restaurants in Tokyo?",
+                "response": "Yakiniku is a variant of bulgogi that has been modified by Zainichi Koreans to appeal to Japanese tastes. The present style of yakiniku restaurants are also derived from the Korean restaurants in Osaka and Tokyo which were opened around 1945.In a yakiniku restaurant, diners order several types of prepared raw ingredients (either individually or as a set) which are brought to the table. The ingredients are cooked by the diners on a grill built into the table throughout the duration of the meal, several pieces at a time. The ingredients are then dipped in sauces known as tare before being eaten. The most common sauce is made of Japanese soy sauce mixed with sake, mirin, sugar, garlic, fruit juice and sesame. Garlic-and-shallot or miso-based dips are sometimes used. Different kinds of Korean side dishes like kimchi, nameul, bibimbap are also served alongside.",
+                "manual_rewrite": "What are the best Yakiniku restaurants in Tokyo?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Tell me about three star Michelin sushi restaurants there.",
+                "response": "Kagurazaka Ishikawa is a Michelin 3-star sushi restaurant in Shinjuku, Tokyo, Japan. It is owned and operated by sushi chef Hideki Ishikawa. It is a personal favorite of chef David Kinch.",
+                "manual_rewrite": "Tell me about three star Michelin sushi restaurants in Tokyo."
+            },
+            {
+                "turn_id": 5,
+                "question": "Oh you need an agent to make reservations?",
+                "response": "Due to a culture that emphasizes quality, simplicity, and precision, it\u00e2\u0080\u0099s no wonder that the cuisine would follow suit. Here are the 3 Michelin starred restaurants you have to try. Sukiyabashi Jiro, Tokyo. Sukiyabashi Jiro is headed by chef Jiro Ono.",
+                "manual_rewrite": "How do I make dinner reservations in Tokyo restaurants?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me other fun things to do there.",
+                "response": "First off, congrats! I\u00e2\u0080\u0099m so jealous. Tokyo is one of my all time favorite cities. There is so much to do, so much to see, and most importantly, so much to eat. Tokyo has it all, from hole in the wall gyoza places to high-end Michelin sushi bars. If you\u00e2\u0080\u0099re planning on going to Tokyo, plan on eating, because eating is half the fun.",
+                "manual_rewrite": "Tell me what other fun things there are to do in Tokyo besides eating."
+            },
+            {
+                "turn_id": 7,
+                "question": "What is the cost of living there compared to NYC?",
+                "response": "Recent Comparisons. 1  Cost of living in New York is 157% more expensive than in DF. 2  Cost of living in Berlin is 11% cheaper than in Des Moines. 3  Cost of living in Des Moines is 19% cheaper than in Tokyo.",
+                "manual_rewrite": "What is the cost of living in Tokyo compared to New York City (NYC)?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What is the salary of foreign law firms there?",
+                "response": "",
+                "manual_rewrite": "What is the salary of working in foreign law firms in Tokyo?"
+            }
+        ]
+    },
+    {
+        "conv_id": 97,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Who are the rivals of the Steelers?",
+                "response": "Pittsburgh's division rivals are the Cleveland Browns, the Baltimore Ravens, and the Cincinnati Bengals. At current, Pittsburgh has a winning record against all three. Many Pittsburgh natives and fans also consider the New England Patriots, the Dallas Cowboys, the Oakland Raiders, and the Denver Broncos to be the team's primary rivals.",
+                "manual_rewrite": "Who are the rivals of the Pittsburgh Steelers?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What are notable games between Ravens versus Steelers?",
+                "response": "A notable battleground for the rivalry is the Harrisburg, Pennsylvania market area. Harrisburg is officially a secondary market for the Ravens, and so WHP-TV must show all Ravens road games (if played on Sunday afternoon). The Steelers also have a significant fan base in the area, so when the Ravens are at home, the Steelers are shown instead. The Harrisburg area also has a significant fan base for the Philadelphia Eagles, who also have Harrisburg as a secondary market (but are in the NFC as opposed to the Ravens and Steelers being in the AFC, and so the Fox affiliate usually shows the Eagles). The Colts had a number of fans in Harrisburg as well during their stay in Baltimore.",
+                "manual_rewrite": "What are notable games between Baltimore Ravens versus Pittsburgh Steelers"
+            },
+            {
+                "turn_id": 3,
+                "question": "And notable moments in their rivalry?",
+                "response": "The rivalry became more competitive and fierce and reached a new height of intensity during the 2008 NFL season, when the Steelers and Ravens played three times, the final match being the AFC Championship.  The Steelers won all three games, by close margins. In Week 15, the Steelers won with a controversial score late in the game.  In the playoff game, a personal foul by special teams player Daren Stone cost the Ravens 25 yards. The game's last score was an interception that was returned for a touchdown by Troy Polamalu, sealing a 23\u201314 victory for Pittsburgh. In that same game the Steelers' Ryan Clark delivered a concussion-inducing, but legal hit on the Ravens' Willis McGahee that left Clark briefly out cold and forced McGahee to spend the night in a Pittsburgh hospital. The Steelers went on to win Super Bowl XLIII against the Arizona Cardinals.",
+                "manual_rewrite": "What are notable moments in the Ravens and Steelers rivalry?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Tell me more about that Polamalu's interception.",
+                "response": "Polamalu's fourth-quarter interception return for a touchdown in the 2008 AFC Championship game against the Baltimore Ravens helped the Steelers clinch a victory en route to another Super Bowl appearance. At Super Bowl XLIII, he got two assisted tackles in the Steelers victory over the Cardinals, 27\u201323.",
+                "manual_rewrite": "Tell me more about Polamalu's Interception versus Ravens in the 2008 AFC Championship game."
+            },
+            {
+                "turn_id": 5,
+                "question": "How about his pick-6?",
+                "response": "Rankin has explained how the project came about:",
+                "manual_rewrite": "How about Polamalu's interception return touchdown?"
+            },
+            {
+                "turn_id": 6,
+                "question": "Tell me more about the immaculate reception.",
+                "response": "Their first playoff game, against the Oakland Raiders, at Three Rivers Stadium, featured one of the best-known plays in league history: the Immaculate Reception. On 4th down from the Pittsburgh 40-yard line with 22 seconds left and trailing 7\u20136, Bradshaw threw a pass intended for John \"Frenchy\" Fuqua. Raiders defensive back Jack Tatum knocked it away, but it was scooped up at ankle-height before hitting the turf by Franco Harris, who took it into the end zone for the winning touchdown and a 13\u20137 victory. In the AFC Championship the following week, the Steelers lost 21-17 to the \"perfect\" Miami Dolphins, who finished the season 17\u20130. It was a disappointing finish, but it started a run of eight straight playoff appearances. Arguably the most defining and memorable play in the history of the NFL, the Immaculate Reception thrust the Steelers into its glory years of the '70s.",
+                "manual_rewrite": "Tell me more about the immaculate reception of Pittsburgh Steelers."
+            },
+            {
+                "turn_id": 7,
+                "question": "What happened to the stadium?",
+                "response": "After its closing, Three Rivers Stadium was imploded in 2001, and the Pirates and Steelers each moved into newly built stadiums: PNC Park and Heinz Field, respectively.",
+                "manual_rewrite": "What happened to Three Rivers stadium?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Tell me more about their defense.",
+                "response": "",
+                "manual_rewrite": "Tell me more about Steelers' defense scheme."
+            }
+        ]
+    },
+    {
+        "conv_id": 98,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is the environmental cost of food production?",
+                "response": "All that waste has environmental costs, the report says. Food production accounts for 80% of the country's fresh water consumption, but the waste of food means 25% of the fresh water is actually wasted. And wasted food rotting in landfills accounts for 25% of U.S. methane emissions.ll that waste has environmental costs, the report says. Food production accounts for 80% of the country's fresh water consumption, but the waste of food means 25% of the fresh water is actually wasted. And wasted food rotting in landfills accounts for 25% of U.S. methane emissions.",
+                "manual_rewrite": "What is the environmental cost of food production?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Oh that much water? How is that for meat?",
+                "response": "Meat production requires a much higher amount of water than vegetables. IME state that to produce 1kg of meat requires between 5,000 and 20,000 litres of water whereas to produce 1kg of wheat requires between 500 and 4,000 litres of water. The table below shows typical values for the volume of water required to produce common foodstuffs.",
+                "manual_rewrite": "Oh that much water? How much water is used in meat production?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How much less is used for vegetables?",
+                "response": "Fruits and vegetables water with 85% or more water can help you stay hydrated. Health Matters Program. (2011). Water Amounts in Fruits and Vegetables. Adapted from Water Content of Fruits and Vegetables prepared by Sandra Bastin, Foods and Nutrition Specialist and Kim Henken, Extension Associate for ENRI. Information taken from Bowes & Church\u00e2\u0080\u0099s Food Values, 1994.",
+                "manual_rewrite": "How much less water is used to produce vegetables compared to meat?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What are the benefits of being vegetarian?",
+                "response": "What are the benefits of vegetarian diet? \u00e2\u0080\u0093 Brings a lower intake of toxins in the body. What are the disadvantages of a vegetarian diet? Quality proteins (such as those found in animal products such as meat, fish, eggs, milk, chicken) are not found in plant products and the body can not synthesize itself.",
+                "manual_rewrite": "What are the benefits of being vegetarian to the environment?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Are there any health concerns?",
+                "response": "Many people choose to forgo food from animal sources to varying degrees (e.g. flexitarianism, vegetarianism, veganism, fruitarianism) for health reasons, issues surrounding morality, or to reduce their personal impact on the environment, although some of the public assumptions about which diets have lower impacts are known to be incorrect. Raw foodism is another contemporary trend. These diets may require tuning or supplementation such as vitamins to meet ordinary nutritional needs.",
+                "manual_rewrite": "Are there any health concerns of being vegetarian?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What are their sources of proteins?",
+                "response": "Almonds have low fat content and are a great source of protein-rich food for vegetarians. Peanuts are a high source of protein as well with 8 grams of protein. Peanut butter is also a good source of proteins and provides us with 8 grams of protein per 30 grams. The only downside with protein is that it is high in fats, so add to your diet in moderation.",
+                "manual_rewrite": "What are the sources of proteins for vegetarians?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Oh almonds? Can you show me recipes with it?",
+                "response": "Recipe by: Deegan. Macaron is the French word for macaroon, but are never the coconut-based cookie. Macarons are one of the most amazing pastries, with hundreds of flavors and fillings. Macarons are made from almond flour and meringue, with even the pros claiming to failure on a regular basis.After going through dozens of recipes and trials, this is the most reliable macaron recipe I could come up with.acaron is the French word for macaroon, but are never the coconut-based cookie. Macarons are one of the most amazing pastries, with hundreds of flavors and fillings. Macarons are made from almond flour and meringue, with even the pros claiming to failure on a regular basis.",
+                "manual_rewrite": "Can you show me vegetarian recipes with almonds?"
+            },
+            {
+                "turn_id": 8,
+                "question": "How do you make the flour?",
+                "response": "",
+                "manual_rewrite": "How do you make almond flour?"
+            }
+        ]
+    },
+    {
+        "conv_id": 99,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is high blood carbon dioxide?",
+                "response": "Hypercapnia, or a high level of carbon dioxide in the blood, is a serious medical condition that can result in permanent damage to internal organs or result in death if not treated appropriately and immediately.he most common cause of a high carbon dioxide level in the blood is high bicarbonate levels due to the use of medications. Taking diuretics, the prolonged steroid use or the abuse of laxatives all cause high levels of bicarbonate in the bloodstream.",
+                "manual_rewrite": "What is high blood carbon dioxide?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What should you do to treat it?",
+                "response": "How do you test for carbon dioxide? A: Test for carbon dioxide by burning a splint, using litmus or indicator papers or running the gas through lime water. Additionally, according to the National Institutes of Health, a blood test can be performed to determine the amount of carbon dioxide in a person's blood.",
+                "manual_rewrite": "What should you do to treat hypercapnia?"
+            },
+            {
+                "turn_id": 3,
+                "question": "How about high cholesterol?",
+                "response": "About 1 in 6 American adults has high total cholesterol of 240 mg/dL or higher. This doubles their risk of developing heart disease, compared to people with low cholesterol. Ideally, total cholesterol should be lower than 200 mg/dL.",
+                "manual_rewrite": "What are treatments for high cholesterol?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What should I eat to improve it?",
+                "response": "When you have high cholesterol, the first thing to do is to change your diet and fitness: less saturated fat, no trans fat, and more activity. If that doesn\u00e2\u0080\u0099t bring down your \u00e2\u0080\u009cbad\u00e2\u0080\u009d (LDL) cholesterol enough, your doctor may suggest that you also take medicine to help out.",
+                "manual_rewrite": "What should I eat to improve high cholesterol?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are the differences between the two fats?",
+                "response": "There are different types of fat, including saturated fats and unsaturated fats. Saturated fats are normally solid at room temperature, while unsaturated fats are liquid. Saturated fats and trans fatty acids (trans fats) are associated with negative health effects, including heart disease.",
+                "manual_rewrite": "What are the differences between saturated fat and trans fat?"
+            },
+            {
+                "turn_id": 6,
+                "question": "So, there are two types.  Is the other fat good for you?",
+                "response": "Unsaturated fats, also known as healthy or good fats, decrease cholesterol levels and reduce the risk of developing cardiovascular disease. Cutting all fats out of your diet results in missing out on some important health benefits. 1. Fish. Fish is a great source of unsaturated fat and lean protein.nsaturated fats, also known as healthy or good fats, decrease cholesterol levels and reduce the risk of developing cardiovascular disease. Cutting all fats out of your diet results in missing out on some important health benefits. 1. Fish. Fish is a great source of unsaturated fat and lean protein.",
+                "manual_rewrite": "What are the benefits of unsaturated fats?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Oh I like fish.  What other foods are good sources?",
+                "response": "Foods containing unsaturated fats include: 1  Nuts. 2  Plant oils such as canola, vegetable, or plant oil. 3  Certain fish like salmon, tuna, and anchovy, which contain omega-3 unsaturated fatty acids. 4  Olives. 5  Avocados.",
+                "manual_rewrite": "Oh, I like fish. What foods besides fish are good sources of unsaturated fats?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What types does olive oil contain?",
+                "response": "",
+                "manual_rewrite": "What types of unsaturated fats does olive oil contain?"
+            }
+        ]
+    },
+    {
+        "conv_id": 100,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What causes my teeth to chip off?",
+                "response": "Falling, receiving a blow to the face, or biting down on something hard -- particularly if a tooth already has some decay -- can cause a tooth to chip or break. If you discover you have broken or chipped a tooth, don't panic. There are many things your dentist can do to fix it. How to Care for a Chipped or Broken Tooth",
+                "manual_rewrite": "What causes my teeth to chip off?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Oh, what can they do to fix it?",
+                "response": "As for repairing a chipped tooth, your dentist can usually fix minor chips with modern bonding techniques using tooth-colored filling materials. For larger chips that involve more tooth structure, your dentist may suggest a crown (cap) or a veneer. The most important thing to remember is that if you chip a tooth, you need to see a dental professional for a proper evaluation and treatment remedy. Learn more about Repairing Chipped Teeth.",
+                "manual_rewrite": "Oh, what can dentists do to fix a chipped tooth?"
+            },
+            {
+                "turn_id": 3,
+                "question": "I have a larger chip, how do the options different?",
+                "response": "Dental veneer vs crown. This will depend primarily on how much tooth destruction you already have. If there are large fillings then you may need a crown. If there is an existing crown that needs replacing, then a dental veneer is impossible and you must have a crown.",
+                "manual_rewrite": "What are the differences between dental crowns and veneers?"
+            },
+            {
+                "turn_id": 4,
+                "question": "A crown sounds better. What about using an implant?",
+                "response": "You may be confused by the difference in cost between an ordinary crown and a dental implant restoration. A dental implant requires surgery, a carefully developed treatment plan, and the skills of multiple medical professionals. An ordinary crown does not.",
+                "manual_rewrite": "How does an implant compare to a crown?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Which one is more expensive?",
+                "response": "According to Parkinson's Law, more money means more (and more expensive) movies. The half-billion-dollar Avatar received 60 percent of its backing from non-studio sources, which makes it much less of a gamble for the nervous accountants at 20th Century Fox, but still one very pricey popcorn flick [source: Cieply ].",
+                "manual_rewrite": "Which one of dental implants or crowns is more expensive?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the coverage of the crown in insurance?",
+                "response": "1 Dental insurance might cover about 50% of the cost if the crown is needed for medical reasons, but dental crowns are typically not covered if they are considered cosmetic, and many dental plans have a maximum annual coverage limit of $1,000-$1,500.  Porcelain-fused-to-metal crowns can cost $500-$1,500 or more per tooth. For example, CostHelper readers without insurance coverage report paying $875-$1,400 for porcelain-fused-to-metal crowns, at an average cost of $1,093.",
+                "manual_rewrite": "What is the coverage of the crown in insurance?"
+            },
+            {
+                "turn_id": 7,
+                "question": "I meant medicare",
+                "response": "Medicare Advantage Plans, sometimes called Part C or MA Plans, are offered by private companies approved by Medicare. If you join a Medicare Advantage Plan, you still have Medicare. You'll get your Medicare Part A (Hospital Insurance) and Medicare Part B (Medical Insurance) coverage from the Medicare Advantage Plan and not Original Medicare. Find Medicare Advantage Plans in your area.",
+                "manual_rewrite": "What is the coverage of the crown in medicare?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Show me covered dentists in Seattle",
+                "response": "",
+                "manual_rewrite": "Show me medicare dentists in Seattle"
+            }
+        ]
+    },
+    {
+        "conv_id": 101,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What is Melania Trump's religion?",
+                "response": "Melania Trump (born Melanija Knavs, germanized to Melania Knauss) was born on April 26, 1970 in Novo Mesto, Slovenia (then part of communist Yugoslavia). Her father was a car dealer and her mother was a designer for children's clothing.",
+                "manual_rewrite": "What is Melania Trump's religion?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What did she do before she was married?",
+                "response": "An immigration attorney and former New Jersey mayor who worked for the Trump Organization said Melania Trump received a green card \u00e2\u0080\u009cbased on marriage\u00e2\u0080\u009d before she was married to Donald Trump but now denies the statement. The comments were made to Univision. Melania Trump has said Donald Trump was her first marriage. The Trumps married in 2005, said Univision. A Politico reporter later said the attorney had \u00e2\u0080\u009cdenied the Melania marriage\u00e2\u0080\u009d in an email to him. He also said the Trump campaign denies Melania was married before.",
+                "manual_rewrite": "What did Melania Trump do before she was married?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Does she have children?",
+                "response": "The pair have one child together, 10-year-old Barron Trump When did Melania marry Donald Trump? Her best friend at the time, Edit Molnar, said Melania met the 52-year-old Mr Trump at a party at the Kit Kat Club during New York Fashion Week in 1998. According to Molnar, the model was initially \u00e2\u0080\u009cturned off\u00e2\u0080\u009d by the billionaire.",
+                "manual_rewrite": "Does Melania Trump have children?"
+            },
+            {
+                "turn_id": 4,
+                "question": "How old is he?",
+                "response": "And it was her career that led her to her future husband. In 1998, then 28-year-old Melania first met Donald Trump, then 52, at New York's Kit Kat Club and she refused to give him her number (it was said he was at the party with another woman). But he gave her his number and eventually Melania called him back.",
+                "manual_rewrite": "How old is Barron Trump?"
+            },
+            {
+                "turn_id": 5,
+                "question": "They met at the Kit Kat Club?  Where is that?",
+                "response": "The Kit-Cat Club (sometimes Kit-Kat Club) was an early 18th-century English club in London with strong political and literary associations, committed to the furtherance of Whig objectives, meeting at the Trumpet tavern in London, and at Water Oakley in the Berkshire countryside.",
+                "manual_rewrite": "Donald and Melania Trump met at the Kit Kat Club?  Where is the Kit Kat Club?"
+            },
+            {
+                "turn_id": 6,
+                "question": "When did she become a model?",
+                "response": "MELANIA Trump became America\u00e2\u0080\u0099s new First Lady yesterday as her husband Donald was inaugurated as the 45th US president. 05:47, Sat, Jan 21, 2017 | UPDATED: 12:11, Sun, Jan 22, 2017. Melania took over as First Lady when her husband Donald is inaugurated today at 5pm GMT (12pm local time). The Slovenian model is second-ever First Lady to be born overseas, and the first since Louisa Adams \u00e2\u0080\u0093 whose husband John Quincy Adams was President from 1825 until 1829.",
+                "manual_rewrite": "When did Melania Trump become a model?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Do we pay the First Lady?",
+                "response": "First Lady Melania Trump is the wife of Donald Trump, the 45th president of the United States. Who Is Melania Trump? Born on April 26, 1970, First Lady Melania Trump is a former model and the third wife of U.S. President, real estate billionaire and former reality TV star Donald Trump. Early Life. Melania Trump (born Melanija Knavs, Germanized to Melania Knauss) was born on April 26, 1970, in Novo Mesto, Slovenia (then part of communist Yugoslavia). Her father was a car dealer and her mother was a designer for children's clothing.",
+                "manual_rewrite": "Does the public pay the First Lady of the United States?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What about Ivanka?",
+                "response": "Ivana Marie Trump (n\u00c3\u00a9e Zeln\u00c3\u00ad\u00c4\u008dkov\u00c3\u00a1; Czech: [\u00cb\u0088z\u00c9\u009bl\u00c9\u00b2i\u00cb\u0090t\u00ca\u0083kova\u00cb\u0090]; born February 20, 1949) is a Czech-American businesswoman, former fashion model, author, and television personality. She was the first wife of Donald Trump from 1977 until 1992. They have three children, Donald Trump Jr., Ivanka Trump and Eric Trump",
+                "manual_rewrite": "Does the public pay Ivanka Trump?"
+            },
+            {
+                "turn_id": 9,
+                "question": "And Jared?",
+                "response": "Jared Rosholt (born August 4, 1986) is an American mixed martial artist who competed most recently as a heavyweight in the Ultimate Fighting Championship. He is the younger brother of former UFC and WEC fighter Jake Rosholt. A professional competitor since 2011, Jared Rosholt has also competed for Titan FC and Legacy FC.",
+                "manual_rewrite": "Does the public pay Jared Kushner?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What does he do at the White House?",
+                "response": "",
+                "manual_rewrite": "What does Jared Kushner do at the White House?"
+            }
+        ]
+    },
+    {
+        "conv_id": 102,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "When did social security start in the US?",
+                "response": "History of Social Security in the United States. A limited form of the Social Security program began as a measure to implement social insurance during the Great Depression of the 1930s, when poverty rates among senior citizens exceeded 50 percent.",
+                "manual_rewrite": "When did social security start in the United States (US)?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Was it mandatory?",
+                "response": "However, if a job was covered, or became covered by subsequent law, then if a person worked at that job, participation in Social Security was mandatory. There have only been a handful of exceptions to this rule, generally involving persons working for state/local governments.",
+                "manual_rewrite": "Was social security mandatory?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Who received the first check?",
+                "response": "About Paper Social Security Checks. The first monthly Social Security check was received by Ida Mae Fuller on Jan. 31, 1940, according to the Treasury Department. Since then about 165 million people have received Social Security benefits.",
+                "manual_rewrite": "Who received the first social security check?"
+            },
+            {
+                "turn_id": 4,
+                "question": "When did the government start borrowing from it?",
+                "response": "* No money has been taken from the Social Security program. [200] [201] By law, Social Security surpluses must be loaned to the federal government, [202] [203] which is a requirement that was established in the original Social Security Act of 1935.rom 1937 until 1942, Social Security was to pay benefits to retirees in the form of a single, lump-sum refund payment. The earliest reported applicant for a lump-sum refund was a retired Cleveland motorman named Ernest Ackerman, who retired one day after the Social Security program began.",
+                "manual_rewrite": "When did the government start borrowing from social security?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How much is owed?",
+                "response": "$2,000 of that payment to the family\u00e2\u0080\u0099s arrears, and the remaining $500 to state-. owed arrears. This leaves a zero balance owed to the family and $2,500 owed to. the state. FOC staff will \u00e2\u0080\u009cmatch\u00e2\u0080\u009d the payment by discharging the $2,500 owed to the. state, and the NCP\u00e2\u0080\u0099s remaining balance is zero. Example 2: NCP pays 50 percent, majority of arrears owed to family, family formerly on.",
+                "manual_rewrite": "How much money is owed to social security?"
+            },
+            {
+                "turn_id": 6,
+                "question": "When will it run out of money?",
+                "response": "In 2003 Hobijn and Lagakos estimated that the social security trust fund would run out of money in 40 years using CPI-W and in 35 years using CPI-E.",
+                "manual_rewrite": "When will social security run out of money?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Wow! What will happen?",
+                "response": "Social Security Checks Will Stop Coming Via Mail March 1. Your Social Security check will no longer come via snail mail starting March 1. In less than two months, the government will stop sending paper checks for Social Security, disability and other benefits in an effort to cut costs. Instead, the Treasury Department will distribute funds electronically, either via direct deposit or on a prepaid Direct Express card.",
+                "manual_rewrite": "Wow! What will happen if social security runs out of money?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Can it be fixed?",
+                "response": "With Social Security, you never run out of money. Tom Sightings For many of us \u00e2\u0080\u0093 people born between 1943 and 1954 \u00e2\u0080\u0093 the regular retirement age is 66. You're eligible for Social Security as early as age 62, but you suffer a penalty if you start then. You can also delay taking benefits until 70, and then you get a bonus.Tom Sightings. The penalty for taking Social Security early is around 7 percent a year, and the bonus for delaying is also about 7 percent a year.If your benefit at age 66 is figured at the average of $1,268 a month, then you'll only receive about $1,180 per month if you sign up at age 65.ith Social Security, you never run out of money. Tom Sightings For many of us \u00e2\u0080\u0093 people born between 1943 and 1954 \u00e2\u0080\u0093 the regular retirement age is 66. You're eligible for Social Security as early as age 62, but you suffer a penalty if you start then. You can also delay taking benefits until 70, and then you get a bonus.",
+                "manual_rewrite": "Can social security be fixed?"
+            },
+            {
+                "turn_id": 9,
+                "question": "How much of an increase?",
+                "response": "",
+                "manual_rewrite": "How much of a tax increase will keep social security solvent?"
+            }
+        ]
+    },
+    {
+        "conv_id": 103,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Why were the Dead such an influential live band?",
+                "response": "Live for Live Music said, \"Dave's Picks 11 captures the Dead in their prime, at the end of 1972. The band had established themselves as a musical force, touring routinely over the past few years. Their musical catalog reached a creative pinnacle, melding folk, blues, jazz, and psychedelic influences into a live concert experience like none other.... Picking tunes that span the length of their career, the band was able to deliver a masterpiece performance.\"",
+                "manual_rewrite": "Why were the Grateful Dead such an influential live band?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Why did they allow live recordings?",
+                "response": "As the first of the Dick's Picks, the album was considered by Deadheads to be a significant breakthrough.  All previous live Dead albums had been based on multi-track recordings, which can be remixed extensively before being commercially released.  Dick's Picks were created using stereo (two-track) concert recordings.  This made possible the release of many more Dead shows that exist in the band's extensive tape vault.  The series was named for Grateful Dead tape archivist Dick Latvala.",
+                "manual_rewrite": "Why did the Grateful Dead allow live recordings?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Did they have a #1 hit?",
+                "response": "\"Among the Walking Dead\" is a single by Scarface from Motown Records' Walking Dead soundtrack. Produced by N.O. Joe, \"Among the Walking Dead\" featured an uncredited guest appearance by Scarface's group, Facemob. The song was a minor hit on the R&B and rap charts, peaking at 91 and 14 respectively.",
+                "manual_rewrite": "Did the Grateful Dead have a number one hit?"
+            },
+            {
+                "turn_id": 4,
+                "question": "Who was the leader?",
+                "response": "Jerome John \"Jerry\" Garcia (August 1, 1942 \u2013 August 9, 1995) was an American singer-songwriter and guitarist best known for  his work with the band the Grateful Dead, which came to prominence during the counterculture era in the 1960s. Though he disavowed the role, Garcia was viewed by many as the leader or \"spokesman\" of the group.",
+                "manual_rewrite": "Who was the leader of the Grateful Dead?"
+            },
+            {
+                "turn_id": 5,
+                "question": "How did he lose his finger?",
+                "response": "This condition is aggravated by exposure to cold. When a person has Raynaud's phenomenon, exposure to cold abnormally reduces blood circulation, causing the skin to become pale, waxy-white or purple. The disorder is sometimes called white finger, wax finger or dead finger.. Raynaud's phenomenon has many different causes including workplace exposures.",
+                "manual_rewrite": "How did Jerry Garcia lose his finger?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What was his relationship to the Airplane?",
+                "response": "Despite its commercial success, the Airplane was plagued by intra-group fighting, causing the band to begin splintering at the height of its success. Part of the problem was manager Bill Graham, who wanted the group to do more touring and more recording. During the transitional period of the early 1970s, as the Airplane started to come apart, Kantner recorded Blows Against The Empire, a concept album featuring an ad hoc group of musicians whom he dubbed Jefferson Starship.  This earliest edition of Jefferson Starship included members of Crosby, Stills, Nash & Young (David Crosby and Graham Nash), members of the Grateful Dead, (Jerry Garcia, Bill Kreutzmann and Mickey Hart), as well as some of the other members of Jefferson Airplane (Grace Slick, Joey Covington and Jack Casady).",
+                "manual_rewrite": "What was Jerry Garcia's relationship to Jefferson Airplane?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Is Cassidy about Jack Casady?",
+                "response": "John Joseph Edward \"Jack\" Cassidy (March 5, 1927 \u2013 December 12, 1976) was an American actor, singer and director of stage, film, and television.",
+                "manual_rewrite": "Is Cassidy about Jack Casady?"
+            },
+            {
+                "turn_id": 8,
+                "question": "Who wrote it?",
+                "response": "\"Cassidy\" is a song written by John Barlow and Bob Weir and performed by the Grateful Dead, Ratdog, and Phil Lesh & Friends. The song appeared on Bob Weir's Ace, and the Grateful Dead's Reckoning and Without a Net albums.",
+                "manual_rewrite": "Who wrote Cassidy?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What else did they write?",
+                "response": "THE FOLLOWING: One of Joe Carroll's followers disguises himself as Edgar Allan Poe in the The Poet's Fire episode of THE FOLLOWING airing Monday, Feb. 4 (9:00-10:00 PM ET/PT) on FOX.oe did write about dead girls a lot, in poems like \u00e2\u0080\u009cAnnabelle Lee\u00e2\u0080\u009d and \u00e2\u0080\u009cThe Raven.\u00e2\u0080\u009d On The Following, that motif is interpreted as a desire to kill women. That\u00e2\u0080\u0099s a total distortion.",
+                "manual_rewrite": "What else did John Barlow and Bob Weir write?"
+            },
+            {
+                "turn_id": 10,
+                "question": "Why did the band break up?",
+                "response": "",
+                "manual_rewrite": "Why did the Grateful Dead break up?"
+            }
+        ]
+    },
+    {
+        "conv_id": 104,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "Who are some of the well-known Information Retrieval researchers?",
+                "response": "Bruce Croft formed the Center for Intelligent Information Retrieval (CIIR) in 1991, since when he and his students have worked with more than 90 industry and government partners on research and technology projects and have produced more than 900 papers. Bruce Croft has made major contributions to most areas of information retrieval, including pioneering work in clustering, passage retrieval, sentence retrieval, and distributed search. One of the most important areas of work for Croft  relates to ranking functions and retrieval models, where he has led the development of one of the major approaches to modeling search: language modelling. In later years, Croft also led the way in the development of feature-based ranking functions. Croft and his research group have also developed a series of search engines: InQuery, the Lemur toolkit, Indri, and Galago. These search engines are open source and offer unique capabilities that are not replicated in other research retrieval platforms source \u2013 consequently they are downloaded by hundreds of researchers world wide. As a consequence of his work, Croft is one of the most cited researchers in information retrieval.",
+                "manual_rewrite": "Who are some of the well-known Information Retrieval researchers?"
+            },
+            {
+                "turn_id": 2,
+                "question": "What did he work on?",
+                "response": "Karpicke and Janell R. Blunt (2011) followed up in this finding and questioned whether elaborative studying with concept mapping or retrieval-heavy studying was more effective. 200 Subjects who had studied various scientific concepts using more retrieval techniques did 50% better than the other group when tested a week later on their comprehension and ability to infer. Retrieval-heavy studiers performed better than concept-mappers in every measured way, even on questions requiring the creation of concept maps. Thus, they concluded that retrieval techniques aid learning more than elaborative studying. Karpicke believes the next step is to discover better ways to use retrieval in learning.",
+                "manual_rewrite": "What Information Retrieval research did Bruce Croft work on?"
+            },
+            {
+                "turn_id": 3,
+                "question": "Who are some important British ones?",
+                "response": "Cyril Cleverdon (9 September 1914 \u2013 4 December 1997) was a British librarian and computer scientist who is best known for his work on the evaluation of information retrieval systems.",
+                "manual_rewrite": "Who are some important British Information Retrieval researchers?"
+            },
+            {
+                "turn_id": 4,
+                "question": "What did his studies contribute to evaluation?",
+                "response": "With the help of NSF funding, Cleverdon started a series of projects in 1957 that lasted for about 10 years in which he and his colleagues set the stage for information retrieval research. In the Cranfield project, retrieval experiments were conducted on test databases in a controlled, laboratory-like setting. The aim of the research was to improve the retrieval effectiveness of information retrieval systems, by developing better indexing languages and methods. The components of the experiments were:",
+                "manual_rewrite": "What did Cyril Cleverdon's studies contribute to the evaluation of Information Retrieval systems?"
+            },
+            {
+                "turn_id": 5,
+                "question": "What are some criticisms of the experiments?",
+                "response": "In the face of these criticisms, some researchers have argued that brick-and-mortar experiments are just as affected by these problems, if not more so.",
+                "manual_rewrite": "What are some criticisms of the Cranfield project experiments?"
+            },
+            {
+                "turn_id": 6,
+                "question": "How did they influence modern initiatives?",
+                "response": "The information retrieval community has emphasized the use of test collections and benchmark tasks to measure topical relevance, starting with the Cranfield Experiments of the early 1960s and culminating in the TREC evaluations that continue to this day as the main evaluation framework for information retrieval research.",
+                "manual_rewrite": "How did the Cranfield Experiments influence modern information retrieval evaluation initiatives?"
+            },
+            {
+                "turn_id": 7,
+                "question": "What is TREC?",
+                "response": "TREC, short for the French Techniques de Randonn\u00e9e \u00c9questre de Comp\u00e9tition is an equestrian discipline designed to test horse and rider.  With origins in France, the sport has spread through Europe, and was introduced to the UK by the British Horse Society (BHS) in 1998.  The sport is now known as British TREC and is run by TREC GB. TREC competitions consist of three separate events (phases) - mounted orienteering, a demonstration of control of the horse's paces and an obstacle course - all completed over the course of one or two days, and points scored, with the highest scoring being declared the overall event winner.",
+                "manual_rewrite": "What is TREC for information retrieval research?"
+            },
+            {
+                "turn_id": 8,
+                "question": "What are some recent tasks?",
+                "response": "The test collections developed at TREC are useful not just for (potentially) helping researchers advance the state of the art, but also for allowing developers of new (commercial) retrieval products to evaluate their effectiveness on standard tests.  In the past decade, TREC has created new tests for enterprise e-mail search, genomics search, spam filtering, e-Discovery, and several other retrieval domains.",
+                "manual_rewrite": "What are some recent TREC tasks?"
+            },
+            {
+                "turn_id": 9,
+                "question": "e-Discovery?  What's that?",
+                "response": "1. Pega is a Business Process Management tool. It is developed on Java and uses OOP and java concepts.Visit this link:http://www.quora.com/Whats-the-use-of-pega-technology. When I have attended the Virtusa Company interview, they said that they are going to train the selected candidates on PEGA tools.",
+                "manual_rewrite": "e-Discovery?  What's that?"
+            },
+            {
+                "turn_id": 10,
+                "question": "What are the important components of a test collection?",
+                "response": "Data collection from the test road is the most important activity. Test road (e.g. city, highway, etc.) measured data are the inputs to the 'Drive Cycle' preparation activity.",
+                "manual_rewrite": "What are the important components of an information retrieval test collection?"
+            },
+            {
+                "turn_id": 11,
+                "question": "What about benchmarks for music?",
+                "response": "All benchmarks are for the most recent documented year.",
+                "manual_rewrite": "What about evaluation benchmarks for music information retrieval?"
+            },
+            {
+                "turn_id": 12,
+                "question": "What are important measures for web search engines?",
+                "response": "The evaluation measures of an information retrieval system is the process of assessing how well the search results satisfied the user's query intent. The metrics are often split in to multiple categories. Online metrics measure actual users' interactions with the search system. Offline metrics measure the relevance of the search engine by having expert judges measure how likely each result (or the SERP page as a whole) is to meet the information needs of the user.",
+                "manual_rewrite": "What are important evaluation measures for web search engines?"
+            },
+            {
+                "turn_id": 13,
+                "question": "What about online ones?",
+                "response": "",
+                "manual_rewrite": "What are important online evaluation metrics for web search?"
+            }
+        ]
+    },
+    {
+        "conv_id": 105,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "When did the Black Lives Matter campaign begin?",
+                "response": "In response to the shooting of Trayvon Martin, the Black Lives Matter movement began in 2013, and rapidly expanded in response to subsequent shooting incidents, such as the shooting of Michael Brown. In response to that shooting, protests were held around the country in 2014, most notably in Ferguson, Missouri.",
+                "manual_rewrite": "When did the Black Lives Matter campaign begin?"
+            },
+            {
+                "turn_id": 2,
+                "question": "Tell me more about what happened.",
+                "response": "The following is a timeline of the events surrounding the death of teenager Trayvon Martin on February 26, 2012, in Sanford, Florida. Martin was shot and killed by neighborhood watch volunteer George Zimmerman during a physical altercation. Zimmerman was charged with second-degree murder in April 2012, and found not guilty on July 13, 2013.",
+                "manual_rewrite": "Tell me more about the shooting of Trayvon Martin."
+            },
+            {
+                "turn_id": 3,
+                "question": "Why was he acquitted?",
+                "response": "Black Lives Matter founder Alicia Garza contrasted the aggressive police action with the treatment of the organizers of a standoff at an Oregon wildlife refuge (acquitted of federal charges on the same day as the police raid of the camp), saying \"If you're white, you can occupy federal property ... and get found not guilty. No teargas, no tanks, no rubber bullets ... If you're indigenous and fighting to protect our earth, and the water we depend on to survive, you get tear gassed, media blackouts, tanks and all that.\"",
+                "manual_rewrite": "Why was George Zimmerman acquitted?"
+            },
+            {
+                "turn_id": 4,
+                "question": "And how about what happened to Brown?",
+                "response": "What Happened in Ferguson? Michael Brown, an unarmed black teenager, was shot and killed on Aug. 9, 2014, by Darren Wilson, a white police officer, in Ferguson, Mo., a suburb of St. Louis. The shooting prompted protests that roiled the area for weeks.",
+                "manual_rewrite": "And how what happened to Michael Brown?"
+            },
+            {
+                "turn_id": 5,
+                "question": "Who named the movement?",
+                "response": "Black Lives Matter, an activist movement that was formed to campaign against racism and what its members consider police brutality against African Americans, has contributed to a revitalization and re-examining of the Black Feminist movement. The movement itself was started by three black women, Alicia Garza, Patrisse Cullors, and Opal Tometi, and has been viewed as a Black Feminist Movement first rather than as a part of the larger feminist movement. Black Lives Matter largely accepts the intersectionality of women of color, and how interlocking systems of oppression work against African American women in particular. The movement has also been critical of White Feminism as only focusing on the oppression of Women and not looking at how intersectionalities of class, race, and culture have been harming marginalized groups. According to academic scholar Angela Davis,  \u201cBlack Women face a triple oppression\u201d of racism, classism, and sexism and Black Lives Matter has been a largely grassroots movement focused on including intersectional voices. Activism of Black Feminists in Black Lives Matter include the protests of political candidates such as Bernie Sanders, Donald Trump, and Hillary Clinton and hashtags such as #oscarssowhite, and #sayhername.",
+                "manual_rewrite": "Who named the movement \"Black Lives Matter\"?"
+            },
+            {
+                "turn_id": 6,
+                "question": "What was the US reaction to it?",
+                "response": "There have been many reactions to the Black Lives Matter movement. The U.S. population's perception of Black Lives Matter varies considerably by race. The phrase All Lives Matter sprang up as a response to the Black Lives Matter movement, but has been criticized for dismissing or misunderstanding the message of Black Lives Matter. Following the shooting of two police officers in Ferguson, the hashtag Blue Lives Matter was created by supporters of the police.",
+                "manual_rewrite": "What was the US reaction to the Black Lives Matter movement?"
+            },
+            {
+                "turn_id": 7,
+                "question": "Tell me more about the movement of the police supporters.",
+                "response": "Blue Lives Matter is a pro-police movement in the United States. It was started after the killings of NYPD officers Rafael Ramos and Wenjian Liu in Brooklyn, New York, on December 20, 2014, after they were ambushed in their patrol car. Blue Lives Matter was formed in reaction to the Black Lives Matter movement, which seeks to end police brutality against the African American community.",
+                "manual_rewrite": "Tell me more about the Blue Lives Matter movement."
+            },
+            {
+                "turn_id": 8,
+                "question": "Why were they killed?",
+                "response": "The Black Lives Matter movement calls for an end to police brutality and the killings of African-Americans in the U.S.  The #BlackLivesMatter hashtag was first started by Alicia Garza, Patrisse Cullors, and Opal Tometi as a response to the trial and later acquittal of George Zimmerman who shot and killed 17-year-old Trayvon Martin. The hashtag saw a revival in 2014, after the shooting of Michael Brown in Ferguson, Missouri, and after a grand jury did not indict police officer Daniel Pantaleo in the death of Eric Garner.",
+                "manual_rewrite": "Why were Rafael Ramos and Wenjian Liu killed?"
+            },
+            {
+                "turn_id": 9,
+                "question": "What else motivates the Black Lives Matter movement?",
+                "response": "",
+                "manual_rewrite": "What else motivates the Black Lives Matter movement?"
+            }
+        ]
+    }
+]
