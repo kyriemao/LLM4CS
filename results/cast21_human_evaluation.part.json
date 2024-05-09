@@ -1,0 +1,848 @@
+[
+    {
+        "conv_id": 106,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "I just had a breast biopsy for cancer. What are the most common types?",
+                "response": "More research is needed. Types Breast cancer can be: Ductal carcinoma: This begins in the milk duct and is the most common type. Lobular carcinoma: This starts in the lobules. Invasive breast cancer is when the cancer cells break out from inside the lobules or ducts and invade nearby tissue, increasing the chance of spreading to other parts of the body. Non-invasive breast cancer is when the cancer is still inside its place of origin and has not broken out.",
+                "manual_rewrite": "I just had a breast biopsy for cancer. What are the most common types of breast cancer?",
+                "REW_rewrite": [
+                    "What are the most common types of breast cancer that can be detected through a biopsy?",
+                    "What are the most common types of breast cancer biopsies?",
+                    "What are the most common types of breast cancer that can be detected through a biopsy?",
+                    "What are the most common types of breast biopsy for cancer?",
+                    "What are the most common types of breast cancer that can be detected through a biopsy?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 2,
+                "question": "Once it breaks out, how likely is it to spread?",
+                "response": "Even though this condition doesn\u2019t spread, it\u2019s important to keep an eye on it. Between 20% to 40% of women with this condition will develop a separate invasive breast cancer -- one that will grow outside its original location -- within the next 15 years. Most of the time, these later cancers begin in the milk ducts, rather than the lobules. How is lobular carcinoma in situ diagnosed? You often won\u2019t have any symptoms with LCIS.",
+                "manual_rewrite": "Once it breaks out, how likely is lobular carcinoma breast cancer to spread?",
+                "REW_rewrite": [
+                    "What is the likelihood of breast cancer spreading once it becomes invasive?",
+                    "What is the likelihood of breast cancer spreading once it becomes invasive?",
+                    "What is the likelihood of breast cancer spreading after it becomes invasive?",
+                    "What is the likelihood of breast cancer spreading after it becomes invasive?",
+                    "What is the likelihood of breast cancer spreading once it becomes invasive?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 3,
+                "question": "How deadly is it?",
+                "response": "In 1999, a student opened fire at W. R. Myers, killing one student and seriously wounding another. In 2000, LCI was locked down after two youths were arrested and two firearms were seized. Section::::Campus.",
+                "manual_rewrite": "How deadly is lobular carcinoma in situ?",
+                "REW_rewrite": [
+                    "What is the prognosis for invasive breast cancer that has spread?",
+                    "What is the mortality rate of invasive breast cancer that has spread from its original location?",
+                    "What is the mortality rate for breast cancer once it has spread from its original location?",
+                    "What is the mortality rate of breast cancer after it spreads outside its original location?",
+                    "What is the mortality rate of breast cancer that has spread outside its original location?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 4,
+                "question": "What? No, I want to know about the deadliness of lobular carcinoma in situ.",
+                "response": "It\u2019s sometimes difficult to separate the two conditions and in this case it will be described as lobular neoplasia. Future breast cancer risk The vast majority of women diagnosed with ALH or LCIS will never get breast cancer. However, people diagnosed with either condition have a slightly higher risk than the general population of developing breast cancer. PLCIS behaves differently to ALH and LCIS, and may be more likely to develop into cancer in the future. Your individual risk depends on several factors, which your specialist can talk to you about.",
+                "manual_rewrite": "What? No, I want to know about the deadliness of lobular carcinoma in situ.",
+                "REW_rewrite": [
+                    "Could you provide information on how deadly lobular carcinoma in situ can be?",
+                    "Can you provide information on the mortality rate of lobular carcinoma in situ?",
+                    "Can you tell me about the mortality rate of lobular carcinoma in situ?",
+                    "Can you provide information on how deadly lobular carcinoma in situ can be?",
+                    "Can you provide information on the mortality rate or how dangerous lobular carcinoma in situ (LCIS) is?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 5,
+                "question": "Wow, that's better than I thought.  What are common treatments?",
+                "response": "Treatment and follow-up There is no standard recommended treatment or follow-up for lobular neoplasia. Your specialist will discuss treatment options with you based on your particular situation. If your lobular neoplasia is diagnosed by a core biopsy, your doctor may recommend removing more tissue from the area where the lobular neoplasia was found. This is to find out if there are any cancer cells in this area. This may be done using a procedure called a vacuum assisted biopsy, or a small operation known as an excision biopsy.",
+                "manual_rewrite": "Wow, that's better than I thought. What are common treatments for lobular carcinoma in situ?",
+                "REW_rewrite": [
+                    "What are the common treatments for breast cancer?",
+                    "What are the common treatments for breast cancer?",
+                    "What are the common treatments for breast cancer?",
+                    "What are the common treatments available for breast cancer?",
+                    "Can you provide information on common treatments for breast cancer?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 6,
+                "question": "How does it behave differently from PLCIS?",
+                "response": "Wilson said she has \u201cvigilantly monitored\u201d her health with mammograms and MRIs after knowing she had an \u201cunderlying condition of LCIS, (lobular carcinoma in situ).\u201d When a recent breast biopsy revealed PLCIS (pleomorphic carcinoma in situ), initial tests showed that it was not cancerous. But Wilson had second thoughts. \u201cA friend who had had breast cancer suggested I get a second opinion on my pathology and my gut told me that was the thing to do,\u201d she wrote. When she went to two other pathologists, both confirmed a cancer diagnosis. \u201cI share this to educate others that a second opinion is critical to your health,\u201d she said. \u201cYou have nothing to lose if both opinions match up for the good, and everything to gain if something that was missed is found, which does happen. Early diagnosis is key.\u201d Wilson is the second celebrity in a week to do a public service announcement for early cancer detection. Last week, Taylor Swift revealed that her mother had recently been diagnosed with cancer, and urged her fans to remind their parents about getting screened.",
+                "manual_rewrite": "How does LCIS behave differently from PLCIS?",
+                "REW_rewrite": [
+                    "How does lobular neoplasia behave differently from PLCIS?",
+                    "How does lobular neoplasia behave differently from PLCIS?",
+                    "In what ways does lobular carcinoma in situ (LCIS) behave differently from pleomorphic lobular carcinoma in situ (PLCIS)?",
+                    "How does lobular carcinoma in situ (LCIS) behave differently from pleomorphic lobular carcinoma in situ (PLCIS)?",
+                    "How does lobular neoplasia behave differently from PLCIS?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 7,
+                "question": "What makes lobular cancer distinct?",
+                "response": "Invasive lobuluar cancer is a less common type of breast cancer than invasive ductal cancer. This cancer accounts for about 10% of all invasive breast cancer cases. Prognosis for infiltrating and invasive lobular breast carcinomas will naturally be influenced by tumor size, grade, stage and hormone receptor status.. However, lobular breast cancers, when positive for estrogen and progesterone receptors, tend to respond very well to hormone therapy. The overall breast cancer survival rates for infiltrating lobular carcinoma, when matched by stage, are a little higher than for ductal carcinoma for the first 5 years. Survival rates range from about 77% to 93%, but on average the 5 year survival rate was estimated at about 90%. How old are these figures, Doc? The general range of survival 77% to 93% is over 10 years old so expect higher now. The average survival rate of 90% was as of 2010, so still quite old. Infiltrating/Invasive Ductal Carcinoma (IDC)Infiltrating ductal carcinoma of the generic type (NOS) is by far the most common breast cancer type, and represents about 78% of all cases.",
+                "manual_rewrite": "What makes lobular cancer distinct?",
+                "REW_rewrite": [
+                    "What is the difference between invasive and non-invasive lobular carcinoma and how is lobular neoplasia different from PLCIS?",
+                    "What makes lobular carcinoma different from other types of breast cancer?",
+                    "What makes lobular carcinoma distinct from other types of breast cancer?",
+                    "What makes lobular carcinoma distinct from other types of breast cancer?",
+                    "What makes lobular carcinoma in situ (LCIS) distinct from other breast cancers?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 8,
+                "question": "For the first stage, what are the alternatives to surgery?",
+                "response": "Regardless of the histological subtype, the prognosis of IDC depends also on tumor size, presence of cancer in the lymph nodes, histological grade, presence of cancer in small vessels (vascular invasion), expression of hormone receptors and of oncogenes like HER2/neu. These parameters can be entered into models that provide a statistical probability of systemic spread. The probability of systemic spread is a key factor in determining whether radiation and chemotherapy are worthwhile. The individual parameters are important also because they can predict how well a cancer will respond to specific chemotherapy agents. Overall, the 5-year survival rate of invasive ductal carcinoma was approximately 85% in 2003. Section::::Treatment. Treatment of invasive carcinoma of no special type (NST) depends on the size of the mass (size of the",
+                "manual_rewrite": "For the first stage, what are the alternatives to surgery for invasive lobular cancer?",
+                "REW_rewrite": [
+                    "What are the alternative treatments to surgery for lobular neoplasia?",
+                    "What are the alternatives to surgery for treating lobular neoplasia?",
+                    "What are the alternatives to surgery for treating lobular neoplasia?",
+                    "What are the alternatives to surgery for treating lobular neoplasia?",
+                    "What are the alternatives to surgery for treating lobular neoplasia?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 10,
+                "question": "Does freezing work?",
+                "response": "Cryoablation is another local treatment for single, small metastatic breast cancer tumors, especially in women who aren't good surgery candidates. Guided by imaging (ultrasound, CT scan, or MRI), cryoablation inserts a special freezing probe (a type of catheter) through the skin and to the tumor to be treated. Once the tip of the probe is in the right spot inside the tumor core, pressurized argon gas is injected through the probe into the tumor, freezing and destroying the cancerous tissue. Cryoablation techniques may vary from one cancer treatment facility to another. Cryoablation is more common in cases where the breast cancer is being well controlled by systemic treatments.",
+                "manual_rewrite": "Does freezing tumors work as an alternative to surgery for stage 1 invasive lobular cancer?",
+                "REW_rewrite": [
+                    "Can freezing be used as a treatment for lobular carcinoma in situ or invasive lobular cancer?",
+                    "Can freezing be used as a treatment for lobular carcinoma?",
+                    "Can freezing be used as a treatment for lobular carcinoma?",
+                    "Can freezing be used as a treatment for lobular carcinoma?",
+                    "Can freezing be used as a treatment for lobular carcinoma in situ?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            }
+        ]
+    },
+    {
+        "conv_id": 107,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How do I build a cheap driveway?",
+                "response": "Types of Driveways \u2013 Gravel, asphalt, brick &amp; concrete driveway Gravel Driveways \u2013 These driveways are usually created by dunking a load of gravel and leveling it. Gravel driveways are cheap, can last can last of a very long time and require little maintenance. The surface should also be regraded from time to time. The only disadvantage is that homeowners need to remove weeds and clean small dust, leaves when they appear. This type of driveway is not suitable for children because they can choke or dig into your gravel and the gravel is too sharp for their feet. Asphalt Driveways \u2013 This type of driveway looks a lot like a tarred road and is constructed by tarring or cementing a gravel sheet.",
+                "manual_rewrite": "How do I build a cheap driveway?",
+                "REW_rewrite": [
+                    "What are some ways to construct an inexpensive driveway?",
+                    "What are some cost-effective ways to build a driveway?",
+                    "What are some ways to build a driveway on a budget?",
+                    "What are some cost-effective ways to build a driveway?",
+                    "What are some affordable ways to construct a driveway?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 2,
+                "question": "Which is cheaper: concrete or asphalt?",
+                "response": "\"Pros and Cons: Asphalt vs. Concrete Driveway Choosing the driveway material that\u2019s best for you often depends on your climate and budget. When the time comes to install a new driveway, the biggest decision is whether to use concrete or asphalt. Sure, there are other driveway material choices \u2014 gravel at the low end and brick pavers at the high end \u2014 but concrete and asphalt are the most common, and each comes with advantages and disadvantages. Concrete lasts longer, but asphalt driveways are less expensive to install. Asphalt needs more maintenance, but is generally easier to repair. In winter, concrete driveways can suffer damage if you use the wrong de-icing product.",
+                "manual_rewrite": "Which is cheaper way to build a driveway: concrete or asphalt?",
+                "REW_rewrite": [
+                    "What are the cost differences between concrete and asphalt driveways?",
+                    "Can you compare the cost of building a concrete driveway versus an asphalt driveway?",
+                    "Can you compare the cost of building a concrete driveway versus an asphalt driveway?",
+                    "What are the price differences between concrete and asphalt driveways?",
+                    "Can you compare the cost of building a concrete driveway versus an asphalt driveway?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 3,
+                "question": "Really?  What type of product?",
+                "response": "What Rock Salt is Safe for Concrete? Although we all know that snow and ice can create dangerous conditions throughout our properties, we also don\u2019t want to create even bigger issues by using the wrong ice melting product. In recent years, a growing number of home and business owners have become increasingly concerned about the effects of rock salt on concrete. But what problems can rock salt actually present to concrete, and what are some best practices for preventing ice while protecting your pavement? This post will answer these and other questions so that you can make rock salt safe for concrete within your property lines.",
+                "manual_rewrite": "What type of de-icing product can damage concrete driveways?",
+                "REW_rewrite": [
+                    "Can you provide more information on which de-icing products can cause damage to concrete driveways during winter?",
+                    "Can you provide more information on the de-icing product that can damage a concrete driveway?",
+                    "Can you provide more information about the de-icing product that can damage concrete driveways during winter?",
+                    "Can you provide more information on the de-icing product that can damage concrete driveways in winter?",
+                    "Can you provide more information on the de-icing product that can damage concrete driveways?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 4,
+                "question": "Who knew?  Which is more environmentally friendly?",
+                "response": "Rock salt is very inexpensive but also a corrosive and concentrated substance, which can cause problems for your plants, animals, and waterways. The same chemical magic that turns ice into water creates a very salty brine that can make household pets sick, kill lawns and eats away at concrete, brick, and stone. Salt is also an irritant, which means pets with pads on the bottom of their feet may get superficial burns. The ice-melt industry is well aware that people want green. Which means eco-friendly and pet friendly claims abound. Read the ingredients. If the bulk of the product is magnesium or calcium chloride, it is a safer and less corrosive salt than the more common sodium chloride or rock salt.",
+                "manual_rewrite": "Which type of driveway is more environmentally friendly?",
+                "REW_rewrite": [
+                    "Which driveway material is more environmentally friendly, concrete or asphalt?",
+                    "Which type of driveway, concrete or asphalt, is more environmentally friendly?",
+                    "Which driveway material is more environmentally friendly, asphalt or concrete?",
+                    "Which type of driveway, concrete or asphalt, is more environmentally friendly?",
+                    "Which driveway material, concrete or asphalt, is more environmentally friendly?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 5,
+                "question": "No.  Which type of driveway is better for the environment?",
+                "response": "These types of surfaces canalso be better for the environment and do not necessarily cost more or require a lot of maintenance. There are three main types of solution to creating a permeable driveway: Using gravel or a mainly green, vegetated area. Directing water from an impermeable surface to a border rain garden or soakaway. Using permeable block paving, porous asphalt or concrete. The most appropriate construction will depend on factors such as the space available, slopes, the type of soil and whether the existing garden gets waterlogged. You can also combine the methods in a single garden to get an interesting appearance.",
+                "manual_rewrite": "No. Which type of driveway is better for the environment?",
+                "REW_rewrite": [
+                    "Which type of driveway is more environmentally friendly, asphalt or concrete?",
+                    "Which type of driveway is more environmentally friendly, asphalt or concrete?",
+                    "Which type of driveway is more environmentally friendly: concrete or asphalt?",
+                    "Which type of driveway is more environmentally friendly, asphalt or concrete?",
+                    "Which type of driveway is more environmentally friendly, asphalt or concrete?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 6,
+                "question": "And most low-maintenance?",
+                "response": "Cost Chart: Paver Driveway \u2013 #1 \u2013 Most Expensive Concrete Driveway \u2013 #2Asphalt Driveway \u2013 #3Gravel Driveway \u2013 #4 \u2013 Least Expensive A concrete driveway is the second most expensive driveway when comparing it to the other hard surface driveways. Ongoing Maintenance Chart: Gravel Driveway \u2013 #1 \u2013 Most Ongoing Maintenance Asphalt Driveway \u2013 #2Concrete Driveway \u2013 #3Paver Driveway \u2013 #4 \u2013 Least Ongoing Maintenance A concrete driveway requires the second least amount of ongoing maintenance, compared to the other hard surface driveways. Life Expectancy Of A Concrete Driveway A properly installed concrete driveway with regularly scheduled maintenance can last up to 20 or even 30 years! That variation in age can be determined by the stability of the sub-grade, the quality of the installation, the type and frequency of maintenance, the drainage plan and the climate of the region you\u2019re located in.",
+                "manual_rewrite": "Which type of driveway is the most low-maintenance?",
+                "REW_rewrite": [
+                    "Which type of driveway requires the least maintenance?",
+                    "Which type of driveway requires the least maintenance?",
+                    "Which type of driveway requires the least amount of maintenance?",
+                    "Which type of driveway requires the least maintenance?",
+                    "Which type of driveway requires the least amount of maintenance?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 7,
+                "question": "Really? What about asphalt?",
+                "response": "Asphalt Driveways Asphalt is one of the most commonly chosen materials for paving driveways and parking lots. During installation, the area will need to be excavated and graded to be paved and allow the base to settle before applying the hot mix asphalt and compacting it with a heavy duty roller. After it has fully curated is when the driveway would be ready for use. Advantages of Asphalt Driveways Asphalt driveways offer a number of advantages including: Longevity \u2013 When an asphalt driveway is professionally installed and properly maintained it can last for up to 30 years before needing to be replaced.",
+                "manual_rewrite": "Really? How long does an asphalt driveway last?",
+                "REW_rewrite": [
+                    "How does the maintenance of an asphalt driveway compare to that of a concrete driveway in terms of low-maintenance?",
+                    "Can you tell me about the maintenance requirements of an asphalt driveway compared to a concrete driveway?",
+                    "Can you tell me which type of driveway requires the least ongoing maintenance?",
+                    "How does the maintenance of an asphalt driveway compare to that of a concrete driveway?",
+                    "Can you tell me about the maintenance required for an asphalt driveway?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 8,
+                "question": "Is sealing worth it?",
+                "response": "Home &gt; Home Improvement &gt; Landscaping &gt; Cost to Seal a Driveway How Much Does Sealing an Asphalt Driveway Cost? Asphalt Sealing Prices Whether you want to keep your recently paved asphalt driveway looking brand new or extend the life of an older driveway, sealcoating is a worthwhile investment. Sealant forms a layer of protection on top of the driveway that reduces the deleterious effects of the elements and chemicals. In addition to preserving the driveway, a coat of sealant improves a home's curb appeal and value. Driveway Sealing Considerations The cosmetic and performance benefits of driveway sealing make this job practically a no-brainer.",
+                "manual_rewrite": "Is sealing an asphalt driveway worth it?",
+                "REW_rewrite": [
+                    "What are the advantages of sealing an asphalt driveway?",
+                    "Should I consider sealing my driveway?",
+                    "Should I consider sealing my driveway, and is it worth it?",
+                    "Should I consider sealing my driveway?",
+                    "What are the benefits of sealing a driveway made of asphalt or concrete?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            }
+        ]
+    },
+    {
+        "conv_id": 108,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "How can fires help an ecosystem?",
+                "response": "Many ecosystems, particularly prairie, savanna, chaparral and coniferous forests, have evolved with fire as an essential contributor to habitat vitality and renewal. [1] Many plant species in fire-affected environments require fire to germinate, establish, or to reproduce. Wildfire suppression not only eliminates these species, but also the animals that depend upon them. [2]Campaigns in the United States have historically molded public opinion to believe that wildfires are always harmful to nature. This view is based on the outdated belief that ecosystems progress toward an equilibrium and that any disturbance, such as fire, disrupts the harmony of nature. More recent ecological research has shown, however, that fire is an integral component in the function and biodiversity of many natural habitats, and that the organisms within these communities have adapted to withstand, and even to exploit, natural wildfire.",
+                "manual_rewrite": "How can fires help an ecosystem?",
+                "REW_rewrite": [
+                    "What are the benefits of fires for an ecosystem?",
+                    "What are the benefits of fires to an ecosystem?",
+                    "How do fires benefit an ecosystem?",
+                    "What are the benefits of fires in an ecosystem?",
+                    "What are the benefits of fires for an ecosystem?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 2,
+                "question": "Give me some examples.",
+                "response": "Not only will the number of thriving annual plants be higher after a fire, but the number of species will also be significantly higher. This is due not only to the fact that there are more resources available but also because several plant species in chaparral biomes are so adapted to the cycle of periodic fires that their seeds are only able to sprout after a fire. Photo of a chaparral ecosystem the winter after a fire For example, the seeds of a native chaparral wildflower, called whispering bells, require smoke exposure to germinate. These annual plant species are sometimes called fire-followers because they are only seen in the first couple of years following a fire when they are a part of the dominant vegetation in a chaparral ecosystem.",
+                "manual_rewrite": "Give me some examples of organisms that have adapted to exploit natural wildfire.",
+                "REW_rewrite": [
+                    "Can you provide some examples of ecosystems that require fire as an essential contributor to habitat vitality and renewal?",
+                    "Can you provide some specific examples of ecosystems where fire is an essential contributor to habitat vitality and renewal?",
+                    "Can you provide me with some examples of ecosystems that rely on fire as an essential contributor to habitat renewal?",
+                    "Can you provide some examples of ecosystems that require fire for habitat renewal and vitality?",
+                    "Can you provide some specific examples of ecosystems that require fire for vitality and renewal?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 3,
+                "question": "Cool name!  What are other fire-followers?",
+                "response": "The longleaf pine ecosystem is known as a fire climax community. The organization group Longleaf Alliance defines a fire climax community as \"a plant and animal community that is limited by and adapted to an early successional stage by frequent fire disturbances\". The role of fire in the longleaf pine ecosystem was and still is today a key component in regeneration and shaping of the ecosystem. In pre-European establishment years, Native Americans set fires quite regularly. By doing so, they benefited their needs of establishing hunting grounds, homesteads, and safe havens. While achieving their goals, they were enriching the longleaf pine ecosystem by shaping the dynamics of the system.",
+                "manual_rewrite": "Cool name! What are other organisms besides whispering bells that have adapted to exploit natural wildfires?",
+                "REW_rewrite": [
+                    "Can you give me more examples of plant species that are considered fire-followers?",
+                    "Can you give me some examples of other plant species that require fire to germinate or establish, besides whispering bells?",
+                    "Can you tell me about other plant species that require fire to sprout and establish in chaparral biomes aside from whispering bells?",
+                    "Can you give me more examples of plant species that require fire to germinate or establish, aside from whispering bells?",
+                    "Can you give me more examples of plant species that are fire-followers?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 4,
+                "question": "Let\u2019s talk about other environmental influences besides fire. More broadly, what are the effects of agriculture?",
+                "response": "That agriculture has a huge effect on our ecosystems: pesticides and other toxic chemicals used in food production can wash downstream, killing many types of animals, polluting our waterways and even making humans ill. Fertilizers can wash downstream, causing \"\"blooms\"\" or large populations of algae and bacteria, which can harm fish populations. In addition, Green Facts states that we are depleting fish populations in the oceans and seas, causing us to fish further offshore and deeper underwater as more and more fish disappear. Water Throughout the world, 2.6 billion people lack proper sanitation, which means that drinking water around the world is contaminated with waste and disease.",
+                "manual_rewrite": "Let\u2019s talk about other environmental influences besides fire. How does agriculture affect an ecosystem?",
+                "REW_rewrite": [
+                    "Can you tell me about the effects of agriculture on the environment?",
+                    "Can you tell me about the impact of agriculture on the environment?",
+                    "Can you tell me about the effects of agriculture on the environment?",
+                    "Can you tell me about the effects of agriculture on the environment?",
+                    "Can you tell me about the effects of agriculture on the environment?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can it cause desertification?",
+                "response": "Most plants, unless specially adapted to desert conditions, can not thrive in dry, arid conditions. Farming is major cause of desertification - soils need time to rest between crops but pressures to provide food and an income often lead to soil and land being over used and becoming tired. Soil also requires fertilisation to remain fertile, preferably through natural or organic processes. Where farming is carried out in a way that is unsympathetic to the land in places where climatic conditions mean the soil is already under stress, this can eventually result in desertification. Read More: How Big a Problem is Desertification?",
+                "manual_rewrite": "Can agriculture cause desertification?",
+                "REW_rewrite": [
+                    "What are the effects of agriculture on the environment, and can it lead to desertification?",
+                    "What are the effects of agriculture on ecosystems, and can it contribute to desertification?",
+                    "What are the effects of agriculture on our ecosystems, and can it lead to desertification?",
+                    "Can agriculture cause desertification?",
+                    "What are the effects of agriculture on ecosystems? Can agriculture cause desertification?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 6,
+                "question": "What does it mean to be tired?",
+                "response": "Section::::Regenerative agriculture. Agriculture is seen to be one of the main players in the depletion of soil richness in human history. Certain agricultural practices can deplete soil of carbon, such as monoculture, failing to rotate crops sufficiently, and intensive livestock grazing. Soil that is low in carbon will not support plant life and is susceptible to desertification. Without plants, soil cannot hold water sufficiently, and will become dry and brittle over time. Agroecology is an overarching category of approaches to creating a more sustainable agricultural system and increase the health of soil. It includes \"permaculture\", originally being a combination of the words \"permanent\" and \"agriculture\", which is a systems thinking approach that can increase the carbon content of soil by using natural patterns in already existing ecosystems to promote a higher efficiency of food production, a lower need for human involvement, and a healthier ecosystem.",
+                "manual_rewrite": "What does it mean for soil to be tired?",
+                "REW_rewrite": [
+                    "Can farming lead to soil exhaustion?",
+                    "Can you explain what is meant by soil becoming \"tired\" in farming?",
+                    "Can overuse of land and soil cause fatigue in the soil?",
+                    "Can farming cause tired soil and what are the consequences?",
+                    "Can you explain what is meant by soil becoming \"tired\" in agricultural practices?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 7,
+                "question": "That sounds like organic farming.  How are they related?",
+                "response": "According to Permaculture Planet.com:\u201cPermaculture is an interdisciplinary earth science which encompasses many kinds of appropriate technologies and sustainable design methodologies, such as; renewable energy, water conservation, organic food production, ecological building techniques, micro-economics and more. In a world of rapid ecological change &amp; seemingly insurmountable social &amp; environmental problems, Permaculture offers practical solutions using design principles drawn from the observation of natural systems. From individual homes to entire bio-regions, Permaculture has the potential to repair damaged landscapes, build capacity in communities and replace apathy with self empowerment.\u201dPermaculture, when practiced, is a design philosophy and set of tools and principles that encompass the inter-related fields of organic gardening and agroforestry, architecture, ecology, community design, renewable energy, and systems theory.",
+                "manual_rewrite": "Permaculture sounds like organic farming, how are they related?",
+                "REW_rewrite": [
+                    "How is agroecology related to organic farming?",
+                    "How is agroecology related to organic farming?",
+                    "How is agroecology related to organic farming?",
+                    "How is agroecology related to organic farming?",
+                    "How is agroecology related to organic farming?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-c"
+            },
+            {
+                "turn_id": 8,
+                "question": "Does organic farming reduce global warming, and if so, how?",
+                "response": "Organic farmers are also careful about how they store and compost animal wastes, in order to safeguard air and water systems. They tailor their crops according to climate and soil, to optimise the natural growth cycle. Organic farmers also promote biodiversity, by growing a variety of crops, rather than one single crop. Through all of these methods, organic farmers prevent soil erosion, conserve energy, and help protect local wildlife, stream banks and watersheds. They help protect the global environment, as well: organic farming can greatly reduce the amount of greenhouse gases, such as carbon dioxide, that contribute to global warming. Click here to read a global report on The Role of Organic Agriculture in Mitigating Climate Change.",
+                "manual_rewrite": "Does organic farming reduce global warming, and if so, how?",
+                "REW_rewrite": [
+                    "How does organic farming reduce global warming?",
+                    "How does organic farming contribute to reducing global warming?",
+                    "How does organic farming affect global warming?",
+                    "How does organic farming contribute to reducing global warming?",
+                    "How does organic farming help to reduce global warming?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            }
+        ]
+    },
+    {
+        "conv_id": 109,
+        "turns": []
+    },
+    {
+        "conv_id": 110,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "What are the benefits of cow milk?",
+                "response": "Cow milk seems to be everywhere and is often taken for granted, but it has many important health benefits, including its ability to aid in weight loss, build strong bones and teeth, boost the immune system, reduce fat, protect the heart, prevent diabetes, eliminate inflammation, and help stimulate growth. Cow Milk No matter where you are on the planet, you\u2019ve almost certainly come across cow milk. In most parts of the world, it is the primary [ 1] animal milk consumed by humans, although goat, sheep, and even camel milk are popular based on the availability of animals. Cow milk (derived from bovines) is intended for sucking by young cows, just as human infants are often nursed with human breast milk. However, the nutritional value and availability of cow\u2019s milk have made it one of the most in-demand liquids on the planet. More than 6 billion people on the planet drink milk on a semi-regular basis, which means that these animals are an incredibly important part of our global nutritional needs.",
+                "manual_rewrite": "What are the benefits of cow milk?",
+                "REW_rewrite": [
+                    "What are the advantages of consuming cow's milk?",
+                    "What are the advantages of consuming cow milk?",
+                    "What are the advantages of consuming cow milk?",
+                    "What are some advantages of consuming cow milk?",
+                    "What are the advantages of consuming cow milk?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 2,
+                "question": "What about an alternative. I\u2019ve heard it's also made from almonds?",
+                "response": "Commercially available almond milk is often enriched with vitamins A and D, as well as calcium, to make it seem more like regular milk. (Almonds provide some calcium, but not as much as cow\u2019s milk.) Almond milk is low in calories compared to other milk substitutes and contains some heart-healthy monounsaturated fat. Be sure to check the labels of almond milk before you buy, because some brands contain preservatives, and other additives. Note that you can make almond milk at home \u2013 an easy process, requiring only organic raw almonds, water and a little sugar or other sweetener. You can find many recipes online. You might also try oat, hemp or rice milk. Oat milk provides more fiber than other milk substitutes and was shown in a Swedish study to help lower LDL (\u201cbad\u201d) cholesterol and total cholesterol. Hemp milk, made by pulverizing the seeds, blending them with water and straining out the solid residue, provides both omega-6 and omega-3 essential fatty acids in a healthy three-to-one ratio. Utterance type: Question",
+                "manual_rewrite": "What about an alternative. How is milk made from almonds?",
+                "REW_rewrite": [
+                    "What are the benefits of almond milk compared to cow milk?",
+                    "Can you tell me about almond milk as an alternative to cow milk?",
+                    "Can you tell me about almond milk as an alternative to cow milk?",
+                    "Can you tell me about almond milk as an alternative to cow milk?",
+                    "Can you tell me about almond milk as an alternative to cow milk?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 3,
+                "question": "Which is healthiest?",
+                "response": "Why Whole Milk is the Healthiest Choicetweet email 227By: Experience Life August 31, 2009About Experience Life Follow Experience Life at @ Experience Life I drink whole milk and eat full-fat yogurt, cream cheese, and sour cream. Sure, full-fat dairy products taste better than the skim/fat-free versions, but I don\u2019t eat them for the taste. I eat full-fat dairy because it\u2019s better for my health and my weight. Yep, you heard me right: I eat dairy products with all the fat god gave \u2018em, and I do it because it\u2019s good for me. Here\u2019s why:1. Our bodies cannot digest the protein or absorb the calcium from milk without the fat. Love This? Never Miss Another Story.2. Vitamins A and D are also fat-soluble. So you can\u2019t absorb them from milk when all the fat has been skimmed off. (This makes fortified skim milk the biggest sham of all \u2014 you can pump fat-free milk full of a year\u2019s supply of vitamins A and D, but the body can\u2019t access them).3.",
+                "manual_rewrite": "Which of the milk options (almond, oat, hemp or rice milk) is the healthiest?",
+                "REW_rewrite": [
+                    "Can you compare the health benefits of cow milk, almond milk, oat milk, hemp milk, and rice milk?",
+                    "Can you compare the health benefits of cow milk, almond milk, oat milk, hemp milk, and rice milk?",
+                    "Can you compare the health benefits of cow milk, almond milk, oat milk, hemp milk, and rice milk?",
+                    "Which milk substitute is the healthiest?",
+                    "Can you compare the health benefits of cow milk, almond milk, oat milk, hemp milk, and rice milk?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 4,
+                "question": "No, the vegan ones. Which of those alternatives is healthiest?",
+                "response": "There are a ton of nondairy milks to choose from, but which one is the healthiest?\u00bbRELATED: Milk in the fridge? Someone may owe you money To find out, researchers from Mc Gill University recently conducted an experiment, published in the Journal of Food Science and Technology, to determine the nutritional value of plant-based milk beverages. To do so, they compared the health benefits of the four most popular alternative milks, including soy, almond, coconut and rice. They examined the number of calories and amount of protein, fat and carbohydrates found in each. They also looked into the vitamins and minerals the substitutes contained. While they said cow\u2019s milk still has the most nutritional value, with 8 grams of protein, 9 grams of fat and 11.5 grams of carbs, soy is the most comparable for overall balance. It\u2019s \u201ca clear winner,\u201d they wrote in a statement. It has more protein than all the other milk options analyzed, with 7 to 12 grams and 95 calories a glass.",
+                "manual_rewrite": "No, the vegan ones. Which of the vegan alternative milk options is healthiest?",
+                "REW_rewrite": [
+                    "Which vegan milk alternative is the healthiest option?",
+                    "Which of the vegan milk alternatives is considered the healthiest?",
+                    "Which of the vegan milk alternatives (such as almond, oat, or hemp milk) is considered the healthiest?",
+                    "Which vegan milk alternative is considered the healthiest option?",
+                    "Which vegan milk alternative is the healthiest?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can I make it at home?",
+                "response": "Soy milk maker A soy milk maker is a small kitchen appliance which automatically cooks soy milk, a non-dairy beverage made from soy beans. Soy milk makers work similarly to a combination between a home blender and an automatic coffee maker. Some soy milk makers can also be programmed to make almond milk, rice milk, and other vegetable-based steeped beverages. Homemade soy milk can be made to the drinkers' tastes and nutritional requirements, providing added value. Soy pulp, a by-product of soy milk preparation, can be used as an ingredient in many recipes and food products. Ordinary methods for making soy milk at home are often very labor-intensive (requiring beans to be soaked, ground in a blender, strained, and then cooked). Soy milk machines perform many of these steps automatically, greatly simplifying home-based soy milk production. Section::::Standard operation. Before use, dried beans are rinsed with water to remove particulate debris, soaked for 6\u201310 hours to moisten and soften the dried beans, and then rinsed again before use.",
+                "manual_rewrite": "Can I make soy milk at home?",
+                "REW_rewrite": [
+                    "Is it possible to make almond milk at home?",
+                    "Is it possible to make almond milk at home?",
+                    "Is it possible to make almond milk at home?",
+                    "What is the process for making almond milk at home?",
+                    "Is making almond milk at home an easy process?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-c"
+            },
+            {
+                "turn_id": 6,
+                "question": "Oat seems popular now.  Why?",
+                "response": "Oat milk Oat milk is a type of plant milk derived from whole oat (\"Avena spp.\") grains by soaking the plant material to extract its nutrients. Oat milk naturally has a creamy texture and a characteristically oatmeal-like flavor, though it is sold commercially in various flavor-varieties such as sweetened, unsweetened, vanilla, and chocolate. Unlike other plant milks, whose origins date as early as the 13th century, oat milk is a modern creation, developed by the Swedish scientist Rickard Oste in the early 1990s. Oats contain high amounts of functional protein, dietary fiber (\u03b2-glucan), and unsaturated fatty acids, which make oat milk a significant source of nutrients, though uncertainty surrounds its practical use as a dairy milk substitute. Regardless, oat milk is often consumed to replace dairy milk in vegan diets, or in the cases of medical conditions where dairy is incompatible, such as lactose intolerance or a cow's milk allergy (CMA). Section::::History. Section::::History.:Creation. Soy milk predates all other alternative milks, including oat milk, both as a cultural and commercial product.",
+                "manual_rewrite": "Oat seems popular now.  Why?",
+                "REW_rewrite": [
+                    "What are the reasons for the popularity of oat milk now?",
+                    "Why is oat milk popular?",
+                    "Why is oat milk popular now?",
+                    "Why is oat milk popular now?",
+                    "Why is oat milk so popular?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 7,
+                "question": "I\u2019m going to bake some cookies. Which one would be the best to use?",
+                "response": "One cup of soy milk provides 4 grams of unsaturated fat, 1 gram of fiber, and 7 grams of protein. Soymilk has 75% more antioxidants than cow\u2019s milk. It is hearty, rich and creamy. Soy milk is good for drinking straight from the glass, poured over cereal or in coffee. The taste is nutty and slightly sweet. When it comes to cooking, soy milk is one of the best milks to choose. It can be used in place of cow\u2019s milk in any recipe. It is stable at high temperatures which makes it a good choice for savory dishes and sauces. In baking, soy milk is also one of the best choices because of its high protein content. According to veganbaking.net curdling milk with an acid such as vinegar creates complex flavors and thickens the mixture. This in turn \u201cincreases leavening power and enhances the crumb quality of cakes and muffins.\u201d Since curdling is dependent on protein content, soy milk does the best job. That means that soy milk is also the best choice when making vegan buttermilk for Vegan Buttermilk Biscuits or for dredging to make breaded dishes like \u201cChicken-Fried\u201d Tofu Steaks.",
+                "manual_rewrite": "I\u2019m going to bake some cookies. Which vegan milk is best for baking cookies?",
+                "REW_rewrite": [
+                    "What would be the best plant-based milk alternative to use for baking cookies?",
+                    "Which vegan milk alternative would be the best to use for baking cookies?",
+                    "Which alternative milk would be best to use for baking cookies?",
+                    "Which non-dairy milk alternative would be best to use for baking cookies?",
+                    "Which vegan milk alternative would be best for baking cookies?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 8,
+                "question": "What would be second best?",
+                "response": "The next time I'm in a pinch and soy or hemp milk can't be found I'll turn to almond milk as a third alternative and if I can't find this I'll go on the lookout for coconut milk, followed by rice milk. I'm aware that over use of soy in food products may be a health concern to many readers as of this writing due to some health studies that have been published. In vegan baking we're using so little of it that if you're concerned about it you really shouldn't be eating baked items in the first place because the sugar and glycemic index issues are a much more serious health issue. Remember that most things in moderation are ok. If you're still concerned or allergic to soy then it's great that we now have hemp milk as a soy-free alternative. Its wonderful to finally be in an age where we have so many alternatives to dairy milk to choose from.",
+                "manual_rewrite": "Which vegan milk besides soy is best for baking?",
+                "REW_rewrite": [
+                    "Which plant-based milk would be the second-best option for baking cookies?",
+                    "Which alternative milk would be the second best option for baking cookies?",
+                    "Which non-dairy milk would be the second-best option for baking cookies?",
+                    "Which plant-based milk would be the second best to use for baking after soy milk?",
+                    "Which of the vegan milk alternatives would be the second best option for baking cookies?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 9,
+                "question": "What is the best in my morning latte?",
+                "response": "Hemp milk Hemp milk, or hemp seed milk, is a plant milk made from hemp seeds that are soaked and ground in water. The result resembles milk in color, texture, and flavor. Hemp is conducive to being organically grown and labeled. Plain hemp milk may be additionally sweetened or flavored. Section::::Production. Production of hemp milk requires hemp seeds, water, and a blender. Many recipes call for ground vanilla or vanilla extract to add flavor, and a type of sweetener. Once all the ingredients are blended together, some people pour the hemp milk through a cheesecloth and strainer to get a smoother and more refined milky texture, but this process is optional. Section::::Use in coffee. Compared to soy milk, in coffee culture, hemp milk is said to produce better latte art and to have a texture more like cow's milk. Section::::Nutrition. In a serving, hemp milk provides 46 calories from 3 g of carbohydrates, 3 g of fat and 2 g of protein. Hemp milk contains no micronutrients in significant amounts.",
+                "manual_rewrite": "What vegan milk is best in my morning latte?",
+                "REW_rewrite": [
+                    "Which non-dairy milk is the best to use in a morning latte?",
+                    "Which non-dairy milk is the best option to use in my morning latte?",
+                    "Which plant milk is the best to use in a morning latte?",
+                    "Which alternative milk is best for my morning latte?",
+                    "Which non-dairy milk is the best to use in a morning latte?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            }
+        ]
+    },
+    {
+        "conv_id": 111,
+        "turns": [
+            {
+                "turn_id": 1,
+                "question": "I saw a Tesla Roadster today which made me wonder, what is the world\u2019s fastest car?",
+                "response": "Click here to visit our frequently asked questions about HTML5 video.0:00 / 2:112. Hennessey Venom GT (270.49mph)The Hennessey Venom GT is first in our list, with a verified speed of 270.49mph. The cars comes with a 1,244-hp 7.0-liter twin-turbocharged V8 engine giving it enough power to go at such high speeds. However, when it comes to Guinness World records Venom GT is still not considered as the fastest car in the world. The Guinness World record for the fastest car is held by the Bugatti Veyron Super Sport (second car in our list) at 269.86mph. The Venom GT reached the speed of 270.49mph at the Kennedy Space Center in a one-way run (NASA didn\u2019t allow running in the opposite direction). To break the Guinness World Record, it is compulsory to run in both directions to compensate for the wind conditions, so the Veyron Super Sport kept its title of fastest car in the world.",
+                "manual_rewrite": "I saw a Tesla Roadster today which made me wonder, what is the world\u2019s fastest car?",
+                "REW_rewrite": [
+                    "What is the fastest car in the world?",
+                    "What is the fastest car in the world?",
+                    "What is currently considered the world's fastest car?",
+                    "What is the fastest car in the world?",
+                    "What is the fastest car in the world?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 2,
+                "question": "What is the first based on?",
+                "response": "Section::::Specifications.:Chassis. The Venom GT utilizes a heavily modified Lotus Elise/Exige chassis. The manufacturer states that the modified chassis uses components from the Lotus Exige, including the roof, doors, side glass, windscreen, cockpit, floorpan, HVAC system, wiper and head lamps, though the manufacturer is not associated with Lotus Cars. For road use, the car is registered as a Lotus Exige (modified) and is not a series production car. The Venom GT has a curb weight of aided by carbon fiber bodywork and carbon fiber wheels. The brakes have Brembo 6-piston calipers at the front and 4-piston calipers at the rear. The rotors are carbon ceramic units provided by Surface Transforms. Section::::Specifications.:Drivetrain. The Venom GT is powered by a twin-turbocharged GM LSX V8 engine. The LSX architecture incorporates specific design features such as reinforced internal components and additional head bolts with aluminum heads including twin Precision dual ball bearing turbochargers. The engine has a power output of at 6,600 rpm and of torque at 4,400 rpm.",
+                "manual_rewrite": "What is Hennessey Venom GT based on?",
+                "REW_rewrite": [
+                    "Based on what criteria is the Hennessey Venom GT considered the world's fastest car?",
+                    "Based on what criteria is the Hennessey Venom GT considered the world's fastest car?",
+                    "What is the basis for the Hennessey Venom GT being considered the world's fastest car?",
+                    "Based on verified speed, what is the fastest car in the world?",
+                    "Based on what criteria is the Hennessey Venom GT considered the world's fastest car?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 3,
+                "question": "How fast can the unmodified base car go?",
+                "response": "This was a great way to validate the technical excellence of our car which includes high-speed stability with an open roof.\u201dThe Venom GT is powered by a twin-turbo 7.0L V8 engine producing 1,451 bhp @ 7,200 rpm and 1,287 lb-ft of torque @ 4,200 rpm and puts its power down to the rear Michelin Pilot Super Sport tires via a 6-speed manual gearbox by Ricardo. The Venom GT is capable of 0-60 mph in less than 2.4 seconds and has been tested from 0-200 mph in less than 13 seconds. Hennessey plans to offer a limited run of 3 \u201cWorld Record Edition\u201d Venom GT Spyder\u2019s to commemorate the record run and as a tribute to the company\u2019s 25 th Anniversary. The cost is $1.3 million each plus tax.\u201cWe are grateful to have the help of so many friends, family, employees, customers and partners over the past 25 years. We look forward to the next chapter of the Venom with the F5 as we keep making fast cars faster for the next 25 years\u201d, said John Hennessey.###",
+                "manual_rewrite": "How fast can the unmodified base Lotus Elise/Exige go?",
+                "REW_rewrite": [
+                    "What is the top speed of the unmodified base model of the car used for the Hennessey Venom GT?",
+                    "What is the top speed of the unmodified base car that the Hennessey Venom GT is based on?",
+                    "What is the top speed of the unmodified base car used for the Hennessey Venom GT?",
+                    "What is the top speed of the unmodified base car used for the Hennessey Venom GT?",
+                    "What is the top speed of the unmodified base car?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 4,
+                "question": "No, I meant the Lotus.",
+                "response": "Power to weight ratio: 307 hp/tonne (311 PS/1000kg). Lotus Exige Sport 380 (2016\u2013Present) [ edit]Lotus Exige Sport 380The Lotus Exige Sport 380 is a track focused and more powerful version of the Lotus Exige lineup. It was unveiled on 23 November 2016. Lotus' CEO, Jean-Marc Gales describes it as, \"\"The Exige Sport 380 is so good, that it is no longer the best in class, it\u2019s now in a class of its own\"\", and it fulfills this statement by taking on some of the powerful and expensive super cars both on the track and the streets. The 3.5-litre, super-charged V6 engine is now uprated and produces 375 hp (380 PS; 280 k W) and 410 N\u22c5m (302 lb\u22c5ft) of torque with a 6500 rpm red line achieved by revised supercharger and ECU. It can sprint from 0 to 60 mph (97 km/h) in 3.5 seconds and has a top speed of 178 mph (286 km/h).",
+                "manual_rewrite": "How fast can the Lotus Elise/Exige go?",
+                "REW_rewrite": [
+                    "Can you provide information on the top speed of an unmodified Lotus Elise/Exige?",
+                    "Can you tell me how fast the unmodified Lotus that the Venom GT is based on can go?",
+                    "Can you provide information on the unmodified base car of the Lotus?",
+                    "Could you tell me how fast the unmodified base Lotus car can go?",
+                    "Can you provide information about the unmodified base car for the Lotus?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-h"
+            },
+            {
+                "turn_id": 5,
+                "question": "Can any go over 300 mph?",
+                "response": "Instead, it is a head to head race between two cars on a short 402 m (\u00bc mile), straight track. There are five professional classes of dragsters. They are top fuel dragster, top fuel funny car, pro modified, pro stock, and pro stock bike. Of these, top fuel and funny cars are the most popular. Top fuel dragsters are the fastest class of dragsters, capable of reaching speeds of up to 150 m/s. Funny cars are basically top fuel dragsters with a body over the chassis. As a result, funny cars are usually slower than top fuelers. Top fuel dragsters frequently reach speeds of 134 m/s (300 mph) during their runs. The current speed record for any dragster is 150.27 m/s (336.15 mph) by a top fuel dragster on a run by Tony Schumacher on May 5, 2005. Class E. T. Speed Date Driver/Car Location TF 4.437 10/01/05 Tony Shumacher - Long Grove, Il/'04 R. E. D. Hadman Joliet, Il TF 336.15 05/25/05 Tony Shumacher - Long Grove, Il/'05 Hadman R.",
+                "manual_rewrite": "Can any super car go over 300 mph?",
+                "REW_rewrite": [
+                    "Can you tell me which cars can go over 300 mph?",
+                    "Are there any cars that can exceed 300 mph?",
+                    "Are there any cars that can exceed 300 mph?",
+                    "Are there any cars that can go over 300 mph?",
+                    "Which cars have a top speed of over 300 mph?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-o"
+            },
+            {
+                "turn_id": 6,
+                "question": "What is the origin of funny cars? Why do they call them that?",
+                "response": "Hot Rod News Comparing Vintage and Modern Funny Cars Written by Brandan Gillogly on February 13, 2016Elana Scherr - writer; Wes Allison - photographer;View All 78 Photos The first Funny Cars showed up in the mid 1960s, how have they changed in the last half century? Race cars develop in fits and spurts. Only rarely can an innovation be traced back to one specific person, although often it\u2019s whoever first won with a new idea that gets credit for it. The modern Funny Car, that nitro-burning, carbon fiber shell set a-trembling over a front engine tube chassis has its roots in the A/FX classes running in 1964 and 1965. Jack Chrisman\u2019s nitro-burning Comet in 1964 showed the crowd-pleasing abilities of a Top Fuel dragster in a dealer showroom suit. The name is rumored to have come from the altered wheelbase bodies that followed in 1965. They looked \u201cfunny.\u201d The first flip-top car bodies over dragster chassis showed up in 1966, and that seems to be where the NHRA is marking its 50th anniversary date for the birth of the Funny Car.",
+                "manual_rewrite": "What is the origin of funny cars? Why do they call them funny cars?",
+                "REW_rewrite": [
+                    "Can you tell me the origin of funny cars and why they are called that?",
+                    "What is the origin of funny cars and how did they get their name?",
+                    "What is the history of funny cars and why are they called funny cars?",
+                    "What is the origin of funny cars and why are they called that?",
+                    "Can you tell me about the origin of funny cars and how they got their name?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 7,
+                "question": "How fast did it go?",
+                "response": "The upgraded system also improved the maximum torque from and improves the Roadster's quarter mile times. Section::::Specifications.:Transmission.:Gear selector. In the interior the gear selector is similar to a push-button automatic with buttons labeled P, R, N and D while some earlier models have a gear lever similar to that in cars with manual transmission. Section::::Specifications.:Performance. The Roadster's acceleration time is 3.9 seconds for the Standard model and 3.7 seconds for the 2010 V2.5 Sport, which \"Motor Trend\" confirmed in the first independent, instrumented testing the Sport. The magazine also recorded a time of 12.6 seconds at . Tesla said the top speed is electronically limited to . Tesla claims it has a weight of , a and a . Tesla began delivering the higher performance version of the Roadster in July 2009. The Roadster Sport has adjustable dampers and a new hand-wound motor, capable of in 3.7 seconds. Scotty Pollacheck, a high-performance driver for Killacycle, drove a 2010 Tesla Roadster Sport at the Wayland Invitational Drag Race in Portland, Oregon, in July 2009.",
+                "manual_rewrite": "How fast did the first funny car go?",
+                "REW_rewrite": [
+                    "What was the top speed of the Hennessey Venom GT?",
+                    "What was the speed of the Hennessey Venom GT?",
+                    "What was the top speed of the Hennessey Venom GT?",
+                    "What was the top speed of the Hennessey Venom GT?",
+                    "What was the speed achieved by the Hennessey Venom GT?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "bad-c"
+            },
+            {
+                "turn_id": 8,
+                "question": "No, I meant the funny car.  But, that\u2019s interesting. I heard it has a ludicrous mode. How does its quickness compare to the Venom?",
+                "response": "\u201cOver fifty years ago the American-built P51 Mustang fighter aircraft was flown into history powered by a British Rolls-Royce Merlin engine. Today the Hennessey Venom GT promises to set a new standard of power to weight ratio in the rarified air of today\u2019s supercar market.\u201dWith such a light-weight body and astronomical horsepower, the Hennessey Venom GT can sprint from 0 \u2013 60 in just 2.2 seconds with a top speed of 262 mph on a six-speed manual transmission. Compared to the Bugatti Veyron, which has an acceleration speed from 0 \u2013 60 mph in 2.6 seconds with a top speed of 253 mph, the Hennessey Venom GT may be the \u201cVeyron-killer\u201d. To stop this venomous beast, Brembo brakes with 6-piston calipers are added in front and 4-piston calipers in the rear to give enough clamping power on the massive 15-inch carbon ceramic rotors. Hennessey plans on building 10 units of the Venom GT yearly. Four Hennessey Venom GT\u2019s have already been sold at about $600,000 each in this year.",
+                "manual_rewrite": "No, I meant the funny car.  But, that\u2019s interesting. I heard it has ludicrous mode.  How does the Tesla Roadster Sport\u2019s quickness compare to the Hennessey Venom GT?",
+                "REW_rewrite": [
+                    "No, I meant the funny car. Can you tell me how fast a funny car can go and how it compares to the Hennessey Venom? Also, I heard the Roadster has a ludicrous mode. Can you tell me more about that and how it affects the car's quickness?",
+                    "No, I meant the funny car. How does the acceleration of a funny car compare to the Hennessey Venom GT? Also, I heard the Tesla Roadster has a ludicrous mode. Can you tell me more about it and how it compares to the Venom?",
+                    "No, I meant the funny car. Can you tell me how its quickness compares to the Hennessey Venom GT? Also, I heard the Tesla Roadster has a ludicrous mode. Can you tell me more about it?",
+                    "No, I was asking about the funny car and also heard that it has a ludicrous mode. How does the acceleration of the funny car compare to the Hennessey Venom GT?",
+                    "No, I meant the funny car. Can you tell me how fast the funny car can go and how it compares to the Venom in terms of quickness? Also, I heard the Roadster has a ludicrous mode. Can you tell me more about it?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            },
+            {
+                "turn_id": 9,
+                "question": "It sounds like the Tesla is very competitive.  What makes its engine unique compared with gas ones?",
+                "response": "\"Tesla Roadster Motor and Other Features Prev NEXTThe Roadster motor. Image \u00a9 2006 Tesla Motors, Inc. All rights reserved. The Roadster has just three gears. Image \u00a9 2006 Tesla Motors, Inc. All rights reserved. The Roaster cockpit. Image \u00a9 2006 Tesla Motors, Inc. All rights reserved. The heart of the Tesla Roadster is its 3-phase, 4-pole electric induction motor, which weighs just 70 pounds. Tesla's claims and independent testing show that the Roadster can reach 60 mph in about four seconds and its speed will top out somewhere around 130 mph. But the Roadster's performance isn't just about speed and acceleration. The unique properties of an electric motor give it a huge advantage over a combustion engine in terms of torque, force that tends to rotate or turn things, and power band, the range of operating speeds under which the engine operates efficiently. The Roadster can generate large amounts of torque even at very low RPM, and the motor can always turn out major horsepower. It can reach over 13,000 RPM, something very few large combustion engines can do.\u201d",
+                "manual_rewrite": "It sounds like the Tesla is very competitive.  What makes its electric engine unique compared with gas ones?",
+                "REW_rewrite": [
+                    "What makes the Tesla's engine unique compared to traditional gas engines?",
+                    "What makes the Tesla Roadster's engine unique compared to gas engines?",
+                    "What is unique about the Tesla Roadster's engine compared to gas engines?",
+                    "Can you tell me more about the engine of the Tesla Roadster and how it compares to traditional gasoline engines?",
+                    "What makes the engine of Tesla Roadster unique compared to gas engines?"
+                ],
+                "manual_ndcg3": 0.0,
+                "REW_ndcg3": 0.0,
+                "ndcg3: manual_is_better": false,
+                "ndcg3: REW_is_better": false,
+                "ndcg3: tie": true,
+                "human_evaluation": "good-a"
+            }
+        ]
+    }
+]
